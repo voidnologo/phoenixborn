@@ -30,6 +30,12 @@ It's written for players who know **how to play** — dice, the turn structure, 
 
     [:octicons-arrow-right-24: Learn to build](deckbuilding.md)
 
+- :material-sword-cross: __How to Play Well__
+
+    Beyond the rules: tempo, dice and card economy, blocking, mulligans, and how to beat each archetype.
+
+    [:octicons-arrow-right-24: Sharpen your play](play.md)
+
 - :material-grid: __Sharing the Collection__
 
     How to tell which decks can be built together from one collection, and the handful of shared staples to watch.

@@ -61,15 +61,15 @@ Every card and every die belongs to a magic type. Each type has a distinct "die 
 
 | Type | Die power (the free tool it gives you) | What it's good at | Signature cards |
 |---|---|---|---|
-| 🟥 **Ceremonial** | Return an ally from your discard pile | Recursion, sacrifice loops, relentless aggression and burn | Final Cry, Fester, Summon Sleeping Widows, Fire Archer |
-| 🟪 **Charm** | Reduce an enemy unit's attack | Neutralizing attackers, tempo, focused combo pieces | Golden Veil, Hypnotize, Summon Three-Eyed Owl, Beast Tamer |
-| 🟦 **Illusion** | Downgrade two of the opponent's dice | Disruption, denial, reaction spells, enabling swarms | Gates Thrown Open, Particle Shield, Summon Shadow Spirit, To Shadows |
-| 🟩 **Natural** | Deal 1 damage to a unit | Efficient removal and solid, aggressively-priced bodies | Molten Gold, Nature's Wrath, Ice Trap, Summon Frostback Bear |
-| 🟨 **Divine** | Increase a friendly unit's attack | Big board presence, buffs, effects that dictate play | Meteor, Summon Light Bringer, Heal, Sword of Virtue |
-| 🟧 **Sympathy** | Draw a card | Flexibility, card advantage, adaptable tactics | Crescendo, Sympathy Pain, Summon Salamander Monk, Magic Syphon |
-| 🟫 **Time** | Manipulate status tokens (add / move / spend) | Bending the action economy, exhaustion control, efficient removal | Summon Time Hopper, Accelerate, Chaos Gravity, To Shadows |
+| <img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> **Ceremonial** | Return an ally from your discard pile | Recursion, sacrifice loops, relentless aggression and burn | Final Cry, Fester, Summon Sleeping Widows, Fire Archer |
+| <img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> **Charm** | Reduce an enemy unit's attack | Neutralizing attackers, tempo, focused combo pieces | Golden Veil, Hypnotize, Summon Three-Eyed Owl, Beast Tamer |
+| <img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> **Illusion** | Downgrade two of the opponent's dice | Disruption, denial, reaction spells, enabling swarms | Gates Thrown Open, Particle Shield, Summon Shadow Spirit, To Shadows |
+| <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> **Natural** | Deal 1 damage to a unit | Efficient removal and solid, aggressively-priced bodies | Molten Gold, Nature's Wrath, Ice Trap, Summon Frostback Bear |
+| <img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> **Divine** | Increase a friendly unit's attack | Big board presence, buffs, effects that dictate play | Meteor, Summon Light Bringer, Heal, Sword of Virtue |
+| <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> **Sympathy** | Draw a card | Flexibility, card advantage, adaptable tactics | Crescendo, Sympathy Pain, Summon Salamander Monk, Magic Syphon |
+| <img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> **Time** | Manipulate status tokens (add / move / spend) | Bending the action economy, exhaustion control, efficient removal | Summon Time Hopper, Accelerate, Chaos Gravity, To Shadows |
 
-*(The colored squares above are a reading aid for this guide, not the exact printed die colors. Ascendancy adds two more types — **Astral** and **Artifice** — used by Arren Frostpeak and Issa Brightmore; they are their own ecosystem and are not used by the seven decks here.)*
+*(Those are the game's actual dice symbols, in their real colors. Ascendancy adds two more types — **Astral** and **Artifice** — used by Arren Frostpeak and Issa Brightmore; they are their own ecosystem and are not used by the seven decks here.)*
 
 A quick way to internalize the personalities: **Natural** is the honest, brutal foundation — great removal, great creatures, no tricks needed. **Ceremonial** is mean and recursive and closes games fast. **Illusion** wins by denying the opponent rather than building a board. **Divine** overwhelms with sheer size and forces the table to react. **Charm** asks a lot of the pilot but breaks games open. **Sympathy** keeps your hand full so you always have an answer. **Time** rewrites the normal flow of turns.
 
@@ -144,7 +144,7 @@ These seven decks were chosen to give each of the seven magic types a home, whic
 **Phoenixborn:** Brennen Blackcloud — Battlefield **5** / Life **16** / Spellboard **3**
 **Ability — Spirit Burn** `[main]–[exhaust]–1 Ceremonial`: Destroy an ally you control to deal **2 damage to a target Phoenixborn**.
 
-**Dice (10):** **7 Ceremonial · 3 Natural** — Ceremonial is the whole engine; three Natural dice pay for Molten Gold, the only off-color card.
+**Dice (10):** **<img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 7 Ceremonial · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 3 Natural** — Ceremonial is the whole engine; three Natural dice pay for Molten Gold, the only off-color card.
 
 | # | Card | Type | Cost | Source (Phoenixborn box) |
 |---|------|------|------|--------------------------|
@@ -181,7 +181,7 @@ These seven decks were chosen to give each of the seven magic types a home, whic
 **Phoenixborn:** Maeoni Viper — Battlefield **4** / Life **20** / Spellboard **5**
 **Ability — Command Strike** `[side]–[exhaust]–2 basic`: Choose an unexhausted unit you control; deal damage to a **target unit** equal to that unit's attack value.
 
-**Dice (10):** **5 Charm · 5 Natural** — Charm powers Hypnotize, the Owl, and Golden Veil; Natural funds the whole Frostdale package and the Silver Snake's power die. Any of these dice cover Command Strike's two basic.
+**Dice (10):** **<img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> 5 Charm · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 5 Natural** — Charm powers Hypnotize, the Owl, and Golden Veil; Natural funds the whole Frostdale package and the Silver Snake's power die. Any of these dice cover Command Strike's two basic.
 
 | # | Card | Type | Cost | Source (Phoenixborn box) |
 |---|------|------|------|--------------------------|
@@ -218,7 +218,7 @@ These seven decks were chosen to give each of the seven magic types a home, whic
 **Phoenixborn:** Coal Roarkwin — Battlefield **6** / Life **15** / Spellboard **4**
 **Ability — Slash** `[side]–discard 1 card`: Choose a player; deal **1 damage to a target unit** they control (or 1 to their Phoenixborn if they control no units).
 
-**Dice (10):** **6 Illusion · 2 Natural · 2 Ceremonial** — Illusion is the core; Natural pays for Mist Typhoon and Raptor Herder; Ceremonial powers Chant of Revenge.
+**Dice (10):** **<img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> 6 Illusion · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 2 Natural · <img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 2 Ceremonial** — Illusion is the core; Natural pays for Mist Typhoon and Raptor Herder; Ceremonial powers Chant of Revenge.
 
 | # | Card | Type | Cost | Source (Phoenixborn box) |
 |---|------|------|------|--------------------------|
@@ -254,7 +254,7 @@ These seven decks were chosen to give each of the seven magic types a home, whic
 **Phoenixborn:** Odette Diamondcrest — Battlefield **5** / Life **18** / Spellboard **3**
 **Ability — Enter the Fray** `[main]–[exhaust]`: Deal **2 damage to a target unit**; then deal damage to **this Phoenixborn** equal to that unit's attack value.
 
-**Dice (10):** **6 Divine · 4 Natural** — Divine for the Law of Lions core and Meteor; Natural for the Hydra, Massive Growth, Pain Shaman, and Nature's Wrath.
+**Dice (10):** **<img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> 6 Divine · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 4 Natural** — Divine for the Law of Lions core and Meteor; Natural for the Hydra, Massive Growth, Pain Shaman, and Nature's Wrath.
 
 | # | Card | Type | Cost | Source (Phoenixborn box) |
 |---|------|------|------|--------------------------|
@@ -292,7 +292,7 @@ These seven decks were chosen to give each of the seven magic types a home, whic
 **Phoenixborn:** Namine Hymntide — Battlefield **6** / Life **17** / Spellboard **4**
 **Ability — Calming Melody** `[side]–[exhaust]–1 Sympathy`: Draw 1 card; you may place 1 exhaustion token on this ability and 1 on a **target Phoenixborn**.
 
-**Dice (10):** **10 Sympathy** — Namine's entire box runs on Sympathy, and Sympathy dice cover every basic cost in the deck, so a mono-color pool is the most reliable build.
+**Dice (10):** **<img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 10 Sympathy** — Namine's entire box runs on Sympathy, and Sympathy dice cover every basic cost in the deck, so a mono-color pool is the most reliable build.
 
 | # | Card | Type | Cost | Source (Phoenixborn box) |
 |---|------|------|------|--------------------------|
@@ -328,7 +328,7 @@ These seven decks were chosen to give each of the seven magic types a home, whic
 **Phoenixborn:** Echo Greystorm — Battlefield **6** / Life **19** / Spellboard **3**
 **Ability — Gravity Flux** `[side]–[exhaust]`: Place 1 exhaustion token on a target unit; at the end of this turn, remove that same exhaustion token.
 
-**Dice (10):** **3 Divine · 3 Sympathy · 2 Illusion · 2 Time** — the Masters of Gravity cards are Divine/Sympathy; the Illusion and Time dice pay for the Realm Walker splash that supercharges the exhaustion engine.
+**Dice (10):** **<img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> 3 Divine · <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 3 Sympathy · <img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> 2 Illusion · <img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> 2 Time** — the Masters of Gravity cards are Divine/Sympathy; the Illusion and Time dice pay for the Realm Walker splash that supercharges the exhaustion engine.
 
 | # | Card | Type | Cost | Source (Phoenixborn box) |
 |---|------|------|------|--------------------------|
@@ -364,7 +364,7 @@ These seven decks were chosen to give each of the seven magic types a home, whic
 **Phoenixborn:** Koji Wolfcub — Battlefield **10** / Life **16** / Spellboard **3**
 **Ability — Accelerate Growth** `[side]–[exhaust]`: Place 1 status token on a target card.
 
-**Dice (10):** **5 Natural · 5 Sympathy** — nearly every card in the box wants one of each, so a clean 5/5 split powers the whole swarm.
+**Dice (10):** **<img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 5 Natural · <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 5 Sympathy** — nearly every card in the box wants one of each, so a clean 5/5 split powers the whole swarm.
 
 | # | Card | Type | Cost | Source (Phoenixborn box) |
 |---|------|------|------|--------------------------|

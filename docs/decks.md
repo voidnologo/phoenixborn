@@ -3,9 +3,21 @@
 These are community-built and tournament-proven decks that **mix cards from across the whole collection** — the opposite of a single-box prebuilt. Each one leans on cards from many different Phoenixborn expansions to build an engine, so they're the ideal way to start deep-diving into constructed Ashes. Every deck here has been checked to be **buildable from your collection** (nothing from The Scholar of Ruin, The Ocean's Guard, The Messenger of Peace, or the Red Rains sets).
 
 !!! info "How to use this page"
-    - Each deck shows its **dice**, the number of **expansions it spans**, its **engine / why it's fun**, and a few **signature cards**.
+    - Each deck shows its **dice**, the number of **expansions it spans**, its **engine / why it's fun**, a **suggested opening**, and a few **signature cards**.
     - The **“View on ashes.live”** button opens the exact, always-current decklist — where you can see every card, read full text, and **clone it to play online on [ashteki](https://ashteki.com)**.
-    - Unlike the printable [seven-deck game-night set](https://voidnologo.com/phoenixborn/), these decks intentionally share format-defining staples (Nature's Wrath, Raptor Herder, and friends), so you build **a few at a time** rather than all at once — see [Sharing the Collection](matrix.md).
+    - Unlike the printable [seven-deck game-night set](https://voidnologo.com/phoenixborn/), these decks intentionally share format-defining staples, so you build **a few at a time** — see [Sharing the Collection](matrix.md).
+
+**Dice key:**
+
+<div class="dice-legend" markdown>
+<span>![Ceremonial](assets/dice/ceremonial.png){.die} Ceremonial</span>
+<span>![Charm](assets/dice/charm.png){.die} Charm</span>
+<span>![Illusion](assets/dice/illusion.png){.die} Illusion</span>
+<span>![Natural](assets/dice/natural.png){.die} Natural</span>
+<span>![Divine](assets/dice/divine.png){.die} Divine</span>
+<span>![Sympathy](assets/dice/sympathy.png){.die} Sympathy</span>
+<span>![Time](assets/dice/time.png){.die} Time</span>
+</div>
 
 ---
 
@@ -15,9 +27,11 @@ These are community-built and tournament-proven decks that **mix cards from acro
 
 <div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/james-endersight.jpg" alt="James Endersight" loading="lazy"></div>
 
-**Dice:** 2 Ceremonial · 1 Charm · 1 Illusion · 2 Natural · 1 Divine · 2 Sympathy · 1 Time
+**Dice:** ![Ceremonial](assets/dice/ceremonial.png){.die} 2 · ![Charm](assets/dice/charm.png){.die} 1 · ![Illusion](assets/dice/illusion.png){.die} 1 · ![Natural](assets/dice/natural.png){.die} 2 · ![Divine](assets/dice/divine.png){.die} 1 · ![Sympathy](assets/dice/sympathy.png){.die} 2 · ![Time](assets/dice/time.png){.die} 1
 
-The ultimate "let's see cards from all over the collection" deck: **30 different singletons drawn from 14 expansions**, one of nearly every die type. James's ability lets you pay life to fetch any card from your deck, which makes a highlander genuinely consistent — you dig for exactly the answer the moment demands. It's a glorious toolbox and the single best deck to show a new group just how wide Ashes can get.
+The ultimate "let's see cards from all over the collection" deck: **30 different singletons drawn from 14 expansions**, one of nearly every die type. James's ability lets you pay life to fetch any card from your deck, which makes a highlander genuinely consistent — you dig for exactly the answer the moment demands. It's a glorious toolbox and the best deck to show a new group just how wide Ashes can get.
+
+**Suggested opening:** Summon Cerasaurus Mount · Raptor Herder · Fester · Root Armor · Sympathy Pain — a body and interaction; then let James's fetch find the rest. *Mulligan a hand with no early unit or no way to interact.*
 
 <div class="gallery">
 <figure><img src="https://cdn.ashes.live/images/cards/raptor-herder.jpg" loading="lazy"><figcaption>Raptor Herder</figcaption></figure>
@@ -31,13 +45,15 @@ The ultimate "let's see cards from all over the collection" deck: **30 different
 
 ## Echo Greystorm — "Ashcon 2021 — Pod A, 1st Place"
 
-<div class="chips"><span class="chip">Charm / Natural / Divine / Sympathy</span><span class="chip">10 expansions</span><span class="chip">Control · Tournament winner</span></div>
+<div class="chips"><span class="chip">10 expansions</span><span class="chip">Control</span><span class="chip">Tournament winner</span></div>
 
 <div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/echo-greystorm.jpg" alt="Echo Greystorm" loading="lazy"></div>
 
-**Dice:** 2 Charm · 3 Natural · 3 Divine · 2 Sympathy
+**Dice:** ![Charm](assets/dice/charm.png){.die} 2 · ![Natural](assets/dice/natural.png){.die} 3 · ![Divine](assets/dice/divine.png){.die} 3 · ![Sympathy](assets/dice/sympathy.png){.die} 2
 
 A rainbow control deck and the most cross-set list the research turned up. Echo's **Chaos Gravity** repositions and exhausts units to line up **Meteor** and **Nature's Wrath** burn, while a **Majestic Titan** and **Frostback Bear** anchor the board and **Shared Sorrow + Sympathy Pain** punish the opponent's units. The four-die spread lets it splash the best card from nearly every owned set into one shell.
+
+**Suggested opening:** Summon Majestic Titan · Chaos Gravity · Sonic Swordsman · Meteor · Nature's Wrath — land a threat, set up exhaustion, keep removal live. *Mulligan hands with no early body to protect.*
 
 <div class="gallery">
 <figure><img src="https://cdn.ashes.live/images/cards/chaos-gravity.jpg" loading="lazy"><figcaption>Chaos Gravity</figcaption></figure>
@@ -51,13 +67,15 @@ A rainbow control deck and the most cross-set list the research turned up. Echo'
 
 ## Fiona Mercywind — "Seance"
 
-<div class="chips"><span class="chip">Illusion / Divine / Sympathy / Time</span><span class="chip">12 expansions</span><span class="chip">Conjuration toolbox</span></div>
+<div class="chips"><span class="chip">12 expansions</span><span class="chip">Conjuration toolbox</span><span class="chip">Value / recursion</span></div>
 
 <div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/fiona-mercywind.jpg" alt="Fiona Mercywind" loading="lazy"></div>
 
-**Dice:** 3 Illusion · 3 Divine · 3 Sympathy · 1 Time
+**Dice:** ![Illusion](assets/dice/illusion.png){.die} 3 · ![Divine](assets/dice/divine.png){.die} 3 · ![Sympathy](assets/dice/sympathy.png){.die} 3 · ![Time](assets/dice/time.png){.die} 1
 
 The widest-mixing deck in the whole library — a "one of everything" summon toolbox that pulls conjurations from **eight different sets**, held together by **Gates Thrown Open** to recur spent summons and **Shepherd of Lost Souls** to reanimate. Fiona's spellboard flexibility means you answer any matchup by fetching the right single-copy creature, while Polarity Mage and Mind Maze grind the board. Deckbuilding as a scavenger hunt.
+
+**Suggested opening:** Gates Thrown Open · Summon Mist Spirit · Summon Shadow Spirit · Shepherd of Lost Souls · Mind Maze — bodies down and a recursion engine online. *Mulligan hands with no summons.*
 
 <div class="gallery">
 <figure><img src="https://cdn.ashes.live/images/cards/gates-thrown-open.jpg" loading="lazy"><figcaption>Gates Thrown Open</figcaption></figure>
@@ -71,13 +89,15 @@ The widest-mixing deck in the whole library — a "one of everything" summon too
 
 ## Jessa Na Ni — "Death by a Thousand Screams"
 
-<div class="chips"><span class="chip">Charm / Natural / Divine</span><span class="chip">8 expansions</span><span class="chip">Removal control · AIL champion</span></div>
+<div class="chips"><span class="chip">8 expansions</span><span class="chip">Removal control</span><span class="chip">AIL champion</span></div>
 
 <div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/jessa-na-ni.jpg" alt="Jessa Na Ni" loading="lazy"></div>
 
-**Dice:** 2 Charm · 4 Natural · 4 Divine
+**Dice:** ![Charm](assets/dice/charm.png){.die} 2 · ![Natural](assets/dice/natural.png){.die} 4 · ![Divine](assets/dice/divine.png){.die} 4
 
-A layered removal pile that stitches four sets' worth of kill spells — **Fear, Nature's Wrath, Meteor, Seeds of Aggression** — behind a Divine sustain shell (Heal, Holy Knight, Summon Light Bringer). **Fear** is the engine: sacrifice your own unit to destroy theirs, healing Jessa and dodging on-death triggers, while Law of Fear taxes their board. Grind them out one scream at a time. A championship-winning list.
+A layered removal pile that stitches four sets' worth of kill spells — **Fear, Nature's Wrath, Meteor, Seeds of Aggression** — behind a Divine sustain shell (Heal, Holy Knight, Summon Light Bringer). **Fear** is the engine: sacrifice your own unit to destroy theirs, healing Jessa and dodging on-death triggers, while Law of Fear taxes their board. Grind them out one scream at a time.
+
+**Suggested opening:** Summon Light Bringer · Fear · Nature's Wrath · Heal · Holy Knight — removal plus sustain from turn one. *Mulligan hands with no removal.*
 
 <div class="gallery">
 <figure><img src="https://cdn.ashes.live/images/cards/fear.jpg" loading="lazy"><figcaption>Fear</figcaption></figure>
@@ -91,13 +111,15 @@ A layered removal pile that stitches four sets' worth of kill spells — **Fear,
 
 ## Harold Westraven — "Angry Druid Mill"
 
-<div class="chips"><span class="chip">Charm / Natural / Divine / Sympathy</span><span class="chip">10 expansions</span><span class="chip">Mill · AIL finalist</span></div>
+<div class="chips"><span class="chip">10 expansions</span><span class="chip">Mill</span><span class="chip">AIL finalist</span></div>
 
 <div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/harold-westraven.jpg" alt="Harold Westraven" loading="lazy"></div>
 
-**Dice:** 1 Charm · 2 Natural · 2 Divine · 5 Sympathy
+**Dice:** ![Charm](assets/dice/charm.png){.die} 1 · ![Natural](assets/dice/natural.png){.die} 2 · ![Divine](assets/dice/divine.png){.die} 2 · ![Sympathy](assets/dice/sympathy.png){.die} 5
 
 A rare **win-by-mill** deck — you don't kill the Phoenixborn, you burn their deck away. **Magic Syphon** grinds down their draw pile while **Shepherd of Lost Souls** and **Essence Druid** recur spells and allies to keep syphoning, and Harold's dice-fixing power keeps the sympathy engine humming. Consume Soul stalls the board while the clock runs out on the opponent's library. A completely different way to win.
+
+**Suggested opening:** Magic Syphon · Magic Syphon · Essence Druid · Consume Soul · Shepherd of Lost Souls — start the mill and a recur loop; you're grinding, not racing. *Mulligan hands with no Magic Syphon.*
 
 <div class="gallery">
 <figure><img src="https://cdn.ashes.live/images/cards/magic-syphon.jpg" loading="lazy"><figcaption>Magic Syphon</figcaption></figure>
@@ -111,13 +133,15 @@ A rare **win-by-mill** deck — you don't kill the Phoenixborn, you burn their d
 
 ## Astrea — "Daggers in the Knight" (Beguile)
 
-<div class="chips"><span class="chip">Illusion / Natural / Divine</span><span class="chip">11 expansions</span><span class="chip">Mind-control tempo</span></div>
+<div class="chips"><span class="chip">11 expansions</span><span class="chip">Mind-control tempo</span></div>
 
 <div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/astrea.jpg" alt="Astrea" loading="lazy"></div>
 
-**Dice:** 3 Illusion · 4 Natural · 3 Divine
+**Dice:** ![Illusion](assets/dice/illusion.png){.die} 3 · ![Natural](assets/dice/natural.png){.die} 4 · ![Divine](assets/dice/divine.png){.die} 3
 
 Built around Astrea's **Beguile** — take control of an enemy unit. **Fox Spirit** and **False Demon** give her cheap fodder to Beguile-and-sacrifice, **Dark Presence** makes your big hitters (Celestial Knight, Frost Fang, Archasaurus) unblockable, and Mark of the Goddess plus heals offset her small battlefield. Turning the opponent's own board against them never stops being satisfying.
+
+**Suggested opening:** Summon Fox Spirit · Dark Presence · Mark of the Goddess · Celestial Knight · To Shadows — cheap fodder for Beguile plus an unblockable beater. *Mulligan hands with no cheap units.*
 
 <div class="gallery">
 <figure><img src="https://cdn.ashes.live/images/cards/mark-of-the-goddess.jpg" loading="lazy"><figcaption>Mark of the Goddess</figcaption></figure>
@@ -131,13 +155,15 @@ Built around Astrea's **Beguile** — take control of an enemy unit. **Fox Spiri
 
 ## Rin Northfell — "Giant Killer, Man-Eating Beasts"
 
-<div class="chips"><span class="chip">Charm / Natural / Divine / Sympathy</span><span class="chip">9 expansions</span><span class="chip">Big-creature beatdown</span></div>
+<div class="chips"><span class="chip">9 expansions</span><span class="chip">Big-creature beatdown</span><span class="chip">Beginner-friendly</span></div>
 
 <div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/rin-northfell.jpg" alt="Rin Northfell" loading="lazy"></div>
 
-**Dice:** 2 Charm · 4 Natural · 2 Divine · 2 Sympathy
+**Dice:** ![Charm](assets/dice/charm.png){.die} 2 · ![Natural](assets/dice/natural.png){.die} 4 · ![Divine](assets/dice/divine.png){.die} 2 · ![Sympathy](assets/dice/sympathy.png){.die} 2
 
 Pure big-monster beatdown, and the easiest deck here to pilot. **Rin's Fury** pumps a beast mid-combat, **Massive Growth** and **Power Through** stack on top, and a fat curve of Frostback Bear, Cerasaurus and Archasaurus Mounts crashes in. Ice Trap and Mind Fog Owl buy the tempo you need while your monsters get out of hand. Thematic and immediately fun.
+
+**Suggested opening:** Summon Frostback Bear · Rin's Fury · Massive Growth · Ice Trap · Summon Mind Fog Owl — a fat body, a combat trick, and tempo control. *Mulligan hands with no early creature.*
 
 <div class="gallery">
 <figure><img src="https://cdn.ashes.live/images/cards/rins-fury.jpg" loading="lazy"><figcaption>Rin's Fury</figcaption></figure>
@@ -151,13 +177,15 @@ Pure big-monster beatdown, and the easiest deck here to pilot. **Rin's Fury** pu
 
 ## Namine Hymntide — "Stallion Stampede"
 
-<div class="chips"><span class="chip">Charm / Illusion / Sympathy / Time</span><span class="chip">8 expansions</span><span class="chip">Tempo swarm</span></div>
+<div class="chips"><span class="chip">8 expansions</span><span class="chip">Tempo swarm</span></div>
 
 <div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/namine-hymntide.jpg" alt="Namine Hymntide" loading="lazy"></div>
 
-**Dice:** 3 Charm · 2 Illusion · 4 Sympathy · 1 Time
+**Dice:** ![Charm](assets/dice/charm.png){.die} 3 · ![Illusion](assets/dice/illusion.png){.die} 2 · ![Sympathy](assets/dice/sympathy.png){.die} 4 · ![Time](assets/dice/time.png){.die} 1
 
 A four-color tempo-swarm that pairs Namine's own **Squall Stallion** and **Orchid Dove** token engines with cross-set accelerants. **Accelerate + Gates Thrown Open + Abundance** let you dump multiple summons and Encore-recur allies in a single turn, while To Shadows and Golden Veil protect the board. A far cry from her single-box precon — this is what Namine looks like when she raids six other sets.
+
+**Suggested opening:** Summon Orchid Dove · Summon Squall Stallion · Abundance · Encore · River Skald — tokens, recursion, and a removal body. *Mulligan hands that can't put a unit down early.*
 
 <div class="gallery">
 <figure><img src="https://cdn.ashes.live/images/cards/summon-squall-stallion.jpg" loading="lazy"><figcaption>Summon Squall Stallion</figcaption></figure>
@@ -171,13 +199,15 @@ A four-color tempo-swarm that pairs Namine's own **Squall Stallion** and **Orchi
 
 ## Koji Wolfcub — "Koji the Euro Game" (1st Place, Games Day)
 
-<div class="chips"><span class="chip">Charm / Natural / Sympathy</span><span class="chip">6 expansions</span><span class="chip">Swarm-control · Tournament winner</span></div>
+<div class="chips"><span class="chip">6 expansions</span><span class="chip">Swarm-control</span><span class="chip">Tournament winner</span></div>
 
 <div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/koji-wolfcub.jpg" alt="Koji Wolfcub" loading="lazy"></div>
 
-**Dice:** 2 Charm · 4 Natural · 4 Sympathy
+**Dice:** ![Charm](assets/dice/charm.png){.die} 2 · ![Natural](assets/dice/natural.png){.die} 4 · ![Sympathy](assets/dice/sympathy.png){.die} 4
 
 A tournament-winning swarm-control hybrid. **Indiglow Creeper** spits out Brilliant Thorn and Luminous Seedling tokens for a wide board, then **Guilt Link + Seeds of Aggression** force the opponent into disadvantageous attacks that you punish with Crescendo, Redirect, and Nature's Wrath. It weds Koji's token engine to Namine's Guilt Link tech and Xander's dino beaters — three sets working as one combo.
+
+**Suggested opening:** Summon Indiglow Creeper · Guilt Link · Raptor Herder · Seeds of Aggression · Nature's Wrath — start the token engine and set up punishing attacks. *Mulligan hands with no Indiglow Creeper.*
 
 <div class="gallery">
 <figure><img src="https://cdn.ashes.live/images/cards/summon-indiglow-creeper.jpg" loading="lazy"><figcaption>Summon Indiglow Creeper</figcaption></figure>
@@ -191,13 +221,15 @@ A tournament-winning swarm-control hybrid. **Indiglow Creeper** spits out Brilli
 
 ## Hope Everthorn — "Out For Blood"
 
-<div class="chips"><span class="chip">Ceremonial / Divine / Sympathy</span><span class="chip">11 expansions</span><span class="chip">Lifedrain aggro · ShuffleBus Top 8</span></div>
+<div class="chips"><span class="chip">11 expansions</span><span class="chip">Lifedrain aggro</span><span class="chip">ShuffleBus Top 8</span></div>
 
 <div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/hope-everthorn.jpg" alt="Hope Everthorn" loading="lazy"></div>
 
-**Dice:** 4 Ceremonial · 2 Divine · 4 Sympathy
+**Dice:** ![Ceremonial](assets/dice/ceremonial.png){.die} 4 · ![Divine](assets/dice/divine.png){.die} 2 · ![Sympathy](assets/dice/sympathy.png){.die} 4
 
 Hope's card-advantage engine bankrolls a wide Sympathy board plus a reaction-spell burn package — **Void Pulse, Sympathy Pain, and Final Cry** deliver reach the opponent can't block. Vampire lifedrain (Master Vampire + Vampire Bat Swarm) offsets the aggression while Blood Chains, Choke, and Fire Archer clear blockers. Tournament-proven aggressive value with a bloodthirsty streak.
+
+**Suggested opening:** Summon Sleeping Widows · Fire Archer · Blood Chains · Void Pulse · Master Vampire — early bodies, removal, and reach. *Mulligan slow hands with no turn-one play.*
 
 <div class="gallery">
 <figure><img src="https://cdn.ashes.live/images/cards/void-pulse.jpg" loading="lazy"><figcaption>Void Pulse</figcaption></figure>

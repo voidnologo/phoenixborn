@@ -75,5 +75,28 @@
 /* Make the build-matrix table read like a grid */
 .md-typeset table td:has(> :only-child) { text-align: center; }
 
-/* Center the small dice-color key squares */
-.dicekey { font-size: 1.1rem; }
+/* Inline dice symbol icons (the real Ashes dice tags) */
+img.die {
+  height: 1.25em;
+  width: auto;
+  vertical-align: -0.28em;
+  margin: 0 0.06em;
+  border-radius: 3px;
+}
+.dice-line { font-weight: 600; }
+.dice-line img.die { height: 1.4em; vertical-align: -0.32em; }
+
+/* Dice color legend row */
+.dice-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+  align-items: center;
+  margin: 0.6rem 0 1.2rem;
+  font-size: 0.85rem;
+}
+.dice-legend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}

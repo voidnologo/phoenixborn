@@ -17,16 +17,16 @@ Every card and every die belongs to a magic type. Each type has a distinct "die 
 
 | Type | Die power (the free tool it gives you) | What it's good at | Signature cards |
 |---|---|---|---|
-| 🟥 **Ceremonial** | Return an ally from your discard pile | Recursion, sacrifice loops, relentless aggression and burn | Final Cry, Fester, Summon Sleeping Widows, Fire Archer |
-| 🟪 **Charm** | Reduce an enemy unit's attack | Neutralizing attackers, tempo, focused combo pieces | Golden Veil, Hypnotize, Summon Three-Eyed Owl, Beast Tamer |
-| 🟦 **Illusion** | Downgrade two of the opponent's dice | Disruption, denial, reaction spells, enabling swarms | Gates Thrown Open, Particle Shield, Summon Shadow Spirit, To Shadows |
-| 🟩 **Natural** | Deal 1 damage to a unit | Efficient removal and solid, aggressively-priced bodies | Molten Gold, Nature's Wrath, Ice Trap, Summon Frostback Bear |
-| 🟨 **Divine** | Increase a friendly unit's attack | Big board presence, buffs, effects that dictate play | Meteor, Summon Light Bringer, Heal, Sword of Virtue |
-| 🟧 **Sympathy** | Draw a card | Flexibility, card advantage, adaptable tactics | Crescendo, Sympathy Pain, Summon Salamander Monk, Magic Syphon |
-| 🟫 **Time** | Manipulate status tokens (add / move / spend) | Bending the action economy, exhaustion control, efficient removal | Summon Time Hopper, Accelerate, Chaos Gravity, To Shadows |
+| ![Ceremonial](assets/dice/ceremonial.png){.die title="Ceremonial"} **Ceremonial** | Return an ally from your discard pile | Recursion, sacrifice loops, relentless aggression and burn | Final Cry, Fester, Summon Sleeping Widows, Fire Archer |
+| ![Charm](assets/dice/charm.png){.die title="Charm"} **Charm** | Reduce an enemy unit's attack | Neutralizing attackers, tempo, focused combo pieces | Golden Veil, Hypnotize, Summon Three-Eyed Owl, Beast Tamer |
+| ![Illusion](assets/dice/illusion.png){.die title="Illusion"} **Illusion** | Downgrade two of the opponent's dice | Disruption, denial, reaction spells, enabling swarms | Gates Thrown Open, Particle Shield, Summon Shadow Spirit, To Shadows |
+| ![Natural](assets/dice/natural.png){.die title="Natural"} **Natural** | Deal 1 damage to a unit | Efficient removal and solid, aggressively-priced bodies | Molten Gold, Nature's Wrath, Ice Trap, Summon Frostback Bear |
+| ![Divine](assets/dice/divine.png){.die title="Divine"} **Divine** | Increase a friendly unit's attack | Big board presence, buffs, effects that dictate play | Meteor, Summon Light Bringer, Heal, Sword of Virtue |
+| ![Sympathy](assets/dice/sympathy.png){.die title="Sympathy"} **Sympathy** | Draw a card | Flexibility, card advantage, adaptable tactics | Crescendo, Sympathy Pain, Summon Salamander Monk, Magic Syphon |
+| ![Time](assets/dice/time.png){.die title="Time"} **Time** | Manipulate status tokens (add / move / spend) | Bending the action economy, exhaustion control, efficient removal | Summon Time Hopper, Accelerate, Chaos Gravity, To Shadows |
 
 !!! note "About the colors and the two newest types"
-    The colored squares are a reading aid, not the exact printed die colors. Ascendancy adds two more types — **Astral** and **Artifice**, used by Arren Frostpeak and Issa Brightmore — which are their own ecosystem and aren't used by the seven decks here.
+    Those are the game's **actual dice symbols**, in their real colors — the same icons you'll see on the dice and on [ashes.live](https://ashes.live). Ascendancy adds two more types — **Astral** (bee) and **Artifice** (owl), used by Arren Frostpeak and Issa Brightmore — which are their own ecosystem and aren't used by the decks here.
 
 A quick way to internalize the personalities: **Natural** is the honest, brutal foundation — great removal, great creatures, no tricks needed. **Ceremonial** is mean and recursive and closes games fast. **Illusion** wins by denying the opponent rather than building a board. **Divine** overwhelms with sheer size and forces the table to react. **Charm** asks a lot of the pilot but breaks games open. **Sympathy** keeps your hand full so you always have an answer. **Time** rewrites the normal flow of turns.
 
