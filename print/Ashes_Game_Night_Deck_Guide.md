@@ -230,91 +230,97 @@ These seven decks were chosen to give each of the seven magic types a home, whic
 **Conjurations:** Shining Hydra ×1 (1/4/0, *Regenerate Heads*) · Shining Hydra Head ×3 (attaches +1 attack / +1 recover and grants Terrifying) · Winged Lioness ×2 · Light Bringer ×1.
 **First Five:** Summon Shining Hydra · Shield Mage · Holy Knight · Sword of Virtue · Meteor — deploy the centerpiece behind a defensive wall with instant removal already in hand.
 
-**Game plan.** This is a grindy value deck built on removal density and one oversized threat. Between **Enter the Fray, Sword of Virtue, Meteor, and Nature's Wrath** you can answer almost anything, and because Enter the Fray only hurts you by the *target's* attack, it clears 0-attack conjurations for free. The centerpiece combo is **Shining Hydra + Massive Growth**: the Hydra regenerates and grows heads on its own, and a well-timed Massive Growth turns it into a huge Terrifying attacker that keeps its bonus heads afterward, all shielded by Shield Mage and Holy Knight. Light Bringer's Infatuate forces the opponent to swing into your wall, while Heal and Pain Shaman offset the self-damage from Enter the Fray. **Design note:** Odette has first claim on the King of Titans centerpiece (Shining Hydra, Pain Shaman) and takes two of the three Nature's Wrath plus the single shared Light Bringer; the Sonic Swordsman, Raptor Herder, and Frostback Bear from the original list went to the Echo, Coal, and Maeoni decks, and Odette's own Divine bodies fill those slots.
+**Game plan.** This is a grindy value deck built on removal density and one oversized threat. Between **Enter the Fray, Sword of Virtue, Meteor, and Nature's Wrath** you can answer almost anything, and because Enter the Fray only hurts you by the *target's* attack, it clears 0-attack conjurations for free. The centerpiece combo is **Shining Hydra + Massive Growth**: the Hydra regenerates and grows heads on its own, and a well-timed Massive Growth turns it into a huge Terrifying attacker that keeps its bonus heads afterward, all shielded by Shield Mage and Holy Knight. Light Bringer's Infatuate forces the opponent to swing into your wall, while Heal and Pain Shaman offset the self-damage from Enter the Fray. **Design note:** Odette has first claim on the King of Titans centerpiece (Shining Hydra, Pain Shaman) and takes two of the three Nature's Wrath plus the single shared Light Bringer; the Raptor Herder and Frostback Bear from the original list went to the Coal and Maeoni decks, and Odette's own Divine bodies fill the rest of the slots.
 
 ---
 
-### Deck 5 — Namine Hymntide · "Song of Soaksend"
-*Sympathy Monster-Hunter · Role: tempo/control · Difficulty: ★★☆*
+### Deck 5 — Namine Hymntide · "Harsh Melody"
+*Sympathy punish-tokens · Role: tempo/control · Difficulty: ★★☆*
 
 **Phoenixborn:** Namine Hymntide — Battlefield **6** / Life **17** / Spellboard **4**
 **Ability — Calming Melody** `[side]–[exhaust]–1 Sympathy`: Draw 1 card; you may place 1 exhaustion token on this ability and 1 on a **target Phoenixborn**.
 
-**Dice (10):** **<img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 10 Sympathy** — Namine's entire box runs on Sympathy, and Sympathy dice cover every basic cost in the deck, so a mono-color pool is the most reliable build.
+**Dice (10):** **<img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 8 Sympathy · <img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> 2 Charm** — Sympathy powers the whole box; two Charm dice pay for Sympathy Pain.
 
 | # | Card | Type | Cost | Source (Phoenixborn box) |
 |---|------|------|------|--------------------------|
-| 3 | River Skald | Ally | 2 Sympathy | Namine (Song of Soaksend) |
 | 3 | Flute Mage | Ally | 1 Sympathy + 1 basic | Namine (Song of Soaksend) |
+| 3 | River Skald | Ally | 2 Sympathy | Namine (Song of Soaksend) |
 | 3 | String Mage | Ally | 1 Sympathy (power) + 1 Sympathy | Namine (Song of Soaksend) |
-| 3 | Encore | Action | `[main]` (no dice) | Namine (Song of Soaksend) |
-| 3 | Crescendo | Reaction | 1 Sympathy + discard 1 | Namine (Song of Soaksend) |
-| 3 | Shatter Pulse | Reaction | 2 Sympathy + 1 basic | Namine (Song of Soaksend) |
-| 3 | Guilt Link | Ready | 1 Sympathy | Namine (Song of Soaksend) |
-| 3 | Magic Syphon | Ready | 1 Sympathy | Namine (Song of Soaksend) |
 | 3 | Summon Salamander Monk ✦ | Ready | play `[main]` → 1 Sympathy | Namine (Song of Soaksend) |
-| 3 | Summon Squall Stallion ✦ | Ready | play `[main]` → 1 Sympathy + 1 basic | Namine (Song of Soaksend) |
+| 2 | Summon Squall Stallion ✦ | Ready | play `[main]` → 1 Sympathy + 1 basic | Namine (Song of Soaksend) |
+| 3 | Guilt Link | Ready | 1 Sympathy | Namine (Song of Soaksend) |
+| 1 | Magic Syphon | Ready | 1 Sympathy | Namine (Song of Soaksend) |
+| 3 | Crescendo | Reaction | 1 Sympathy | Namine (Song of Soaksend) |
+| 2 | Shatter Pulse | Reaction | 2 Sympathy + 1 basic | Namine (Song of Soaksend) |
+| 2 | Encore | Action | `[main]` (no dice) | Namine (Song of Soaksend) |
+| 3 | Sympathy Pain | Reaction | 1 Charm + 1 Sympathy | Saria Guideman (Master Set) |
+| 2 | Anguish | Action | 2 basic | Leo (Roaring Rose) |
 
 **Conjurations:** Salamander Monk ×2 · Salamander Monk Spirit ×2 · Squall Stallion ×2.
-**First Five:** River Skald · Summon Salamander Monk · Summon Squall Stallion · Guilt Link · Magic Syphon — a body that doubles as removal, two recurring bodies, and two control levers.
+**First Five:** Summon Salamander Monk · River Skald · String Mage · Flute Mage · Guilt Link — cheap recurring bodies plus a control lever.
 
-**Game plan.** A self-contained tempo-control deck that answers threats while grinding out bodies. You have **four different flavors of removal**: River Skald discards a card to deal that card's cost in damage, Crescendo pings for 3, Shatter Pulse destroys a unit outright after one of yours dies, and Guilt Link forces two units to die together. Salamander Monk comes back as a Spirit when it dies, giving you an endless supply of chumps and attackers, while Squall Stallion grows through Torrent and dodges reaction spells with Lightning Speed. Magic Syphon fixes your dice and, together with Calming Melody, taxes the enemy Phoenixborn with exhaustion so it struggles to act; Encore rebuys your best card every turn. **Design note:** because Namine owns the entire Song of Soaksend box exclusively, none of these cards appears in any other deck — this is the single cleanest deck in the set for the collection.
-
----
-
-### Deck 6 — Echo Greystorm · "Realm Walker"
-*Divine/Sympathy Exhaustion-Control (with a Time/Illusion splash) · Role: control · Difficulty: ★★★*
-
-**Phoenixborn:** Echo Greystorm — Battlefield **6** / Life **19** / Spellboard **3**
-**Ability — Gravity Flux** `[side]–[exhaust]`: Place 1 exhaustion token on a target unit; at the end of this turn, remove that same exhaustion token.
-
-**Dice (10):** **<img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> 3 Divine · <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 3 Sympathy · <img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> 2 Illusion · <img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> 2 Time** — the Masters of Gravity cards are Divine/Sympathy; the Illusion and Time dice pay for the Realm Walker splash that supercharges the exhaustion engine.
-
-| # | Card | Type | Cost | Source (Phoenixborn box) |
-|---|------|------|------|--------------------------|
-| 3 | Polarity Mage | Ally | 1 Sympathy *or* 1 Divine | Echo (Masters of Gravity) |
-| 3 | Light Swordsman | Ally | 1 Divine (power) | Echo (Masters of Gravity) |
-| 3 | Sonic Swordsman | Ally | 1 Divine (power) + 1 Sympathy + 1 basic | Echo (Masters of Gravity) |
-| 3 | Realm Walker | Ally | 1 Illusion (power) + 1 Time + 1 basic | Hope (Artist of Dreams) |
-| 3 | Chaos Gravity | Action | 1 Divine/Sympathy + 1 basic | Echo (Masters of Gravity) |
-| 3 | Enlightenment | Action | 1 Divine + 1 basic | Echo (Masters of Gravity) |
-| 3 | Holy Relics | Alteration | 2 Divine | Echo (Masters of Gravity) |
-| 3 | Gravity Training ✦ | Ready | play `[main]` → 1 Divine/Sympathy | Echo (Masters of Gravity) |
-| 3 | Summon Mirror Spirit ✦ | Ready | play `[main]` → 1 Sympathy + 1 basic | Echo (Masters of Gravity) |
-| 3 | Changing Winds | Ready | 1 Sympathy + 1 basic | Echo (Masters of Gravity) |
-
-**Conjurations:** Mirror Spirit ×3 (attack scales with the opponent's exhaustion) · Enhanced Strength ×3 (the alteration Gravity Training attaches).
-**First Five:** Summon Mirror Spirit · Gravity Training · Chaos Gravity · Light Swordsman · Changing Winds — establish the exhaustion payoff, a self-readying attacker, and card flow.
-
-**Game plan.** Control the board by keeping the opponent's units exhausted, then win with attackers of your own that never stay tapped. **Chaos Gravity and Gravity Flux pile exhaustion onto enemy units, which directly grows your Mirror Spirit** — its attack rises with every exhaustion token the opponent is carrying, so it snowballs into a huge body for a single die. Gravity Training attaches Enhanced Strength (which grants Endurance, so the unit readies at end of round), letting Light Swordsman and Sonic Swordsman attack every single turn; Sonic Swordsman even exhausts a blocker whenever it kills something. Enlightenment removes exhaustion from *your* side for surprise extra attacks, and Realm Walker's Isolate forces the opponent to exhaust their own units — feeding the entire engine, which is why the small Illusion/Time splash is worth it. **Design note:** Echo takes all three Sonic Swordsman (resolving the overlap with Odette's original list) and yields the shared Light Bringer to Odette, keeping his spellboard clean at exactly three.
+**Game plan.** A Sympathy swarm that punishes the opponent for attacking you. Fill the board with cheap, recurring bodies — Salamander Monks return as Spirits, and Squall Stallion grows as you filter cards — and chip away at the opponent's Phoenixborn. Each hit they land on you turns Sympathy Pain and Guilt Link into removal, while Crescendo and Shatter Pulse clear blockers and String Mage moves wounds off your units to keep the board intact. **Design note:** built from Namine's Song of Soaksend box with a small Master Set and Roaring Rose splash, so it shares no cards with the other six decks.
 
 ---
 
-### Deck 7 — Koji Wolfcub · "Boy Among Wolves"
-*Natural Token Swarm · Role: swarm/aggro · Difficulty: ★☆☆ (great for newer players)*
+### Deck 6 — Jericho, Reborn · "Borrowed Time"
+*Time tempo-swarm · Role: tempo · Difficulty: ★★☆*
 
-**Phoenixborn:** Koji Wolfcub — Battlefield **10** / Life **16** / Spellboard **3**
-**Ability — Accelerate Growth** `[side]–[exhaust]`: Place 1 status token on a target card.
+**Phoenixborn:** Jericho, Reborn — Battlefield **7** / Life **17** / Spellboard **3**
+**Ability — Prepare** `[side]–[exhaust]–1 Time`: Search your draw pile for a card, then set it on top of your deck.
 
-**Dice (10):** **<img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 5 Natural · <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 5 Sympathy** — nearly every card in the box wants one of each, so a clean 5/5 split powers the whole swarm.
+**Dice (10):** **<img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> 7 Time · <img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> 3 Illusion** — Time runs the core; three Illusion dice fund the Mist Spirits and Figures in the Fog.
 
 | # | Card | Type | Cost | Source (Phoenixborn box) |
 |---|------|------|------|--------------------------|
-| 3 | Hunt Master ✦ | Ally | 1 Natural (power) + 1 Sympathy + 1 basic | Koji (Boy Among Wolves) |
-| 3 | Jungle Warrior | Ally | 1 Sympathy + 1 basic | Koji (Boy Among Wolves) |
-| 3 | Sleeping Bear | Ally | 2 Natural | Koji (Boy Among Wolves) |
-| 3 | Temple Elder | Ally | 2 basic | Koji (Boy Among Wolves) |
-| 3 | Invigorate | Action | 1 Natural + 1 Sympathy | Koji (Boy Among Wolves) |
-| 3 | Lick Wounds | Action | 2 basic | Koji (Boy Among Wolves) |
-| 3 | Explosive Growth | Alteration | 1 Sympathy + 1 Natural | Koji (Boy Among Wolves) |
-| 3 | Join the Hunt | Ready | 1 Sympathy | Koji (Boy Among Wolves) |
-| 3 | Summon Biter ✦ | Ready | play `[main]` → 1 Natural + 1 basic | Koji (Boy Among Wolves) |
-| 3 | Summon Indiglow Creeper ✦ | Ready | play `[main]` → 1 Natural + 1 Sympathy | Koji (Boy Among Wolves) |
+| 3 | Standard Bearer | Ally | 1 Time + 1 basic | Jericho (Breaker of Fate) |
+| 3 | Swift Messenger | Ally | 1 Time | Jericho (Breaker of Fate) |
+| 3 | Accelerate | Action | 1 Time | Jericho (Breaker of Fate) |
+| 3 | Blink | Action | 1 basic | Jericho (Breaker of Fate) |
+| 2 | Foresight | Ready | 1 Time | Jericho (Breaker of Fate) |
+| 3 | Summon Time Hopper ✦ | Ready | play `[main]` → 1 Time | Jericho (Breaker of Fate) |
+| 3 | Flash Strike | Reaction | 1 Time | Jericho (Breaker of Fate) |
+| 2 | Outmatch | Reaction | 1 Time (power) | Jericho (Breaker of Fate) |
+| 2 | Stasis | Alteration | 1 Time | Jericho (Breaker of Fate) |
+| 3 | Summon Mist Spirit ✦ | Ready | play `[main]` → 1 Illusion + 1 basic | Aradel Summergaard (Master Set) |
+| 3 | Figures in the Fog | Reaction | 1 Illusion (power) | Victoria (Duchess of Deception) |
 
-**Conjurations:** Biter ×4 · Indiglow Creeper ×1 · Luminous Seedling ×3 · Brilliant Thorn ×6 · Panther Spirit ×3.
-**First Five:** Hunt Master · Summon Biter · Temple Elder · Invigorate · Join the Hunt — an immediate two-body play, a guard engine, card draw, and the swarm finisher.
+**Conjurations:** Time Hopper ×4 · Mist Spirit ×10.
+**First Five:** Summon Time Hopper · Standard Bearer · Swift Messenger · Accelerate · Summon Mist Spirit — a fast, wide start.
 
-**Game plan.** Flood Koji's enormous 10-slot battlefield and turn status tokens into damage. **Accelerate Growth gives you a free token every round, and Invigorate adds three more**, which feed Explosive Growth (+attack) and set off Luminous Seedling's Blossom to spawn a pile of 3/2 Brilliant Thorns. Hunt Master arrives with a free Panther Spirit and pumps your team; Biter walls with Unit Guard while Sleeping Bear and the token wave build up. The finisher is **Join the Hunt's Group Tactics**, which turns a wide board into a lethal alpha strike once you're declaring three or more attackers — routine on a 10-slot battlefield. Temple Elder keeps your hand full and Lick Wounds sustains you through removal. **Design note:** as the exclusive owner of the Boy Among Wolves box, Koji contends with no other deck for a single card.
+**Game plan.** A Time-based tempo deck that gets wide quickly and unravels the opponent's attacks. Time Hoppers replicate and add status tokens to your attackers, while Mist Spirits and Swift Messengers provide free bodies. Standard Bearer, together with Flash Strike and Outmatch, turns a token-loaded attacker into a large hit; on defense, Figures in the Fog and Stasis remove an incoming threat outright. Accelerate and Foresight keep your draws flowing. **Design note:** anchored on Jericho's Breaker of Fate box with a small Master Set and Duchess of Deception splash — no overlap with the other decks.
+
+---
+
+### Deck 7 — James Endersight · "The Endless Horde"
+*Ceremonial/Divine sacrifice swarm · Role: swarm/aggro · Difficulty: ★☆☆ (great for newer players)*
+
+**Phoenixborn:** James Endersight — Battlefield **7** / Life **19** / Spellboard **3**
+**Ability — Convene With Souls** `[side]–[exhaust]`: Search your draw pile for an ally and put it into your hand (placing wounds on this ability equal to that ally's life).
+
+**Dice (10):** **<img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 6 Ceremonial · <img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> 4 Divine** — Ceremonial for the sacrifice engine, Divine for the knights and recursion.
+
+| # | Card | Type | Cost | Source (Phoenixborn box) |
+|---|------|------|------|--------------------------|
+| 2 | Grave Knight | Ally | 1 Ceremonial (power) + 1 Divine + 1 basic | James (Grave King) |
+| 2 | Reaping Angel | Ally | 1 Ceremonial + 1 Divine | James (Grave King) |
+| 2 | Immortal Commander | Ally | 1 Divine (power) | James (Grave King) |
+| 3 | Rising Horde | Ally | 2 Ceremonial | James (Grave King) |
+| 2 | Summon Fallen ✦ | Ready | play `[main]` → 1 Ceremonial (power) + 1 Ceremonial | James (Grave King) |
+| 2 | Chant of Sacrifice | Ready | 1 Ceremonial | James (Grave King) |
+| 2 | Rally the Troops | Action | `[side]` + X basic | James (Grave King) |
+| 2 | Reclaim Soul | Action | 1 Ceremonial | James (Grave King) |
+| 2 | Revival Pact | Action | 1 Divine | James (Grave King) |
+| 2 | Vengeance | Action | 1 Divine | James (Grave King) |
+| 3 | Anchornaut | Ally | 1 basic | Coal Roarkwin (Master Set) |
+| 3 | Iron Worker | Ally | 2 basic | Coal Roarkwin (Master Set) |
+| 3 | Dark Reaping | Action | 1 Ceremonial | Harold (Demons of Darmas) |
+
+**Conjurations:** Fallen ×7.
+**First Five:** Summon Fallen · Rising Horde · Anchornaut · Iron Worker · Immortal Commander — bodies to sacrifice and a board-wide buff.
+
+**Game plan.** A go-wide sacrifice deck, and one of the friendliest to pilot. Rising Horde and dying allies feed **Summon Fallen**, which produces three Fallen at a time whose damage cannot be prevented. **Immortal Commander** gives the whole board +1 attack, then Rally the Troops sacrifices spare bodies for a burst attack, while Reclaim Soul and Vengeance keep you healthy and recycle allies. James's ability tutors your finisher, and Dark Reaping turns a spare token into dice fixing. **Design note:** built from James's Grave King box with a Master Set and Demons of Darmas splash — no overlap with the other decks.
 
 
 
@@ -322,15 +328,15 @@ These seven decks were chosen to give each of the seven magic types a home, whic
 
 The result: because every deck is anchored on its own magic type and its own Phoenixborn's expansion, they almost never reach for the same card, so **all seven decks can be built at the same time** from your single collection. Every pairwise combination is buildable:
 
-| | Brennen | Maeoni | Coal | Odette | Namine | Echo | Koji |
+| | Brennen | Maeoni | Coal | Odette | Namine | Jericho | James |
 |-------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Brennen** | — | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Maeoni**  | ✅ | — | ✅ | ✅ | ✅ | ✅ | ✅ |
 | **Coal**    | ✅ | ✅ | — | ✅ | ✅ | ✅ | ✅ |
 | **Odette**  | ✅ | ✅ | ✅ | — | ✅ | ✅ | ✅ |
 | **Namine**  | ✅ | ✅ | ✅ | ✅ | — | ✅ | ✅ |
-| **Echo**    | ✅ | ✅ | ✅ | ✅ | ✅ | — | ✅ |
-| **Koji**    | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | — |
+| **Jericho** | ✅ | ✅ | ✅ | ✅ | ✅ | — | ✅ |
+| **James**   | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | — |
 
 ### The shared components (and why nothing runs short)
 
@@ -344,14 +350,13 @@ Almost every card in these decks is used by exactly one deck, well within the th
 | **Silver Snake** conjuration (Maeoni Viper — Master Set) | 1 | Maeoni 1 | 1 of 1 — exact |
 | **Shining Hydra** conjuration (Xander / King of Titans) | 1 | Odette 1 | 1 of 1 — exact |
 | **Raptor Herder** ally + **Raptor Hatchling** (Xander / King of Titans) | 3 / 3 | Coal 3 / 3 (Odette dropped it) | 3 / 3 — exact |
-| **Sonic Swordsman** (Echo / Masters of Gravity) | 3 | Echo 3 (Odette dropped it) | 3 of 3 — exact |
 | **Light Bringer** (Astrea / Goddess of Ishra) | 2 | Odette 1 | 1 of 2 — spare |
 
-Everything else — the shared Master Set cards (Molten Gold, Final Cry, Sleeping Widows → used only by Brennen; Golden Veil, Hypnotize, Root Armor → Maeoni; One Hundred Blades, Mist Typhoon, Abundance → Coal; Massive Growth → Odette) and every expansion's home-box cards — lives in a single deck and never touches another. **The only card at true capacity is Nature's Wrath (3 of 3).**
+Everything else lives in a single deck and never touches another. The three newest decks build almost entirely from their own exclusive boxes — Namine from Song of Soaksend, Jericho from The Breaker of Fate, James from The Grave King — and the shared Master Set cards divide cleanly (Molten Gold, Final Cry, Sleeping Widows → Brennen; Golden Veil, Hypnotize, Root Armor → Maeoni; One Hundred Blades, Mist Typhoon, Abundance → Coal; Massive Growth → Odette; Anchornaut, Iron Worker → James; Sympathy Pain → Namine). **The only card at true capacity is Nature's Wrath (3 of 3).**
 
 ### If you want to swap or modify a deck
 
-The set is tuned tightly, so if you rebuild a deck or drop one in from elsewhere, watch the exact-capacity components above — especially **Nature's Wrath**, the **Frostback Bear** and **Three-Eyed Owl** conjurations, **Raptor Herder/Hatchling**, and **Sonic Swordsman**. Those are the cards where a new deck is most likely to create a shortfall. Everything with slack (or confined to one home box) is safe to borrow. And of course, if you're only putting **some** of these decks on the table on a given night, all of these constraints loosen — the tightness only matters when you want all seven at once.
+The set is tuned tightly, so if you rebuild a deck or drop one in from elsewhere, watch the exact-capacity components above — especially **Nature's Wrath**, the **Frostback Bear** and **Three-Eyed Owl** conjurations, and **Raptor Herder/Hatchling**. Those are the cards where a new deck is most likely to create a shortfall. Everything with slack (or confined to one home box) is safe to borrow. And of course, if you're only putting **some** of these decks on the table on a given night, all of these constraints loosen — the tightness only matters when you want all seven at once.
 
 
 ## Part 5 — Running the Game Night
