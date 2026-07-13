@@ -8,7 +8,7 @@ The [Deck Library](decks.md) decks are cross-set brews, and good cross-set decks
 
 - :material-account-group: __The Game Night set__
 
-    To seat five or six players right away, use the six real Game Night decks — they build together with only two cards to swap between games.
+    To seat up to four players right away, use the four real Game Night decks — they build together with only two cards to swap between games.
 
     [:octicons-arrow-right-24: The Game Night set](game-night.md)
 
@@ -42,4 +42,4 @@ When you want several library decks on the table at once, these are the cards mo
 
 ## Building for a specific game night
 
-The simplest approach: pick decks whose Phoenixborn come from **different expansions** and you'll rarely collide. For example, James "Rainbow to Hell," Fiona "Seance," and Koji "Euro Game" all lean in different directions and build together comfortably. If you want the guaranteed all-seven-at-once experience with no bookkeeping at all, that's exactly what the printable seven-deck set is for.
+The simplest approach: pick decks whose Phoenixborn come from **different expansions** and you'll rarely collide. For example, James "Rainbow to Hell," Fiona "Seance," and Koji "Euro Game" all lean in different directions and build together comfortably. If you want the guaranteed all-at-once experience with no bookkeeping at all, that's exactly what the four-deck [Game Night set](game-night.md) is for.

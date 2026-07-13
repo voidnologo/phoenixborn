@@ -23,4 +23,4 @@ The decks and theory on this site draw on the following sources. The four articl
 - Ashes Reborn Wiki — *Card Errata* — <https://wiki.ashes.live/books/rulebook/page/card-errata>
 
 !!! note
-    All decklists were validated against the ashes.live card database, and all card counts against the box-contents model. A handful of cards were adjusted from their original tournament lists to respect the current (Ascendancy-era) errata and to keep all seven decks simultaneously buildable from one collection; those swaps are noted with each deck.
+    All decklists were validated against the ashes.live card database, and all card counts against the box-contents model. A handful of cards were adjusted from their original tournament lists to respect the current (Ascendancy-era) errata and to keep the Game Night decks simultaneously buildable from one collection; those swaps are noted with each deck.

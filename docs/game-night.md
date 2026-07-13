@@ -1,19 +1,20 @@
 # Game Night
 
-Six decks, ready to play — pick whichever one sounds fun. Each plays differently and uses a different kind of magic, so everyone at the table gets their own style: go wide with a swarm of tokens, drain the opponent's life, control the board, steal their units, or race them down.
+Four decks, each assembled from across our shared collection — pick whichever one sounds fun. They all play differently and use a different kind of magic, so everyone at the table gets their own style: go wide with a swarm of tokens, drain the opponent's life, steal their units, or grind them down with illusion tempo.
 
-They're all built from our one shared collection, so we can set up all six at once and just start playing (two cards need swapping between a couple of the decks — noted at the bottom). Every deck links to its full card list on [ashes.live](https://ashes.live), where you can also load it straight into [ashteki](https://ashteki.com) to play online.
+They're all built from our one shared collection, so we can set up all four at once and just start playing (two cards need swapping between a couple of the decks — noted at the bottom). Each deck has a **Build list** you can expand to see exactly which prebuilt box every card comes from — the fast way to pull cards from a binder sorted by Phoenixborn. Every deck also links to its full card list on [ashes.live](https://ashes.live), where you can load it straight into [ashteki](https://ashteki.com) to play online.
+
+!!! info "Reading the build lists"
+    Cards are grouped by the **prebuilt box you pull them from**, so you visit each box once. A card's box is the Phoenixborn whose deck it shipped in (the *Master Set* holds six starters, filed under each starter Phoenixborn). Conjurations aren't listed separately — they come in the same box as their **Summon** card.
 
 **Dice key:**
 
 <div class="dice-legend">
 <span><img class="die" src="../assets/dice/ceremonial.png" alt="Ceremonial"> Ceremonial</span>
-<span><img class="die" src="../assets/dice/charm.png" alt="Charm"> Charm</span>
 <span><img class="die" src="../assets/dice/illusion.png" alt="Illusion"> Illusion</span>
 <span><img class="die" src="../assets/dice/natural.png" alt="Natural"> Natural</span>
 <span><img class="die" src="../assets/dice/divine.png" alt="Divine"> Divine</span>
 <span><img class="die" src="../assets/dice/sympathy.png" alt="Sympathy"> Sympathy</span>
-<span><img class="die" src="../assets/dice/time.png" alt="Time"> Time</span>
 </div>
 
 ---
@@ -30,6 +31,19 @@ Coal spends cards instead of dice: draw hard and rain 1-damage Slash pings while
 
 [Full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/9287){ .md-button }
 
+??? example "Build list — where each card comes from (30 cards)"
+    Pull **Coal Roarkwin** (the Phoenixborn) from the *Master Set — Coal starter*.
+
+    - **Master Set — Coal starter** — 3× Chant of Revenge · 1× Hammer Knight · 3× One Hundred Blades
+    - **The Duchess of Deception** *(Victoria)* — 2× Particle Shield · 3× Summon Shadow Spirit · 1× To Shadows
+    - **The Children of Blackcloud** *(Brennen)* — 3× Fester
+    - **The King of Titans** *(Xander)* — 3× Raptor Herder
+    - **Master Set — Aradel starter** — 3× Mist Typhoon
+    - **Master Set — Maeoni starter** — 3× Call Upon the Realms
+    - **The Spirits of Memoria** *(Sembali)* — 1× Gates Thrown Open · 2× Shadow Guard
+    - **Master Set — Saria starter** — 1× Abundance
+    - **The Frostdale Giants** *(Rin)* — 1× Summon Frostback Bear
+
 ---
 
 ## Hope Everthorn — "Out for Blood"
@@ -43,6 +57,23 @@ Coal spends cards instead of dice: draw hard and rain 1-damage Slash pings while
 A wide board backed by reaction-spell burn (Void Pulse, Sympathy Pain) for damage the opponent can't block, with vampire lifedrain to offset the aggression.
 
 [Full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/30929){ .md-button }
+
+??? example "Build list — where each card comes from (30 cards)"
+    Pull **Hope Everthorn** (the Phoenixborn) from *The Artist of Dreams*.
+
+    - **The Children of Blackcloud** *(Brennen)* — 3× Blood Chains · 1× Choke · 2× Fire Archer
+    - **The Demons of Darmas** *(Harold)* — 2× Beast Warrior · 1× Master Vampire · 1× Summon Vampire Bat Swarm
+    - **The Artist of Dreams** *(Hope)* — 3× Void Pulse
+    - **The King of Titans** *(Xander)* — 3× Raptor Herder
+    - **Master Set — Noah starter** — 3× Summon Sleeping Widows
+    - **Master Set — Jessa starter** — 2× Final Cry
+    - **Master Set — Saria starter** — 2× Sympathy Pain
+    - **The Protector of Argaia** *(Fiona)* — 2× New Ideas
+    - **The Grave King** *(James)* — 1× Grave Knight
+    - **The Song of Soaksend** *(Namine)* — 1× Guilt Link
+    - **The Masters of Gravity** *(Echo)* — 1× Sonic Swordsman
+    - **The Ghost Guardian** *(Rimea)* — 1× Summon Ancestor Spirit
+    - **The Goddess of Ishra** *(Astrea)* — 1× Summon Light Bringer
 
 ---
 
@@ -58,6 +89,23 @@ Take control of the opponent's units with Beguile, then make your own hitters un
 
 [Full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/35198){ .md-button }
 
+??? example "Build list — where each card comes from (30 cards)"
+    Pull **Astrea** (the Phoenixborn) from *The Goddess of Ishra*.
+
+    - **The Goddess of Ishra** *(Astrea)* — 3× Mark of the Goddess
+    - **The King of Titans** *(Xander)* — 2× Nature's Wrath · 2× Summon Archasaurus Mount
+    - **The Frostdale Giants** *(Rin)* — 2× Frost Fang · 2× Ice Trap
+    - **The Duchess of Deception** *(Victoria)* — 1× Figures in the Fog · 2× To Shadows
+    - **Master Set — Aradel starter** — 2× Massive Growth · 1× Summon Butterfly Monk
+    - **The Spirits of Memoria** *(Sembali)* — 2× Celestial Knight
+    - **The Ghost Guardian** *(Rimea)* — 2× Dark Presence
+    - **The Law of Lions** *(Odette)* — 2× Heal
+    - **Master Set — Maeoni starter** — 2× Molten Gold
+    - **The Queen of Lightning** *(Dimona)* — 2× Rayward Recruit
+    - **The Masters of Gravity** *(Echo)* — 1× Polarity Mage
+    - **Master Set — Noah starter** — 1× Summon False Demon
+    - **The Artist of Dreams** *(Hope)* — 1× Summon Fox Spirit
+
 ---
 
 ## Koji Wolfcub — "Status Horses"
@@ -72,43 +120,26 @@ Flood a big battlefield with plant tokens and horses, then pump the team with Ex
 
 [Full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/9903){ .md-button }
 
----
+??? example "Build list — where each card comes from (30 cards)"
+    Pull **Koji Wolfcub** (the Phoenixborn) from *The Boy Among Wolves*.
 
-## Leo Sunshadow — "The Roaring Rose"
-
-<div class="chips"><span class="chip"><img class="die" src="../assets/dice/charm.png" alt="Charm"> 10</span><span class="chip">Mono-Charm control</span><span class="chip">single-box</span></div>
-
-<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/leo-sunshadow.jpg" alt="Leo Sunshadow" loading="lazy"></div>
-
-**Dice:** <img class="die" src="../assets/dice/charm.png" alt="Charm"> 10
-
-Disrupt the opponent with Charm control — Mind Probe, Change Psyche, Dispel — while chipping in with birds. A single-box deck, included as a clean, conflict-free way to bring Charm to the table.
-
-[Full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/7694){ .md-button }
+    - **The Boy Among Wolves** *(Koji)* — 3× Explosive Growth · 2× Invigorate · 2× Jungle Warrior · 2× Sleeping Bear · 3× Summon Indiglow Creeper · 2× Temple Elder
+    - **The Protector of Argaia** *(Fiona)* — 2× New Ideas · 3× Seeds of Aggression
+    - **The Song of Soaksend** *(Namine)* — 2× Flute Mage · 1× Shatter Pulse · 1× Summon Squall Stallion
+    - **Master Set — Maeoni starter** — 3× Empower
+    - **The Demons of Darmas** *(Harold)* — 2× Adrenaline Rush
+    - **Master Set — Coal starter** — 1× Iron Worker
+    - **The Ghost Guardian** *(Rimea)* — 1× Resonance
 
 ---
 
-## Jericho, Reborn — "The Breaker of Fate"
-
-<div class="chips"><span class="chip"><img class="die" src="../assets/dice/time.png" alt="Time"> 10</span><span class="chip">Time tempo</span><span class="chip">single-box</span></div>
-
-<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/jericho-reborn.jpg" alt="Jericho, Reborn" loading="lazy"></div>
-
-**Dice:** <img class="die" src="../assets/dice/time.png" alt="Time"> 10
-
-Bank tempo with extra actions from Accelerate and Blink, and grind out value with self-replicating Time Hoppers. The other single-box deck, bringing Time with no conflicts.
-
-[Full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/8598){ .md-button }
-
----
-
-!!! note "Building all six at once — the two swaps"
-    Five of the six share no cards at all. There are exactly two cards to sort out:
+!!! note "Building all four at once — the two swaps"
+    The four decks barely overlap. There are exactly two cards to sort out:
 
     - **Raptor Herder** — Coal and Hope each run all three you own. Field them in one deck and swap the other's three Raptor Herders for any cheap ally (this also frees the Raptor Hatchling tokens).
     - **New Ideas** — Hope runs 2 and Koji runs 2 (you own 3). Drop one copy from either deck.
 
-    With those handled, all six build simultaneously. If you're only seating four or five players, you likely won't need to swap anything.
+    With those handled, all four build simultaneously.
 
 ## More proven decks to rotate through
 

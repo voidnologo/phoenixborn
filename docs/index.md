@@ -1,6 +1,6 @@
 # Phoenixborn
 
-*A game-night companion for **Ashes: Rise of the Phoenixborn** — six real decks you can build together for a night with friends, a big library of extra decks to explore, and friendly guides to building, strategizing, and playing.*
+*A game-night companion for **Ashes: Rise of the Phoenixborn** — four real decks you can build together for a night with friends, a big library of extra decks to explore, and friendly guides to building, strategizing, and playing.*
 
 <div class="roster" markdown>
 ![Brennen Blackcloud](https://cdn.ashes.live/images/cards/brennen-blackcloud.jpg)
@@ -12,7 +12,7 @@
 ![Koji Wolfcub](https://cdn.ashes.live/images/cards/koji-wolfcub.jpg)
 </div>
 
-Welcome. This site exists so a group of friends can move past the pre-constructed starter decks and play **real constructed Ashes** — the version the tournament scene actually plays — without anyone buying a second collection. Its heart is a **[Game Night set](game-night.md)** of six real published decks you can build together — everyone grabs one to play — and beyond that a big **[Deck Library](decks.md)** of cross-set brews to explore when you want more.
+Welcome. This site exists so a group of friends can move past the pre-constructed starter decks and play **real constructed Ashes** — the version the tournament scene actually plays — without anyone buying a second collection. Its heart is a **[Game Night set](game-night.md)** of four real published decks you can build together — everyone grabs one to play — and beyond that a big **[Deck Library](decks.md)** of cross-set brews to explore when you want more.
 
 It's written for players who know **how to play** — dice, the turn structure, combat, how spells work — but who haven't yet built a deck from scratch.
 
@@ -20,9 +20,9 @@ It's written for players who know **how to play** — dice, the turn structure, 
 
 - :material-account-group: __Game Night__
 
-    Six real published decks you can build together — with just two quick card swaps — so five or six players each grab one. Dice, engines, and full lists.
+    Four real published decks you can build together — with just two quick card swaps — so up to four players each grab one. Dice, engines, and per-box build lists.
 
-    [:octicons-arrow-right-24: Your six decks](game-night.md)
+    [:octicons-arrow-right-24: Your four decks](game-night.md)
 
 - :material-cards-playing: __Deck Library__
 
@@ -59,9 +59,9 @@ It's written for players who know **how to play** — dice, the turn structure, 
 ## Building several decks from one collection
 
 !!! tip "Non-overlapping decks from one collection"
-    You own **one** copy of each card. Every box ships **three copies** of each standard card and a **fixed, smaller number** of each conjuration, and no card is ever reprinted across boxes. It comes down to arithmetic: keep the **total** number of copies of any shared card, summed across every deck you want on the table, at or below the number you own. These seven decks were built so the entire set stays within supply — see the [matrix](matrix.md).
+    You own **one** copy of each card. Every box ships **three copies** of each standard card and a **fixed, smaller number** of each conjuration, and no card is ever reprinted across boxes. It comes down to arithmetic: keep the **total** number of copies of any shared card, summed across every deck you want on the table, at or below the number you own. The four Game Night decks were built so the entire set stays within supply — see the [matrix](matrix.md).
 
-Because each deck leans on its own magic type and its own Phoenixborn's expansion, they rarely reach for the same card. That's what lets all seven be built simultaneously.
+Because each deck leans on its own magic type and its own Phoenixborn's expansion, they rarely reach for the same card. That's what lets all four be built simultaneously.
 
 ---
 
