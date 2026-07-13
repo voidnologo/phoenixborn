@@ -1,6 +1,6 @@
 # Sharing the Collection
 
-The [Deck Library](decks.md) decks are cross-set brews, and good cross-set decks tend to reach for the same format-defining staples — Nature's Wrath, Raptor Herder, Sonic Swordsman, and friends. Because you own **one** collection, that means you build **a handful of these at a time**, not all of them at once. This page explains how to tell what fits together.
+The [Deck Library](decks.md) decks are cross-set brews, and good cross-set decks tend to reach for the same format-defining staples — Nature's Wrath, Raptor Herder, and Sonic Swordsman among them. Because you own **one** collection, that means you build **a handful of these at a time**, not all of them at once. This page explains how to tell what fits together.
 
 ## Two ways to play from one collection
 

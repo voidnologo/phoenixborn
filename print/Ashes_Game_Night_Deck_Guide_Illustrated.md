@@ -22,7 +22,7 @@ This guide exists so that you and your friends can move past the pre-constructed
 
 It is written for players who know how to *play* Ashes — you understand dice, the turn structure, combat, and how spells work — but who have not yet built a deck from scratch. So the first third of this document is a crash course in deckbuilding: how to choose a Phoenixborn, how to pick your dice, how to choose a First Five, and how to balance a deck. The middle is the seven decks themselves. The end is a matrix showing exactly which decks can be built simultaneously, and some notes on running a good game night.
 
-Print it, spill snacks on it, argue about it. That's what it's for.
+It's meant to be printed and kept on the table while you play.
 
 ---
 
@@ -71,7 +71,7 @@ Every card and every die belongs to a magic type. Each type has a distinct "die 
 
 *(Those are the game's actual dice symbols, in their real colors. Ascendancy adds two more types — **Astral** and **Artifice** — used by Arren Frostpeak and Issa Brightmore; they are their own ecosystem and are not used by the seven decks here.)*
 
-A quick way to internalize the personalities: **Natural** is the honest, brutal foundation — great removal, great creatures, no tricks needed. **Ceremonial** is mean and recursive and closes games fast. **Illusion** wins by denying the opponent rather than building a board. **Divine** overwhelms with sheer size and forces the table to react. **Charm** asks a lot of the pilot but breaks games open. **Sympathy** keeps your hand full so you always have an answer. **Time** rewrites the normal flow of turns.
+A quick way to remember the personalities: **Natural** is a strong, straightforward foundation, with reliable removal and solid creatures. **Ceremonial** is aggressive and recursive, and tends to close games quickly. **Illusion** wins by denying the opponent rather than by building a board. **Divine** fields large units and pressures the opponent into reacting. **Charm** is demanding to pilot but can be very powerful. **Sympathy** keeps your hand full so you always have an answer. **Time** bends the normal flow of turns.
 
 ### Choosing and balancing your dice
 
@@ -388,7 +388,7 @@ These seven decks were chosen to give each of the seven magic types a home, whic
 
 ## Part 4 — The Simultaneous-Build Matrix
 
-Here is the payoff. Because every deck is anchored on its own magic type and its own Phoenixborn's expansion, they almost never reach for the same card — so **all seven decks can be sleeved up and sitting on the table at the same time**, from your single collection, with nothing left short. Every pairwise combination is buildable:
+The result: because every deck is anchored on its own magic type and its own Phoenixborn's expansion, they almost never reach for the same card, so **all seven decks can be built at the same time** from your single collection. Every pairwise combination is buildable:
 
 | | Brennen | Maeoni | Coal | Odette | Namine | Echo | Koji |
 |-------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|

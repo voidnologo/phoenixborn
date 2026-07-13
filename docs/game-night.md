@@ -2,7 +2,7 @@
 
 **Here are your seven decks.** They're built so you can sleeve up **all seven at the same time** from one collection — everyone grabs one, you play, you swap, you cycle through them all night. No card runs short; see [Sharing the Collection](matrix.md) for the proof.
 
-Each is a solid, proven archetype, tuned to be easy to pick up — no fiddly combos for their own sake — and every one mixes cards from a few different Phoenixborn so you're playing real constructed decks, not the out-of-the-box precons. Want to go further afterward? The [Deck Library](decks.md) has a big menu of extra decks to explore.
+Each is a solid, proven archetype, tuned to be easy to pick up — nothing over-complicated — and every one mixes cards from a few different Phoenixborn, so you're playing real constructed decks rather than the out-of-the-box precons. Want to go further afterward? The [Deck Library](decks.md) has a big menu of extra decks to explore.
 
 **Dice key:**
 
@@ -30,7 +30,7 @@ Each is a solid, proven archetype, tuned to be easy to pick up — no fiddly com
 **Dice:** ![Ceremonial](assets/dice/ceremonial.png){.die} 7 · ![Natural](assets/dice/natural.png){.die} 3
 **Ability — Spirit Burn:** destroy an ally you control to deal 2 damage to a Phoenixborn.
 
-The fastest clock in the set. Make cheap bodies and turn them into face damage: Sleeping Widows and Fire Archers become fuel for Spirit Burn and Final Cry, while Molten Gold + Fester clears blockers. Just race.
+The fastest clock in the set. Make cheap bodies and turn them into face damage: Sleeping Widows and Fire Archers become fuel for Spirit Burn and Final Cry, while Molten Gold and Fester clear blockers. The plan is simply to race the opponent down.
 
 **First Five:** Fire Archer · Choke · Molten Gold · Final Cry · Chant of Worship
 

@@ -56,10 +56,10 @@ It's written for players who know **how to play** — dice, the turn structure, 
 
 </div>
 
-## The one idea that makes this work
+## Building several decks from one collection
 
 !!! tip "Non-overlapping decks from one collection"
-    You own **one** copy of each card. Every box ships **three copies** of each standard card and a **fixed, smaller number** of each conjuration, and no card is ever reprinted across boxes. So the whole trick is arithmetic: keep the **total** number of copies of any shared card, summed across every deck you want on the table, at or below the number you actually own. These seven decks were built so the entire set stays within supply — see the [matrix](matrix.md).
+    You own **one** copy of each card. Every box ships **three copies** of each standard card and a **fixed, smaller number** of each conjuration, and no card is ever reprinted across boxes. It comes down to arithmetic: keep the **total** number of copies of any shared card, summed across every deck you want on the table, at or below the number you own. These seven decks were built so the entire set stays within supply — see the [matrix](matrix.md).
 
 Because each deck leans on its own magic type and its own Phoenixborn's expansion, they rarely reach for the same card. That's what lets all seven be built simultaneously.
 

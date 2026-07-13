@@ -28,7 +28,7 @@ Every card and every die belongs to a magic type. Each type has a distinct "die 
 !!! note "About the colors and the two newest types"
     Those are the game's **actual dice symbols**, in their real colors — the same icons you'll see on the dice and on [ashes.live](https://ashes.live). Ascendancy adds two more types — **Astral** (bee) and **Artifice** (owl), used by Arren Frostpeak and Issa Brightmore — which are their own ecosystem and aren't used by the decks here.
 
-A quick way to internalize the personalities: **Natural** is the honest, brutal foundation — great removal, great creatures, no tricks needed. **Ceremonial** is mean and recursive and closes games fast. **Illusion** wins by denying the opponent rather than building a board. **Divine** overwhelms with sheer size and forces the table to react. **Charm** asks a lot of the pilot but breaks games open. **Sympathy** keeps your hand full so you always have an answer. **Time** rewrites the normal flow of turns.
+A quick way to remember the personalities: **Natural** is a strong, straightforward foundation, with reliable removal and solid creatures. **Ceremonial** is aggressive and recursive, and tends to close games quickly. **Illusion** wins by denying the opponent rather than by building a board. **Divine** fields large units and pressures the opponent into reacting. **Charm** is demanding to pilot but can be very powerful. **Sympathy** keeps your hand full so you always have an answer. **Time** bends the normal flow of turns.
 
 ## Choosing and balancing your dice
 

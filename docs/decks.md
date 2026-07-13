@@ -29,7 +29,7 @@ This is the big menu of **extra decks to explore** — beyond your core [Game Ni
 
 **Dice:** ![Ceremonial](assets/dice/ceremonial.png){.die} 2 · ![Charm](assets/dice/charm.png){.die} 1 · ![Illusion](assets/dice/illusion.png){.die} 1 · ![Natural](assets/dice/natural.png){.die} 2 · ![Divine](assets/dice/divine.png){.die} 1 · ![Sympathy](assets/dice/sympathy.png){.die} 2 · ![Time](assets/dice/time.png){.die} 1
 
-The ultimate "let's see cards from all over the collection" deck: **30 different singletons drawn from 14 expansions**, one of nearly every die type. James's ability lets you pay life to fetch any card from your deck, which makes a highlander genuinely consistent — you dig for exactly the answer the moment demands. It's a glorious toolbox and the best deck to show a new group just how wide Ashes can get.
+The widest deck in the collection: **30 different singletons drawn from 14 expansions**, spanning nearly every die type. James's ability lets you pay life to fetch any card from your deck, which keeps a highlander build consistent — you can dig for exactly the answer a situation calls for. A flexible toolbox, and a good way to show a group how varied Ashes can be.
 
 **Suggested opening:** Summon Cerasaurus Mount · Raptor Herder · Fester · Root Armor · Sympathy Pain — a body and interaction; then let James's fetch find the rest. *Mulligan a hand with no early unit or no way to interact.*
 
@@ -73,7 +73,7 @@ A rainbow control deck and the most cross-set list the research turned up. Echo'
 
 **Dice:** ![Illusion](assets/dice/illusion.png){.die} 3 · ![Divine](assets/dice/divine.png){.die} 3 · ![Sympathy](assets/dice/sympathy.png){.die} 3 · ![Time](assets/dice/time.png){.die} 1
 
-The widest-mixing deck in the whole library — a "one of everything" summon toolbox that pulls conjurations from **eight different sets**, held together by **Gates Thrown Open** to recur spent summons and **Shepherd of Lost Souls** to reanimate. Fiona's spellboard flexibility means you answer any matchup by fetching the right single-copy creature, while Polarity Mage and Mind Maze grind the board. Deckbuilding as a scavenger hunt.
+The widest-mixing deck in the whole library — a "one of everything" summon toolbox that pulls conjurations from **eight different sets**, held together by **Gates Thrown Open** to recur spent summons and **Shepherd of Lost Souls** to reanimate. Fiona's spellboard flexibility lets you answer any matchup by fetching the right single-copy creature, while Polarity Mage and Mind Maze grind the board. It rewards knowing your collection well.
 
 **Suggested opening:** Gates Thrown Open · Summon Mist Spirit · Summon Shadow Spirit · Shepherd of Lost Souls · Mind Maze — bodies down and a recursion engine online. *Mulligan hands with no summons.*
 
@@ -95,7 +95,7 @@ The widest-mixing deck in the whole library — a "one of everything" summon too
 
 **Dice:** ![Charm](assets/dice/charm.png){.die} 2 · ![Natural](assets/dice/natural.png){.die} 4 · ![Divine](assets/dice/divine.png){.die} 4
 
-A layered removal pile that stitches four sets' worth of kill spells — **Fear, Nature's Wrath, Meteor, Seeds of Aggression** — behind a Divine sustain shell (Heal, Holy Knight, Summon Light Bringer). **Fear** is the engine: sacrifice your own unit to destroy theirs, healing Jessa and dodging on-death triggers, while Law of Fear taxes their board. Grind them out one scream at a time.
+A layered removal pile that stitches four sets' worth of kill spells — **Fear, Nature's Wrath, Meteor, Seeds of Aggression** — behind a Divine sustain shell (Heal, Holy Knight, Summon Light Bringer). **Fear** is the engine: sacrifice your own unit to destroy theirs, healing Jessa and dodging on-death triggers, while Law of Fear taxes their board. You grind the opponent down steadily.
 
 **Suggested opening:** Summon Light Bringer · Fear · Nature's Wrath · Heal · Holy Knight — removal plus sustain from turn one. *Mulligan hands with no removal.*
 
@@ -139,7 +139,7 @@ A rare **win-by-mill** deck — you don't kill the Phoenixborn, you burn their d
 
 **Dice:** ![Illusion](assets/dice/illusion.png){.die} 3 · ![Natural](assets/dice/natural.png){.die} 4 · ![Divine](assets/dice/divine.png){.die} 3
 
-Built around Astrea's **Beguile** — take control of an enemy unit. **Fox Spirit** and **False Demon** give her cheap fodder to Beguile-and-sacrifice, **Dark Presence** makes your big hitters (Celestial Knight, Frost Fang, Archasaurus) unblockable, and Mark of the Goddess plus heals offset her small battlefield. Turning the opponent's own board against them never stops being satisfying.
+Built around Astrea's **Beguile** — take control of an enemy unit. **Fox Spirit** and **False Demon** give her cheap fodder to Beguile-and-sacrifice, **Dark Presence** makes your big hitters (Celestial Knight, Frost Fang, Archasaurus) unblockable, and Mark of the Goddess plus heals offset her small battlefield. Turning the opponent's own units against them is a satisfying way to take control.
 
 **Suggested opening:** Summon Fox Spirit · Dark Presence · Mark of the Goddess · Celestial Knight · To Shadows — cheap fodder for Beguile plus an unblockable beater. *Mulligan hands with no cheap units.*
 
@@ -161,7 +161,7 @@ Built around Astrea's **Beguile** — take control of an enemy unit. **Fox Spiri
 
 **Dice:** ![Charm](assets/dice/charm.png){.die} 2 · ![Natural](assets/dice/natural.png){.die} 4 · ![Divine](assets/dice/divine.png){.die} 2 · ![Sympathy](assets/dice/sympathy.png){.die} 2
 
-Pure big-monster beatdown, and the easiest deck here to pilot. **Rin's Fury** pumps a beast mid-combat, **Massive Growth** and **Power Through** stack on top, and a fat curve of Frostback Bear, Cerasaurus and Archasaurus Mounts crashes in. Ice Trap and Mind Fog Owl buy the tempo you need while your monsters get out of hand. Thematic and immediately fun.
+Pure big-monster beatdown, and the easiest deck here to pilot. **Rin's Fury** pumps a beast mid-combat, **Massive Growth** and **Power Through** stack on top, and a strong curve of Frostback Bear, Cerasaurus and Archasaurus Mounts backs them up. Ice Trap and Mind Fog Owl buy time while your larger creatures take over. Thematic and easy to pick up.
 
 **Suggested opening:** Summon Frostback Bear · Rin's Fury · Massive Growth · Ice Trap · Summon Mind Fog Owl — a fat body, a combat trick, and tempo control. *Mulligan hands with no early creature.*
 
@@ -227,7 +227,7 @@ A tournament-winning swarm-control hybrid. **Indiglow Creeper** spits out Brilli
 
 **Dice:** ![Ceremonial](assets/dice/ceremonial.png){.die} 4 · ![Divine](assets/dice/divine.png){.die} 2 · ![Sympathy](assets/dice/sympathy.png){.die} 4
 
-Hope's card-advantage engine bankrolls a wide Sympathy board plus a reaction-spell burn package — **Void Pulse, Sympathy Pain, and Final Cry** deliver reach the opponent can't block. Vampire lifedrain (Master Vampire + Vampire Bat Swarm) offsets the aggression while Blood Chains, Choke, and Fire Archer clear blockers. Tournament-proven aggressive value with a bloodthirsty streak.
+Hope's card-advantage engine bankrolls a wide Sympathy board plus a reaction-spell burn package — **Void Pulse, Sympathy Pain, and Final Cry** deliver reach the opponent can't block. Vampire lifedrain (Master Vampire + Vampire Bat Swarm) offsets the aggression while Blood Chains, Choke, and Fire Archer clear blockers. Tournament-proven, aggressive, and resilient.
 
 **Suggested opening:** Summon Sleeping Widows · Fire Archer · Blood Chains · Void Pulse · Master Vampire — early bodies, removal, and reach. *Mulligan slow hands with no turn-one play.*
 
