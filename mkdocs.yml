@@ -1,6 +1,6 @@
 site_name: Phoenixborn
 site_description: A game-night companion for Ashes Reborn — seven decks you can build at once, plus how to build, strategize, and play.
-site_url: https://voidnologo.github.io/phoenixborn/
+site_url: https://voidnologo.com/phoenixborn/
 repo_url: https://github.com/voidnologo/phoenixborn
 repo_name: voidnologo/phoenixborn
 copyright: Fan-made resource. Ashes and all card art © Plaid Hat Games; card images served from ashes.live.
@@ -53,8 +53,8 @@ extra_css:
 
 nav:
   - Home: index.md
-  - The Seven Decks: decks.md
+  - Deck Library: decks.md
   - Deckbuilding Guide: deckbuilding.md
-  - Build-at-Once Matrix: matrix.md
+  - Sharing the Collection: matrix.md
   - Completing the Collection: collection.md
   - References: references.md

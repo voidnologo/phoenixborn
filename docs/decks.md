@@ -1,306 +1,232 @@
-# The Seven Decks
+# Deck Library
 
-Seven decks, one for each magic type — which is exactly what lets them coexist. Because each leans on its own color and its own Phoenixborn's expansion, they rarely reach for the same card, so **all seven can be built at once** from a single collection (see the [Build-at-Once Matrix](matrix.md)). Each is anchored on a proven tournament archetype and tuned to the collection.
+These are community-built and tournament-proven decks that **mix cards from across the whole collection** — the opposite of a single-box prebuilt. Each one leans on cards from many different Phoenixborn expansions to build an engine, so they're the ideal way to start deep-diving into constructed Ashes. Every deck here has been checked to be **buildable from your collection** (nothing from The Scholar of Ruin, The Ocean's Guard, The Messenger of Peace, or the Red Rains sets).
 
-!!! info "How to read each deck"
-    - **Source** names the **Phoenixborn base deck** each card ships in, so you can find it in your binder. Cards from the shared Master Set box are labeled with the specific Phoenixborn whose starter deck they come in — e.g. *Maeoni Viper (Master Set)*.
-    - **Costs** show die type and count. `basic` = any die's basic side; **(power)** marks a cost that needs a specific die face; everything else uses the class side. `[main]`/`[side]` = which action it uses.
-    - **✦** marks a card that summons a conjuration.
-
----
-
-## Brennen Blackcloud — "Spirit Burn"
-
-<div class="chips"><span class="chip">Ceremonial</span><span class="chip">Aggro-Burn</span><span class="chip">Difficulty ★☆☆</span></div>
-
-<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/brennen-blackcloud.jpg" alt="Brennen Blackcloud"></div>
-
-**Battlefield 5 · Life 16 · Spellboard 3**
-**Spirit Burn** — `[main]–[exhaust]–1 Ceremonial`: Destroy an ally you control to deal **2 damage to a target Phoenixborn**.
-
-**Dice:** 7 Ceremonial · 3 Natural
-
-| # | Card | Type | Cost | Source |
-|---|------|------|------|--------|
-| 3 | Fire Archer | Ally | 1 Ceremonial | Brennen (Children of Blackcloud) |
-| 3 | Crimson Bomber | Ally | 2 Ceremonial | Brennen (Children of Blackcloud) |
-| 1 | Blackcloud Ninja | Ally | 1 basic | Brennen (Children of Blackcloud) |
-| 3 | Choke | Action | 1 Ceremonial | Brennen (Children of Blackcloud) |
-| 3 | Fester | Action | 1 Ceremonial (power) | Brennen (Children of Blackcloud) |
-| 3 | Blood Chains | Action | 1 Ceremonial | Brennen (Children of Blackcloud) |
-| 3 | Molten Gold | Action | 2 Natural | Maeoni Viper (Master Set) |
-| 3 | Final Cry | Reaction | 1 Ceremonial (power) | Jessa Na Ni (Master Set) |
-| 3 | Summon Sleeping Widows ✦ | Reaction | 2 Ceremonial | Noah Redmoon (Master Set) |
-| 3 | Chant of Worship | Ready | 1 Ceremonial | Brennen (Children of Blackcloud) |
-| 2 | Summon Dread Wraith ✦ | Ready | play `[main]` → 3 Ceremonial | Brennen (Children of Blackcloud) |
-
-**Conjurations:** Dread Wraith ×2 · Sleeping Widow ×6
-**First Five:** Fire Archer · Choke · Molten Gold · Final Cry · Chant of Worship
-
-<div class="gallery">
-<figure><img src="https://cdn.ashes.live/images/cards/fire-archer.jpg"><figcaption>Fire Archer</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/summon-sleeping-widows.jpg"><figcaption>Summon Sleeping Widows</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/fester.jpg"><figcaption>Fester</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/molten-gold.jpg"><figcaption>Molten Gold</figcaption></figure>
-</div>
-
-!!! tip "Game plan"
-    The fastest clock in the game: attack the enemy Phoenixborn from several angles and close before slower decks stabilize. The core chain is **make a cheap body, then destroy it for damage** — Summon Sleeping Widows drops two 1-life bodies that Spirit Burn (2) and Final Cry (2) convert into reach, while every ally that dies fuels a Chant of Worship draw. Molten Gold places wounds and Fester destroys the wounded unit; Crimson Bomber's Detonate seeds extra wounds for Fester to finish.
-
-!!! note "Design note"
-    The tournament "Pure Burn" list splashed Sympathy Pain, but that needs a die Brennen doesn't run, so those slots became Blood Chains and Crimson Bomber; the Frost Bite and Nature's Wrath from that list went to the Maeoni and Odette decks to keep the collection non-overlapping.
+!!! info "How to use this page"
+    - Each deck shows its **dice**, the number of **expansions it spans**, its **engine / why it's fun**, and a few **signature cards**.
+    - The **“View on ashes.live”** button opens the exact, always-current decklist — where you can see every card, read full text, and **clone it to play online on [ashteki](https://ashteki.com)**.
+    - Unlike the printable [seven-deck game-night set](https://voidnologo.com/phoenixborn/), these decks intentionally share format-defining staples (Nature's Wrath, Raptor Herder, and friends), so you build **a few at a time** rather than all at once — see [Sharing the Collection](matrix.md).
 
 ---
 
-## Maeoni Viper — "Strike, Scream, Run"
+## James Endersight — "Rainbow to Hell"
 
-<div class="chips"><span class="chip">Charm / Natural</span><span class="chip">Combo</span><span class="chip">Difficulty ★★★</span></div>
+<div class="chips"><span class="chip">All 7 dice types</span><span class="chip">14 expansions</span><span class="chip">Highlander toolbox</span></div>
 
-<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/maeoni-viper.jpg" alt="Maeoni Viper"></div>
+<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/james-endersight.jpg" alt="James Endersight" loading="lazy"></div>
 
-**Battlefield 4 · Life 20 · Spellboard 5**
-**Command Strike** — `[side]–[exhaust]–2 basic`: Choose an unexhausted unit you control; deal damage to a **target unit** equal to that unit's attack value.
+**Dice:** 2 Ceremonial · 1 Charm · 1 Illusion · 2 Natural · 1 Divine · 2 Sympathy · 1 Time
 
-**Dice:** 5 Charm · 5 Natural
-
-| # | Card | Type | Cost | Source |
-|---|------|------|------|--------|
-| 3 | Summon Silver Snake ✦ | Ready | play `[main]` → 1 Charm (power) + 1 Natural (power) | Maeoni Viper (Master Set) |
-| 3 | Summon Three-Eyed Owl ✦ | Ready | play `[main]` → 1 Charm | Saria Guideman (Master Set) |
-| 3 | Summon Frostback Bear ✦ | Ready | play `[main]` → 1 Natural + 1 basic | Rin (Frostdale Giants) |
-| 3 | Frost Bite | Ready | play `[main]` → 1 Natural | Rin (Frostdale Giants) |
-| 3 | Hypnotize | Ready | `[side]`–exhaust–2 Charm | Maeoni Viper (Master Set) |
-| 3 | Golden Veil | Reaction | 1 Charm (power) | Maeoni Viper (Master Set) |
-| 3 | Ice Trap | Reaction | 1 Natural (power) | Rin (Frostdale Giants) |
-| 2 | Root Armor | Alteration | 1 Natural | Aradel Summergaard (Master Set) |
-| 3 | Frost Fang | Ally | 2 Natural | Rin (Frostdale Giants) |
-| 3 | Freezing Blast | Action | 2 Natural | Rin (Frostdale Giants) |
-| 1 | Nature's Wrath | Action | 1 Natural | Xander (King of Titans) |
-
-**Conjurations:** Silver Snake ×1 (attack = its status tokens) · Three-Eyed Owl ×2 · Frostback Bear ×2
-**First Five:** Summon Silver Snake · Hypnotize · Golden Veil · Summon Three-Eyed Owl · Frost Bite
+The ultimate "let's see cards from all over the collection" deck: **30 different singletons drawn from 14 expansions**, one of nearly every die type. James's ability lets you pay life to fetch any card from your deck, which makes a highlander genuinely consistent — you dig for exactly the answer the moment demands. It's a glorious toolbox and the single best deck to show a new group just how wide Ashes can get.
 
 <div class="gallery">
-<figure><img src="https://cdn.ashes.live/images/cards/summon-silver-snake.jpg"><figcaption>Summon Silver Snake</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/silver-snake.jpg"><figcaption>Silver Snake</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/hypnotize.jpg"><figcaption>Hypnotize</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/frost-bite.jpg"><figcaption>Frost Bite</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/raptor-herder.jpg" loading="lazy"><figcaption>Raptor Herder</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/master-vampire.jpg" loading="lazy"><figcaption>Master Vampire</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/stasis.jpg" loading="lazy"><figcaption>Stasis</figcaption></figure>
 </div>
 
-!!! tip "Game plan"
-    Build one enormous snake, then kill with it. Silver Snake starts at zero attack but **Consume gives it a status token every time an opponent's unit is destroyed**, and its attack equals its token count — so Frost Bite, Freezing Blast, Ice Trap, and Nature's Wrath all grow it while they clear the board. The engine is **Command Strike**: keep the snake home (unexhausted) and use its huge attack to snipe an enemy unit — that kill triggers Consume, the snake grows, repeat. To end the game, **Hypnotize gives the snake Bypass** (unblockable) and you swing at the Phoenixborn. Golden Veil protects the single irreplaceable snake.
-
-!!! note "Design note"
-    Trimmed to a legal 30 cards; Frost Fang and Freezing Blast round out the Frostdale package. Maeoni holds both Frostback Bears and all three Frost Bites, running only one of the three shared Nature's Wrath.
+[View full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/11669/){ .md-button }
 
 ---
 
-## Coal Roarkwin — "Normal Bears"
+## Echo Greystorm — "Ashcon 2021 — Pod A, 1st Place"
 
-<div class="chips"><span class="chip">Illusion</span><span class="chip">Tempo</span><span class="chip">Difficulty ★★☆</span></div>
+<div class="chips"><span class="chip">Charm / Natural / Divine / Sympathy</span><span class="chip">10 expansions</span><span class="chip">Control · Tournament winner</span></div>
 
-<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/coal-roarkwin.jpg" alt="Coal Roarkwin"></div>
+<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/echo-greystorm.jpg" alt="Echo Greystorm" loading="lazy"></div>
 
-**Battlefield 6 · Life 15 · Spellboard 4**
-**Slash** — `[side]–discard 1 card`: Deal **1 damage to a target unit** a chosen player controls (or 1 to their Phoenixborn if they control no units).
+**Dice:** 2 Charm · 3 Natural · 3 Divine · 2 Sympathy
 
-**Dice:** 6 Illusion · 2 Natural · 2 Ceremonial
-
-| # | Card | Type | Cost | Source |
-|---|------|------|------|--------|
-| 3 | Shadow Guard | Ally | 2 Illusion | Sembali (Spirits of Memoria) |
-| 3 | Raptor Herder ✦ | Ally | 1 Natural | Xander (King of Titans) |
-| 3 | Summon Shadow Spirit ✦ | Ready | play `[main]` → 1 Illusion (power) | Victoria (Duchess of Deception) |
-| 3 | One Hundred Blades | Action | 2 basic | Coal Roarkwin (Master Set) |
-| 3 | Mist Typhoon | Action | 1 Illusion + 1 Natural | Aradel Summergaard (Master Set) |
-| 3 | Gates Thrown Open | Action | 1 Illusion | Sembali (Spirits of Memoria) |
-| 3 | To Shadows | Action | `[side]` | Victoria (Duchess of Deception) |
-| 3 | Particle Shield | Reaction | 1 Illusion | Victoria (Duchess of Deception) |
-| 3 | Chant of Revenge | Ready | 1 Ceremonial | Coal Roarkwin (Master Set) |
-| 3 | Abundance | Ready | play `[main]` → `[main]`–exhaust | Saria Guideman (Master Set) |
-
-**Conjurations:** Shadow Spirit ×3 · Raptor Hatchling ×3
-**First Five:** Summon Shadow Spirit · Shadow Guard · Raptor Herder · Abundance · One Hundred Blades
+A rainbow control deck and the most cross-set list the research turned up. Echo's **Chaos Gravity** repositions and exhausts units to line up **Meteor** and **Nature's Wrath** burn, while a **Majestic Titan** and **Frostback Bear** anchor the board and **Shared Sorrow + Sympathy Pain** punish the opponent's units. The four-die spread lets it splash the best card from nearly every owned set into one shell.
 
 <div class="gallery">
-<figure><img src="https://cdn.ashes.live/images/cards/one-hundred-blades.jpg"><figcaption>One Hundred Blades</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/summon-shadow-spirit.jpg"><figcaption>Summon Shadow Spirit</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/gates-thrown-open.jpg"><figcaption>Gates Thrown Open</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/mist-typhoon.jpg"><figcaption>Mist Typhoon</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/chaos-gravity.jpg" loading="lazy"><figcaption>Chaos Gravity</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/summon-majestic-titan.jpg" loading="lazy"><figcaption>Summon Majestic Titan</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/meteor.jpg" loading="lazy"><figcaption>Meteor</figcaption></figure>
 </div>
 
-!!! tip "Game plan"
-    Slash spends **cards, not dice**, so the deck is a draw machine that rains 1-damage pings while grinding the board. **Abundance, One Hundred Blades, Mist Typhoon, and Particle Shield all refill the hand Slash burns**, and every surplus card becomes a ping. One Hundred Blades and Mist Typhoon each shave 1 life off the opponent's whole board — brutal against tokens and great with Chant of Revenge, which turns your dying allies into face damage. Shadow Guard ambushes as a surprise blocker; To Shadows bounces a tapped attacker for tempo.
-
-!!! note "Design note"
-    Coal gets sole claim on all three Raptor Herders and the Master-Set illusion package, so nothing here is contested by another deck.
+[View full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/16988/){ .md-button }
 
 ---
 
-## Odette Diamondcrest — "Hydra's Return"
+## Fiona Mercywind — "Seance"
 
-<div class="chips"><span class="chip">Divine / Natural</span><span class="chip">Midrange</span><span class="chip">Difficulty ★★☆</span></div>
+<div class="chips"><span class="chip">Illusion / Divine / Sympathy / Time</span><span class="chip">12 expansions</span><span class="chip">Conjuration toolbox</span></div>
 
-<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/odette-diamondcrest.jpg" alt="Odette Diamondcrest"></div>
+<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/fiona-mercywind.jpg" alt="Fiona Mercywind" loading="lazy"></div>
 
-**Battlefield 5 · Life 18 · Spellboard 3**
-**Enter the Fray** — `[main]–[exhaust]`: Deal 2 damage to a target unit; then deal damage to **this Phoenixborn** equal to that unit's attack value.
+**Dice:** 3 Illusion · 3 Divine · 3 Sympathy · 1 Time
 
-**Dice:** 6 Divine · 4 Natural
-
-| # | Card | Type | Cost | Source |
-|---|------|------|------|--------|
-| 3 | Holy Knight | Ally | 1 Divine (power) + 1 Divine + 1 basic | Odette (Law of Lions) |
-| 3 | Shield Mage | Ally | 1 Divine + 1 basic | Odette (Law of Lions) |
-| 3 | Pain Shaman | Ally | 2 Natural | Xander (King of Titans) |
-| 2 | Summon Shining Hydra ✦ | Action | 1 Divine + 1 Natural + 1 basic | Xander (King of Titans) |
-| 2 | Summon Winged Lioness ✦ | Ready | play `[main]` → 1 Divine + 1 basic | Odette (Law of Lions) |
-| 1 | Summon Light Bringer ✦ | Ready | play `[main]` → 1 Divine | Astrea (Goddess of Ishra) |
-| 3 | Sword of Virtue | Action | 2 basic | Odette (Law of Lions) |
-| 3 | Meteor | Action | 2 Divine | Odette (Law of Lions) |
-| 3 | Heal | Action | 1 Divine | Odette (Law of Lions) |
-| 2 | Nature's Wrath | Action | 1 Natural | Xander (King of Titans) |
-| 3 | Massive Growth | Alteration | 1 Natural + 1 basic | Aradel Summergaard (Master Set) |
-| 2 | Power Through | Alteration | 1 Divine | Odette (Law of Lions) |
-
-**Conjurations:** Shining Hydra ×1 · Shining Hydra Head ×3 · Winged Lioness ×2 · Light Bringer ×1
-**First Five:** Summon Shining Hydra · Shield Mage · Holy Knight · Sword of Virtue · Meteor
+The widest-mixing deck in the whole library — a "one of everything" summon toolbox that pulls conjurations from **eight different sets**, held together by **Gates Thrown Open** to recur spent summons and **Shepherd of Lost Souls** to reanimate. Fiona's spellboard flexibility means you answer any matchup by fetching the right single-copy creature, while Polarity Mage and Mind Maze grind the board. Deckbuilding as a scavenger hunt.
 
 <div class="gallery">
-<figure><img src="https://cdn.ashes.live/images/cards/summon-shining-hydra.jpg"><figcaption>Summon Shining Hydra</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/massive-growth.jpg"><figcaption>Massive Growth</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/sword-of-virtue.jpg"><figcaption>Sword of Virtue</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/meteor.jpg"><figcaption>Meteor</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/gates-thrown-open.jpg" loading="lazy"><figcaption>Gates Thrown Open</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/shepherd-of-lost-souls.jpg" loading="lazy"><figcaption>Shepherd of Lost Souls</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/mind-maze.jpg" loading="lazy"><figcaption>Mind Maze</figcaption></figure>
 </div>
 
-!!! tip "Game plan"
-    A grindy value deck built on removal density and one oversized threat. **Enter the Fray, Sword of Virtue, Meteor, and Nature's Wrath** answer almost anything, and Enter the Fray clears 0-attack conjurations for free. The centerpiece combo is **Shining Hydra + Massive Growth**: the Hydra regenerates and grows heads on its own, and a timed Massive Growth turns it into a huge Terrifying attacker that keeps its bonus heads, shielded by Shield Mage and Holy Knight. Light Bringer's Infatuate forces the opponent to swing into your wall; Heal and Pain Shaman offset the self-damage from Enter the Fray.
-
-!!! note "Design note"
-    Odette has first claim on the King of Titans centerpiece (Shining Hydra, Pain Shaman) and takes two of the three Nature's Wrath plus the single shared Light Bringer; Sonic Swordsman, Raptor Herder, and Frostback Bear from the original list went to the Echo, Coal, and Maeoni decks.
+[View full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/23545/){ .md-button }
 
 ---
 
-## Namine Hymntide — "Song of Soaksend"
+## Jessa Na Ni — "Death by a Thousand Screams"
 
-<div class="chips"><span class="chip">Sympathy</span><span class="chip">Tempo / Control</span><span class="chip">Difficulty ★★☆</span></div>
+<div class="chips"><span class="chip">Charm / Natural / Divine</span><span class="chip">8 expansions</span><span class="chip">Removal control · AIL champion</span></div>
 
-<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/namine-hymntide.jpg" alt="Namine Hymntide"></div>
+<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/jessa-na-ni.jpg" alt="Jessa Na Ni" loading="lazy"></div>
 
-**Battlefield 6 · Life 17 · Spellboard 4**
-**Calming Melody** — `[side]–[exhaust]–1 Sympathy`: Draw 1 card; you may place 1 exhaustion token on this ability and 1 on a **target Phoenixborn**.
+**Dice:** 2 Charm · 4 Natural · 4 Divine
 
-**Dice:** 10 Sympathy
-
-| # | Card | Type | Cost | Source |
-|---|------|------|------|--------|
-| 3 | River Skald | Ally | 2 Sympathy | Namine (Song of Soaksend) |
-| 3 | Flute Mage | Ally | 1 Sympathy + 1 basic | Namine (Song of Soaksend) |
-| 3 | String Mage | Ally | 1 Sympathy (power) + 1 Sympathy | Namine (Song of Soaksend) |
-| 3 | Encore | Action | `[main]` (no dice) | Namine (Song of Soaksend) |
-| 3 | Crescendo | Reaction | 1 Sympathy + discard 1 | Namine (Song of Soaksend) |
-| 3 | Shatter Pulse | Reaction | 2 Sympathy + 1 basic | Namine (Song of Soaksend) |
-| 3 | Guilt Link | Ready | 1 Sympathy | Namine (Song of Soaksend) |
-| 3 | Magic Syphon | Ready | 1 Sympathy | Namine (Song of Soaksend) |
-| 3 | Summon Salamander Monk ✦ | Ready | play `[main]` → 1 Sympathy | Namine (Song of Soaksend) |
-| 3 | Summon Squall Stallion ✦ | Ready | play `[main]` → 1 Sympathy + 1 basic | Namine (Song of Soaksend) |
-
-**Conjurations:** Salamander Monk ×2 · Salamander Monk Spirit ×2 · Squall Stallion ×2
-**First Five:** River Skald · Summon Salamander Monk · Summon Squall Stallion · Guilt Link · Magic Syphon
+A layered removal pile that stitches four sets' worth of kill spells — **Fear, Nature's Wrath, Meteor, Seeds of Aggression** — behind a Divine sustain shell (Heal, Holy Knight, Summon Light Bringer). **Fear** is the engine: sacrifice your own unit to destroy theirs, healing Jessa and dodging on-death triggers, while Law of Fear taxes their board. Grind them out one scream at a time. A championship-winning list.
 
 <div class="gallery">
-<figure><img src="https://cdn.ashes.live/images/cards/river-skald.jpg"><figcaption>River Skald</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/summon-salamander-monk.jpg"><figcaption>Summon Salamander Monk</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/guilt-link.jpg"><figcaption>Guilt Link</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/crescendo.jpg"><figcaption>Crescendo</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/fear.jpg" loading="lazy"><figcaption>Fear</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/natures-wrath.jpg" loading="lazy"><figcaption>Nature's Wrath</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/summon-light-bringer.jpg" loading="lazy"><figcaption>Summon Light Bringer</figcaption></figure>
 </div>
 
-!!! tip "Game plan"
-    A self-contained tempo-control deck that answers threats while grinding out bodies. You have **four flavors of removal**: River Skald discards a card to deal its cost in damage, Crescendo pings for 3, Shatter Pulse destroys a unit after one of yours dies, and Guilt Link forces two units to die together. Salamander Monk returns as a Spirit when it dies (endless chumps); Squall Stallion grows via Torrent and dodges reactions with Lightning Speed. Magic Syphon fixes dice and, with Calming Melody, taxes the enemy Phoenixborn with exhaustion; Encore rebuys your best card each turn.
-
-!!! note "Design note"
-    Namine owns the entire Song of Soaksend box exclusively, so none of these cards appears in any other deck — the single cleanest deck in the set.
+[View full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/44389/){ .md-button }
 
 ---
 
-## Echo Greystorm — "Realm Walker"
+## Harold Westraven — "Angry Druid Mill"
 
-<div class="chips"><span class="chip">Divine / Sympathy (+Time/Illusion)</span><span class="chip">Control</span><span class="chip">Difficulty ★★★</span></div>
+<div class="chips"><span class="chip">Charm / Natural / Divine / Sympathy</span><span class="chip">10 expansions</span><span class="chip">Mill · AIL finalist</span></div>
 
-<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/echo-greystorm.jpg" alt="Echo Greystorm"></div>
+<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/harold-westraven.jpg" alt="Harold Westraven" loading="lazy"></div>
 
-**Battlefield 6 · Life 19 · Spellboard 3**
-**Gravity Flux** — `[side]–[exhaust]`: Place 1 exhaustion token on a target unit; at the end of this turn, remove that same token.
+**Dice:** 1 Charm · 2 Natural · 2 Divine · 5 Sympathy
 
-**Dice:** 3 Divine · 3 Sympathy · 2 Illusion · 2 Time
-
-| # | Card | Type | Cost | Source |
-|---|------|------|------|--------|
-| 3 | Polarity Mage | Ally | 1 Sympathy *or* 1 Divine | Echo (Masters of Gravity) |
-| 3 | Light Swordsman | Ally | 1 Divine (power) | Echo (Masters of Gravity) |
-| 3 | Sonic Swordsman | Ally | 1 Divine (power) + 1 Sympathy + 1 basic | Echo (Masters of Gravity) |
-| 3 | Realm Walker | Ally | 1 Illusion (power) + 1 Time + 1 basic | Hope (Artist of Dreams) |
-| 3 | Chaos Gravity | Action | 1 Divine/Sympathy + 1 basic | Echo (Masters of Gravity) |
-| 3 | Enlightenment | Action | 1 Divine + 1 basic | Echo (Masters of Gravity) |
-| 3 | Holy Relics | Alteration | 2 Divine | Echo (Masters of Gravity) |
-| 3 | Gravity Training ✦ | Ready | play `[main]` → 1 Divine/Sympathy | Echo (Masters of Gravity) |
-| 3 | Summon Mirror Spirit ✦ | Ready | play `[main]` → 1 Sympathy + 1 basic | Echo (Masters of Gravity) |
-| 3 | Changing Winds | Ready | 1 Sympathy + 1 basic | Echo (Masters of Gravity) |
-
-**Conjurations:** Mirror Spirit ×3 (attack scales with enemy exhaustion) · Enhanced Strength ×3
-**First Five:** Summon Mirror Spirit · Gravity Training · Chaos Gravity · Light Swordsman · Changing Winds
+A rare **win-by-mill** deck — you don't kill the Phoenixborn, you burn their deck away. **Magic Syphon** grinds down their draw pile while **Shepherd of Lost Souls** and **Essence Druid** recur spells and allies to keep syphoning, and Harold's dice-fixing power keeps the sympathy engine humming. Consume Soul stalls the board while the clock runs out on the opponent's library. A completely different way to win.
 
 <div class="gallery">
-<figure><img src="https://cdn.ashes.live/images/cards/chaos-gravity.jpg"><figcaption>Chaos Gravity</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/summon-mirror-spirit.jpg"><figcaption>Summon Mirror Spirit</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/sonic-swordsman.jpg"><figcaption>Sonic Swordsman</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/realm-walker.jpg"><figcaption>Realm Walker</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/magic-syphon.jpg" loading="lazy"><figcaption>Magic Syphon</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/consume-soul.jpg" loading="lazy"><figcaption>Consume Soul</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/essence-druid.jpg" loading="lazy"><figcaption>Essence Druid</figcaption></figure>
 </div>
 
-!!! tip "Game plan"
-    Control the board by keeping the opponent's units exhausted, then win with attackers that never stay tapped. **Chaos Gravity and Gravity Flux pile exhaustion onto enemy units, which grows Mirror Spirit** — its attack rises with every exhaustion token the opponent carries. Gravity Training attaches Enhanced Strength (Endurance: readies at end of round), letting Light Swordsman and Sonic Swordsman attack every turn; Enlightenment removes exhaustion from your side for surprise swings; Realm Walker's Isolate forces the opponent to exhaust their own units, feeding the engine.
-
-!!! note "Design note"
-    Echo takes all three Sonic Swordsman (resolving the overlap with Odette's list) and yields the shared Light Bringer to Odette, keeping his spellboard clean at exactly three.
+[View full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/9000/){ .md-button }
 
 ---
 
-## Koji Wolfcub — "Boy Among Wolves"
+## Astrea — "Daggers in the Knight" (Beguile)
 
-<div class="chips"><span class="chip">Natural</span><span class="chip">Token Swarm</span><span class="chip">Difficulty ★☆☆</span></div>
+<div class="chips"><span class="chip">Illusion / Natural / Divine</span><span class="chip">11 expansions</span><span class="chip">Mind-control tempo</span></div>
 
-<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/koji-wolfcub.jpg" alt="Koji Wolfcub"></div>
+<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/astrea.jpg" alt="Astrea" loading="lazy"></div>
 
-**Battlefield 10 · Life 16 · Spellboard 3**
-**Accelerate Growth** — `[side]–[exhaust]`: Place 1 status token on a target card.
+**Dice:** 3 Illusion · 4 Natural · 3 Divine
 
-**Dice:** 5 Natural · 5 Sympathy
-
-| # | Card | Type | Cost | Source |
-|---|------|------|------|--------|
-| 3 | Hunt Master ✦ | Ally | 1 Natural (power) + 1 Sympathy + 1 basic | Koji (Boy Among Wolves) |
-| 3 | Jungle Warrior | Ally | 1 Sympathy + 1 basic | Koji (Boy Among Wolves) |
-| 3 | Sleeping Bear | Ally | 2 Natural | Koji (Boy Among Wolves) |
-| 3 | Temple Elder | Ally | 2 basic | Koji (Boy Among Wolves) |
-| 3 | Invigorate | Action | 1 Natural + 1 Sympathy | Koji (Boy Among Wolves) |
-| 3 | Lick Wounds | Action | 2 basic | Koji (Boy Among Wolves) |
-| 3 | Explosive Growth | Alteration | 1 Sympathy + 1 Natural | Koji (Boy Among Wolves) |
-| 3 | Join the Hunt | Ready | 1 Sympathy | Koji (Boy Among Wolves) |
-| 3 | Summon Biter ✦ | Ready | play `[main]` → 1 Natural + 1 basic | Koji (Boy Among Wolves) |
-| 3 | Summon Indiglow Creeper ✦ | Ready | play `[main]` → 1 Natural + 1 Sympathy | Koji (Boy Among Wolves) |
-
-**Conjurations:** Biter ×4 · Indiglow Creeper ×1 · Luminous Seedling ×3 · Brilliant Thorn ×6 · Panther Spirit ×3
-**First Five:** Hunt Master · Summon Biter · Temple Elder · Invigorate · Join the Hunt
+Built around Astrea's **Beguile** — take control of an enemy unit. **Fox Spirit** and **False Demon** give her cheap fodder to Beguile-and-sacrifice, **Dark Presence** makes your big hitters (Celestial Knight, Frost Fang, Archasaurus) unblockable, and Mark of the Goddess plus heals offset her small battlefield. Turning the opponent's own board against them never stops being satisfying.
 
 <div class="gallery">
-<figure><img src="https://cdn.ashes.live/images/cards/hunt-master.jpg"><figcaption>Hunt Master</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/summon-biter.jpg"><figcaption>Summon Biter</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/explosive-growth.jpg"><figcaption>Explosive Growth</figcaption></figure>
-<figure><img src="https://cdn.ashes.live/images/cards/join-the-hunt.jpg"><figcaption>Join the Hunt</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/mark-of-the-goddess.jpg" loading="lazy"><figcaption>Mark of the Goddess</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/dark-presence.jpg" loading="lazy"><figcaption>Dark Presence</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/to-shadows.jpg" loading="lazy"><figcaption>To Shadows</figcaption></figure>
 </div>
 
-!!! tip "Game plan"
-    Flood Koji's 10-slot battlefield and turn status tokens into damage. **Accelerate Growth gives a free token every round and Invigorate adds three more**, feeding Explosive Growth (+attack) and setting off Luminous Seedling's Blossom to spawn a pile of 3/2 Brilliant Thorns. Hunt Master arrives with a free Panther Spirit and pumps the team; Biter walls with Unit Guard while the token wave builds. The finisher is **Join the Hunt's Group Tactics**, turning a wide board into a lethal alpha strike once you're declaring three or more attackers.
+[View full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/35198/){ .md-button }
 
-!!! note "Design note"
-    As the exclusive owner of the Boy Among Wolves box, Koji contends with no other deck for a single card.
+---
+
+## Rin Northfell — "Giant Killer, Man-Eating Beasts"
+
+<div class="chips"><span class="chip">Charm / Natural / Divine / Sympathy</span><span class="chip">9 expansions</span><span class="chip">Big-creature beatdown</span></div>
+
+<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/rin-northfell.jpg" alt="Rin Northfell" loading="lazy"></div>
+
+**Dice:** 2 Charm · 4 Natural · 2 Divine · 2 Sympathy
+
+Pure big-monster beatdown, and the easiest deck here to pilot. **Rin's Fury** pumps a beast mid-combat, **Massive Growth** and **Power Through** stack on top, and a fat curve of Frostback Bear, Cerasaurus and Archasaurus Mounts crashes in. Ice Trap and Mind Fog Owl buy the tempo you need while your monsters get out of hand. Thematic and immediately fun.
+
+<div class="gallery">
+<figure><img src="https://cdn.ashes.live/images/cards/rins-fury.jpg" loading="lazy"><figcaption>Rin's Fury</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/massive-growth.jpg" loading="lazy"><figcaption>Massive Growth</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/summon-frostback-bear.jpg" loading="lazy"><figcaption>Summon Frostback Bear</figcaption></figure>
+</div>
+
+[View full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/43238/){ .md-button }
+
+---
+
+## Namine Hymntide — "Stallion Stampede"
+
+<div class="chips"><span class="chip">Charm / Illusion / Sympathy / Time</span><span class="chip">8 expansions</span><span class="chip">Tempo swarm</span></div>
+
+<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/namine-hymntide.jpg" alt="Namine Hymntide" loading="lazy"></div>
+
+**Dice:** 3 Charm · 2 Illusion · 4 Sympathy · 1 Time
+
+A four-color tempo-swarm that pairs Namine's own **Squall Stallion** and **Orchid Dove** token engines with cross-set accelerants. **Accelerate + Gates Thrown Open + Abundance** let you dump multiple summons and Encore-recur allies in a single turn, while To Shadows and Golden Veil protect the board. A far cry from her single-box precon — this is what Namine looks like when she raids six other sets.
+
+<div class="gallery">
+<figure><img src="https://cdn.ashes.live/images/cards/summon-squall-stallion.jpg" loading="lazy"><figcaption>Summon Squall Stallion</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/encore.jpg" loading="lazy"><figcaption>Encore</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/summon-orchid-dove.jpg" loading="lazy"><figcaption>Summon Orchid Dove</figcaption></figure>
+</div>
+
+[View full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/16159/){ .md-button }
+
+---
+
+## Koji Wolfcub — "Koji the Euro Game" (1st Place, Games Day)
+
+<div class="chips"><span class="chip">Charm / Natural / Sympathy</span><span class="chip">6 expansions</span><span class="chip">Swarm-control · Tournament winner</span></div>
+
+<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/koji-wolfcub.jpg" alt="Koji Wolfcub" loading="lazy"></div>
+
+**Dice:** 2 Charm · 4 Natural · 4 Sympathy
+
+A tournament-winning swarm-control hybrid. **Indiglow Creeper** spits out Brilliant Thorn and Luminous Seedling tokens for a wide board, then **Guilt Link + Seeds of Aggression** force the opponent into disadvantageous attacks that you punish with Crescendo, Redirect, and Nature's Wrath. It weds Koji's token engine to Namine's Guilt Link tech and Xander's dino beaters — three sets working as one combo.
+
+<div class="gallery">
+<figure><img src="https://cdn.ashes.live/images/cards/summon-indiglow-creeper.jpg" loading="lazy"><figcaption>Summon Indiglow Creeper</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/guilt-link.jpg" loading="lazy"><figcaption>Guilt Link</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/seeds-of-aggression.jpg" loading="lazy"><figcaption>Seeds of Aggression</figcaption></figure>
+</div>
+
+[View full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/13513/){ .md-button }
+
+---
+
+## Hope Everthorn — "Out For Blood"
+
+<div class="chips"><span class="chip">Ceremonial / Divine / Sympathy</span><span class="chip">11 expansions</span><span class="chip">Lifedrain aggro · ShuffleBus Top 8</span></div>
+
+<div class="pb-portrait"><img src="https://cdn.ashes.live/images/cards/hope-everthorn.jpg" alt="Hope Everthorn" loading="lazy"></div>
+
+**Dice:** 4 Ceremonial · 2 Divine · 4 Sympathy
+
+Hope's card-advantage engine bankrolls a wide Sympathy board plus a reaction-spell burn package — **Void Pulse, Sympathy Pain, and Final Cry** deliver reach the opponent can't block. Vampire lifedrain (Master Vampire + Vampire Bat Swarm) offsets the aggression while Blood Chains, Choke, and Fire Archer clear blockers. Tournament-proven aggressive value with a bloodthirsty streak.
+
+<div class="gallery">
+<figure><img src="https://cdn.ashes.live/images/cards/void-pulse.jpg" loading="lazy"><figcaption>Void Pulse</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/master-vampire.jpg" loading="lazy"><figcaption>Master Vampire</figcaption></figure>
+<figure><img src="https://cdn.ashes.live/images/cards/summon-sleeping-widows.jpg" loading="lazy"><figcaption>Summon Sleeping Widows</figcaption></figure>
+</div>
+
+[View full decklist on ashes.live :octicons-arrow-right-24:](https://ashes.live/decks/30929/){ .md-button }
+
+---
+
+## More to explore
+
+A dozen more owned-buildable, cross-set decks worth a spin — including the three tournament anchors from the original game-night set. Open any on ashes.live for the full list.
+
+| Phoenixborn | Deck | Archetype | Sets | Link |
+|---|---|---|---|---|
+| Maeoni Viper | Strike, Scream, Run | Silver Snake bypass combo | 3+ | [ashes.live](https://ashes.live/decks/7973/) |
+| Coal Roarkwin | Normal Bears | Illusion card-fuelled tempo | 4 | [ashes.live](https://ashes.live/decks/9287/) |
+| Odette Diamondcrest | Hydra's Return | Divine midrange (Worlds shell) | 4 | [ashes.live](https://ashes.live/decks/18445/) |
+| Victoria Glassfire | Oppression | Illusion dice/spellboard prison | 9 | [ashes.live](https://ashes.live/decks/31246/) |
+| Leo Sunshadow | Majestic Leo Toolbox | Charm tempo + big beater | 10 | [ashes.live](https://ashes.live/decks/14495/) |
+| Rimea Careworn | Blasphemy | Time-dice reanimation swarm | 11 | [ashes.live](https://ashes.live/decks/31191/) |
+| Xander Heartsblood | Reinforce Armored Allies | Asymmetric board-wipe | 10 | [ashes.live](https://ashes.live/decks/25184/) |
+| Harold Westraven | Celestial Vampire v3 | Lifesteal control (Worlds) | 10 | [ashes.live](https://ashes.live/decks/35210/) |
+| James Endersight | Shield Mage Gambit | Attrition lock combo | 11 | [ashes.live](https://ashes.live/decks/12658/) |
+| Namine Hymntide | Goodstuff V2 | Natural/Sympathy midrange | 6 | [ashes.live](https://ashes.live/decks/44529/) |
+| Koji Wolfcub | Status Horses | Go-wide status/pump aggro | 6 | [ashes.live](https://ashes.live/decks/9903/) |
+| Echo Greystorm | Chaos Rhinos | Charm/Natural control-swarm | 8 | [ashes.live](https://ashes.live/decks/15418/) |
+
+!!! tip "Want the exact card list to build or play?"
+    Every link opens the deck on **ashes.live**, where you can see all 30 cards with full text and images, and press **Clone** to import it into **[ashteki](https://ashteki.com)** for online play.

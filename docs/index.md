@@ -1,6 +1,6 @@
 # Phoenixborn
 
-*A game-night companion for **Ashes: Rise of the Phoenixborn** — seven tournament-caliber decks you can build **at the same time** from one collection, plus friendly guides to building, strategizing, and playing.*
+*A game-night companion for **Ashes: Rise of the Phoenixborn** — a library of cross-set decks to explore, a printable seven-deck set you can build **all at once**, and friendly guides to building, strategizing, and playing.*
 
 <div class="roster" markdown>
 ![Brennen Blackcloud](https://cdn.ashes.live/images/cards/brennen-blackcloud.jpg)
@@ -12,17 +12,17 @@
 ![Koji Wolfcub](https://cdn.ashes.live/images/cards/koji-wolfcub.jpg)
 </div>
 
-Welcome. This site exists so a group of friends can move past the pre-constructed starter decks and play **real constructed Ashes** — the version the tournament scene actually plays — without anyone buying a second collection. Every deck here is built from a single set of cards and tuned so that all seven can sit on the table at once, each a complete, legal, 30-card deck with its own dice and conjuration pile.
+Welcome. This site exists so a group of friends can move past the pre-constructed starter decks and play **real constructed Ashes** — the version the tournament scene actually plays — without anyone buying a second collection. It offers two things built entirely from one collection: a browsable **[Deck Library](decks.md)** of cross-set, community- and tournament-tested brews to explore, and a printable **seven-deck set** tuned so all seven can sit on the table at once.
 
 It's written for players who know **how to play** — dice, the turn structure, combat, how spells work — but who haven't yet built a deck from scratch.
 
 <div class="grid cards" markdown>
 
-- :material-cards-playing: __The Seven Decks__
+- :material-cards-playing: __Deck Library__
 
-    Full lists, dice, First Fives, combos, and design notes — one deck for each of the game's seven magic types.
+    Community- and tournament-tested decks that mix cards from across the whole collection — with dice, engines, combos, and links to the full lists.
 
-    [:octicons-arrow-right-24: Browse the decks](decks.md)
+    [:octicons-arrow-right-24: Browse the library](decks.md)
 
 - :material-school: __Deckbuilding Guide__
 
@@ -30,11 +30,11 @@ It's written for players who know **how to play** — dice, the turn structure, 
 
     [:octicons-arrow-right-24: Learn to build](deckbuilding.md)
 
-- :material-grid: __Build-at-Once Matrix__
+- :material-grid: __Sharing the Collection__
 
-    Proof that all seven decks coexist from one collection, and the handful of shared cards to watch.
+    How to tell which decks can be built together from one collection, and the handful of shared staples to watch.
 
-    [:octicons-arrow-right-24: See the matrix](matrix.md)
+    [:octicons-arrow-right-24: Building multiple decks](matrix.md)
 
 - :material-cart-outline: __Completing the Collection__
 

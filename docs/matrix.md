@@ -1,38 +1,45 @@
-# Build-at-Once Matrix
+# Sharing the Collection
 
-Here's the payoff. Because every deck is anchored on its own magic type and its own Phoenixborn's expansion, they almost never reach for the same card — so **all seven decks can be sleeved up and sitting on the table at the same time**, from your single collection, with nothing left short. Every pairwise combination is buildable:
+The [Deck Library](decks.md) decks are cross-set brews, and good cross-set decks tend to reach for the same format-defining staples — Nature's Wrath, Raptor Herder, Sonic Swordsman, and friends. Because you own **one** collection, that means you build **a handful of these at a time**, not all of them at once. This page explains how to tell what fits together.
 
-| | Brennen | Maeoni | Coal | Odette | Namine | Echo | Koji |
-|-------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Brennen** | — | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Maeoni**  | ✅ | — | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Coal**    | ✅ | ✅ | — | ✅ | ✅ | ✅ | ✅ |
-| **Odette**  | ✅ | ✅ | ✅ | — | ✅ | ✅ | ✅ |
-| **Namine**  | ✅ | ✅ | ✅ | ✅ | — | ✅ | ✅ |
-| **Echo**    | ✅ | ✅ | ✅ | ✅ | ✅ | — | ✅ |
-| **Koji**    | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | — |
+## Two ways to play from one collection
 
-## The shared components (and why nothing runs short)
+<div class="grid cards" markdown>
 
-Almost every card is used by exactly one deck, well within the three copies your collection provides. Only a small handful of cards and conjurations come from a pool that more than one deck could want, and each has been allocated to stay within supply:
+- :material-account-group: __The coexisting seven-deck set__
 
-| Card / Conjuration | You own | How it's split | Total used |
-|---|---|---|---|
-| **Nature's Wrath** (Xander / King of Titans) | 3 | Odette 2 + Maeoni 1 | **3 of 3** — exact |
-| **Frostback Bear** conjuration (Rin / Frostdale) | 2 | Maeoni 2 (Odette dropped it) | 2 of 2 — exact |
-| **Three-Eyed Owl** conjuration (Saria — Master Set) | 2 | Maeoni 2 | 2 of 2 — exact |
-| **Silver Snake** conjuration (Maeoni — Master Set) | 1 | Maeoni 1 | 1 of 1 — exact |
-| **Shining Hydra** conjuration (Xander / King of Titans) | 1 | Odette 1 | 1 of 1 — exact |
-| **Raptor Herder** + **Raptor Hatchling** (Xander / King of Titans) | 3 / 3 | Coal 3 / 3 (Odette dropped it) | 3 / 3 — exact |
-| **Sonic Swordsman** (Echo / Masters of Gravity) | 3 | Echo 3 (Odette dropped it) | 3 of 3 — exact |
-| **Light Bringer** (Astrea / Goddess of Ishra) | 2 | Odette 1 | 1 of 2 — spare |
+    If you want to hand a deck to each of several friends and have them **all built simultaneously**, use the printable seven-deck set — it's engineered so every card stays within supply. Each deck leans on its own "home" box, so nothing runs short.
 
-Everything else — the shared Master Set cards (Molten Gold, Final Cry, Sleeping Widows → used only by Brennen; Golden Veil, Hypnotize, Root Armor → Maeoni; One Hundred Blades, Mist Typhoon, Abundance → Coal; Massive Growth → Odette) and every expansion's home-box cards — lives in a single deck and never touches another.
+    [:octicons-arrow-right-24: The seven-deck game-night guide](https://voidnologo.com/phoenixborn/)
 
-!!! warning "The only card at true capacity is Nature's Wrath (3 of 3)."
+- :material-cards-playing: __The Deck Library__
 
-## If you want to swap or modify a deck
+    For deep-diving into constructed play, pick a few library decks at a time. Any **two** almost always build together; **three or four** usually work; going wider means watching the shared staples below.
 
-The set is tuned tightly, so if you rebuild a deck or drop in a different one, watch the exact-capacity components above — especially **Nature's Wrath**, the **Frostback Bear** and **Three-Eyed Owl** conjurations, **Raptor Herder/Hatchling**, and **Sonic Swordsman**. Those are where a new deck is most likely to create a shortfall. Everything with slack (or confined to one home box) is safe to borrow.
+    [:octicons-arrow-right-24: Browse the library](decks.md)
 
-And of course, if you're only putting **some** of these decks on the table on a given night, all of these constraints loosen — the tightness only matters when you want all seven at once.
+</div>
+
+## The staples to watch
+
+When you want several library decks on the table at once, these are the cards most likely to run short first. Add up how many copies your chosen decks need and keep the total at or below what you own:
+
+| Card (source) | You own | Notes |
+|---|---|---|
+| **Nature's Wrath** (Xander / King of Titans) | 3 | The single most-shared removal spell in the format — almost every Natural/control deck wants 2–3. This is the first card you'll run out of. |
+| **Raptor Herder** + Raptor Hatchling (Xander / King of Titans) | 3 / 3 | A staple 1-cost body in many decks; the Hatchling conjurations are shared too. |
+| **Sonic Swordsman** (Echo / Masters of Gravity) | 3 | Recurs across most Divine/Sympathy shells. |
+| **Shepherd of Lost Souls** (Sembali / Spirits of Memoria) | 3 | The go-to reanimator; several control/recursion decks lean on it. |
+| **Gates Thrown Open** (Sembali / Spirits of Memoria) | 3 | The universal summon-recursion engine. |
+| **Magic Syphon** (Namine / Song of Soaksend) | 3 | Dice denial / mill; wanted by control decks. |
+| **Summon Salamander Monk** (Namine / Song of Soaksend) | 3 (2 conj) | Recurring chump/attacker used widely. |
+| **Summon Light Bringer** + Light Bringer (Astrea / Goddess of Ishra) | 3 (2 conj) | Only **two** Light Bringer tokens exist — the tightest conjuration. |
+| **Summon Frostback Bear** + Frostback Bear (Rin / Frostdale) | 3 (2 conj) | Two bear tokens; shared by beatdown and midrange. |
+| **Sympathy Pain / Golden Veil / Massive Growth** (Master Set) | 3 each | Master-Set reaction/alteration staples spread across many decks. |
+
+!!! tip "Rule of thumb"
+    Two library decks together almost never conflict. For three or more, glance at this list — if two of your decks both want three Nature's Wrath, that's your shortfall. Everything not on this list is either confined to one Phoenixborn's box or plentiful enough not to worry about.
+
+## Building for a specific game night
+
+The simplest approach: pick decks whose Phoenixborn come from **different expansions** and you'll rarely collide. For example, James "Rainbow to Hell," Fiona "Seance," and Koji "Euro Game" all lean in different directions and build together comfortably. If you want the guaranteed all-seven-at-once experience with no bookkeeping at all, that's exactly what the printable seven-deck set is for.

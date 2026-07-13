@@ -2,7 +2,7 @@
 
 A game-night companion for **Ashes: Rise of the Phoenixborn** (Ashes Reborn) — seven tournament-caliber decks you can build **at the same time** from one collection, plus guides to building, strategizing, and playing.
 
-**📖 Live site:** https://voidnologo.github.io/phoenixborn/
+**📖 Live site:** https://voidnologo.com/phoenixborn/
 
 ## What's here
 

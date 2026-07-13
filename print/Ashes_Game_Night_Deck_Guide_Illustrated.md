@@ -119,6 +119,8 @@ Beyond dice and the opening hand, a healthy 30-card deck generally wants:
 
 These seven decks were chosen to give each of the seven magic types a home, which is what lets them coexist: because each deck leans on its own color and its own Phoenixborn's expansion, they rarely reach for the same cards. Every deck is anchored on a proven tournament archetype and then tuned to the collection. **All seven can be built at the same time** — see the matrix in Part 4.
 
+> **Want to go further than these seven?** For decks that instead *mix cards across many different sets* — community and tournament brews built to explore the whole collection, one for nearly every Phoenixborn — see the online **Deck Library** at <https://voidnologo.com/phoenixborn/decks/>. Those decks share staple cards and aren't all buildable at once; this printable set is the one engineered to coexist.
+
 **How to read each deck:**
 
 - **Source column** names the **Phoenixborn base deck** each card came in, so you know where to find it in your binder. Cards from the shared Master Set box are labeled with the specific Phoenixborn whose starter deck they ship in — for example, "Maeoni Viper (Master Set)" — so you can pull them straight from that Phoenixborn's precon.
