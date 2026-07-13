@@ -2,10 +2,6 @@
 site/
 _site/
 
-# Local print images (copyrighted card art — not redistributed in this repo).
-# Regenerate locally with: print/fetch-images.sh
-print/images/
-
 # OS / editor cruft
 .DS_Store
 __pycache__/
