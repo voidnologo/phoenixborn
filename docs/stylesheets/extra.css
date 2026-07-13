@@ -1,0 +1,79 @@
+/* ---- Phoenixborn site custom styling ---- */
+
+/* Phoenixborn portrait shown at the top of each deck */
+.pb-portrait {
+  text-align: center;
+  margin: 1.2rem 0 0.6rem;
+}
+.pb-portrait img {
+  width: min(340px, 90%);
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+}
+
+/* Signature-card galleries: a responsive, wrapping row of cards */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  justify-content: center;
+  margin: 1rem 0 1.6rem;
+}
+.gallery figure {
+  margin: 0;
+  width: 140px;
+  text-align: center;
+}
+.gallery figure img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.22);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.gallery figure img:hover {
+  transform: translateY(-4px) scale(1.03);
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.32);
+}
+.gallery figcaption {
+  font-size: 0.72rem;
+  line-height: 1.15;
+  margin-top: 0.35rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Roster strip on the home page */
+.roster {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin: 1.2rem 0;
+}
+.roster img {
+  width: 120px;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Deck "at a glance" chips */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.4rem 0 0.8rem;
+}
+.chip {
+  display: inline-block;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+
+/* Make the build-matrix table read like a grid */
+.md-typeset table td:has(> :only-child) { text-align: center; }
+
+/* Center the small dice-color key squares */
+.dicekey { font-size: 1.1rem; }
