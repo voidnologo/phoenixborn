@@ -8,7 +8,7 @@ The [Deck Library](decks.md) decks are cross-set brews, and good cross-set decks
 
 - :material-account-group: __The Game Night set__
 
-    If you want to hand a deck to each of several friends and have them **all built simultaneously**, use the seven Game Night decks — engineered so every card stays within supply, nothing runs short.
+    To seat five or six players right away, use the six real Game Night decks — they build together with only two cards to swap between games.
 
     [:octicons-arrow-right-24: The Game Night set](game-night.md)
 
