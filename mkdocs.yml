@@ -53,6 +53,7 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Game Night: game-night.md
   - Deck Library: decks.md
   - Deckbuilding Guide: deckbuilding.md
   - How to Play: play.md

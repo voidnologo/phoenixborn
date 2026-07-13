@@ -6,11 +6,11 @@ The [Deck Library](decks.md) decks are cross-set brews, and good cross-set decks
 
 <div class="grid cards" markdown>
 
-- :material-account-group: __The coexisting seven-deck set__
+- :material-account-group: __The Game Night set__
 
-    If you want to hand a deck to each of several friends and have them **all built simultaneously**, use the printable seven-deck set — it's engineered so every card stays within supply. Each deck leans on its own "home" box, so nothing runs short.
+    If you want to hand a deck to each of several friends and have them **all built simultaneously**, use the seven Game Night decks — engineered so every card stays within supply, nothing runs short.
 
-    [:octicons-arrow-right-24: The seven-deck game-night guide](https://voidnologo.com/phoenixborn/)
+    [:octicons-arrow-right-24: The Game Night set](game-night.md)
 
 - :material-cards-playing: __The Deck Library__
 

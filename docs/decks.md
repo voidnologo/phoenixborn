@@ -1,11 +1,11 @@
 # Deck Library
 
-These are community-built and tournament-proven decks that **mix cards from across the whole collection** — the opposite of a single-box prebuilt. Each one leans on cards from many different Phoenixborn expansions to build an engine, so they're the ideal way to start deep-diving into constructed Ashes. Every deck here has been checked to be **buildable from your collection** (nothing from The Scholar of Ruin, The Ocean's Guard, The Messenger of Peace, or the Red Rains sets).
+This is the big menu of **extra decks to explore** — beyond your core [Game Night set](game-night.md). They're community-built and tournament-proven decks that **mix cards from across the whole collection** — the opposite of a single-box prebuilt. Each one leans on cards from many different Phoenixborn expansions to build an engine, so they're the ideal way to start deep-diving into constructed Ashes. Every deck here has been checked to be **buildable from your collection** (nothing from The Scholar of Ruin, The Ocean's Guard, The Messenger of Peace, or the Red Rains sets).
 
 !!! info "How to use this page"
     - Each deck shows its **dice**, the number of **expansions it spans**, its **engine / why it's fun**, a **suggested opening**, and a few **signature cards**.
     - The **“View on ashes.live”** button opens the exact, always-current decklist — where you can see every card, read full text, and **clone it to play online on [ashteki](https://ashteki.com)**.
-    - Unlike the printable [seven-deck game-night set](https://voidnologo.com/phoenixborn/), these decks intentionally share format-defining staples, so you build **a few at a time** — see [Sharing the Collection](matrix.md).
+    - Unlike the [Game Night set](game-night.md), these decks intentionally share format-defining staples, so you build **a few at a time** — see [Sharing the Collection](matrix.md).
 
 **Dice key:**
 

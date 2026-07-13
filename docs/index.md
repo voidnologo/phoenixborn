@@ -1,6 +1,6 @@
 # Phoenixborn
 
-*A game-night companion for **Ashes: Rise of the Phoenixborn** — a library of cross-set decks to explore, a printable seven-deck set you can build **all at once**, and friendly guides to building, strategizing, and playing.*
+*A game-night companion for **Ashes: Rise of the Phoenixborn** — seven decks you can build **all at once** for a night with friends, a big library of extra decks to explore, and friendly guides to building, strategizing, and playing.*
 
 <div class="roster" markdown>
 ![Brennen Blackcloud](https://cdn.ashes.live/images/cards/brennen-blackcloud.jpg)
@@ -12,15 +12,21 @@
 ![Koji Wolfcub](https://cdn.ashes.live/images/cards/koji-wolfcub.jpg)
 </div>
 
-Welcome. This site exists so a group of friends can move past the pre-constructed starter decks and play **real constructed Ashes** — the version the tournament scene actually plays — without anyone buying a second collection. It offers two things built entirely from one collection: a browsable **[Deck Library](decks.md)** of cross-set, community- and tournament-tested brews to explore, and a printable **seven-deck set** tuned so all seven can sit on the table at once.
+Welcome. This site exists so a group of friends can move past the pre-constructed starter decks and play **real constructed Ashes** — the version the tournament scene actually plays — without anyone buying a second collection. Its heart is a **[Game Night set](game-night.md)** of seven decks you can build all at once — everyone grabs one and you cycle through them — and beyond that a big **[Deck Library](decks.md)** of cross-set brews to explore when you want more.
 
 It's written for players who know **how to play** — dice, the turn structure, combat, how spells work — but who haven't yet built a deck from scratch.
 
 <div class="grid cards" markdown>
 
+- :material-account-group: __Game Night__
+
+    Seven decks you can build **all at once** from one collection — grab one each and cycle through them. Dice, engines, First Fives, and full lists.
+
+    [:octicons-arrow-right-24: Your seven decks](game-night.md)
+
 - :material-cards-playing: __Deck Library__
 
-    Community- and tournament-tested decks that mix cards from across the whole collection — with dice, engines, combos, and links to the full lists.
+    Extra cross-set decks to explore — community- and tournament-tested, one for nearly every Phoenixborn, with dice, engines, and links to the full lists.
 
     [:octicons-arrow-right-24: Browse the library](decks.md)
 
