@@ -1,8 +1,8 @@
 # Game Night
 
-**Six real, published decks you can put on the table together.** Four are cross-set community and tournament builds; two are clean single-box decks that add their colors with no card conflicts. Between them they cover all seven magic types, so a full table of five or six players each gets a distinct deck and playstyle.
+Six decks, ready to play — pick whichever one sounds fun. Each plays differently and uses a different kind of magic, so everyone at the table gets their own style: go wide with a swarm of tokens, drain the opponent's life, control the board, steal their units, or race them down.
 
-These are genuine ashes.live decklists — nothing built by hand. Each one links to its full list, where you can read every card and press **Clone** to play it on [ashteki](https://ashteki.com). To build **all six at once**, there are only **two cards to shuffle** (see the note at the bottom).
+They're all built from our one shared collection, so we can set up all six at once and just start playing (two cards need swapping between a couple of the decks — noted at the bottom). Every deck links to its full card list on [ashes.live](https://ashes.live), where you can also load it straight into [ashteki](https://ashteki.com) to play online.
 
 **Dice key:**
 
