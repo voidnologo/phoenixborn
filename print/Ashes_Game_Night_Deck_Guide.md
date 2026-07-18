@@ -49,13 +49,13 @@ Every card and every die belongs to a magic type. Each type has a distinct "die 
 
 | Type | Die power (the free tool it gives you) | What it's good at | Signature cards |
 |---|---|---|---|
-| <img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> **Ceremonial** | Return an ally from your discard pile | Recursion, sacrifice loops, relentless aggression and burn | Final Cry, Fester, Summon Sleeping Widows, Fire Archer |
-| <img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> **Charm** | Reduce an enemy unit's attack | Neutralizing attackers, tempo, focused combo pieces | Golden Veil, Hypnotize, Summon Three-Eyed Owl, Beast Tamer |
-| <img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> **Illusion** | Downgrade two of the opponent's dice | Disruption, denial, reaction spells, enabling swarms | Gates Thrown Open, Particle Shield, Summon Shadow Spirit, To Shadows |
-| <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> **Natural** | Deal 1 damage to a unit | Efficient removal and solid, aggressively-priced bodies | Molten Gold, Nature's Wrath, Ice Trap, Summon Frostback Bear |
-| <img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> **Divine** | Increase a friendly unit's attack | Big board presence, buffs, effects that dictate play | Meteor, Summon Light Bringer, Heal, Sword of Virtue |
-| <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> **Sympathy** | Draw a card | Flexibility, card advantage, adaptable tactics | Crescendo, Sympathy Pain, Summon Salamander Monk, Magic Syphon |
-| <img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> **Time** | Manipulate status tokens (add / move / spend) | Bending the action economy, exhaustion control, efficient removal | Summon Time Hopper, Accelerate, Chaos Gravity, To Shadows |
+| <img src="dice/ceremonial.png" width="36" alt="Ceremonial" style="vertical-align:-8px"> **Ceremonial** | Return an ally from your discard pile | Recursion, sacrifice loops, relentless aggression and burn | Final Cry, Fester, Summon Sleeping Widows, Fire Archer |
+| <img src="dice/charm.png" width="36" alt="Charm" style="vertical-align:-8px"> **Charm** | Reduce an enemy unit's attack | Neutralizing attackers, tempo, focused combo pieces | Golden Veil, Hypnotize, Summon Three-Eyed Owl, Beast Tamer |
+| <img src="dice/illusion.png" width="36" alt="Illusion" style="vertical-align:-8px"> **Illusion** | Downgrade two of the opponent's dice | Disruption, denial, reaction spells, enabling swarms | Gates Thrown Open, Particle Shield, Summon Shadow Spirit, To Shadows |
+| <img src="dice/natural.png" width="36" alt="Natural" style="vertical-align:-8px"> **Natural** | Deal 1 damage to a unit | Efficient removal and solid, aggressively-priced bodies | Molten Gold, Nature's Wrath, Ice Trap, Summon Frostback Bear |
+| <img src="dice/divine.png" width="36" alt="Divine" style="vertical-align:-8px"> **Divine** | Increase a friendly unit's attack | Big board presence, buffs, effects that dictate play | Meteor, Summon Light Bringer, Heal, Sword of Virtue |
+| <img src="dice/sympathy.png" width="36" alt="Sympathy" style="vertical-align:-8px"> **Sympathy** | Draw a card | Flexibility, card advantage, adaptable tactics | Crescendo, Sympathy Pain, Summon Salamander Monk, Magic Syphon |
+| <img src="dice/time.png" width="36" alt="Time" style="vertical-align:-8px"> **Time** | Manipulate status tokens (add / move / spend) | Bending the action economy, exhaustion control, efficient removal | Summon Time Hopper, Accelerate, Chaos Gravity, To Shadows |
 
 *(Those are the game's actual dice symbols, in their real colors. Ascendancy adds two more types — **Astral** and **Artifice** — used by Arren Frostpeak and Issa Brightmore; they are their own ecosystem and are not used by the seven decks here.)*
 
@@ -124,7 +124,7 @@ The decks are ordered easiest to hardest to pilot.
 ### Deck 1 — Maeoni Viper · "The Enchantress"
 *Ceremonial/Charm/Time Aggro · Role: aggro/midrange · Difficulty: ★☆☆ (great for newer players)*
 
-**Dice (10):** <img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 3 Ceremonial · <img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> 3 Charm · <img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> 3 Time · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 1 Natural
+**Dice (10):** <img src="dice/ceremonial.png" width="36" alt="Ceremonial" style="vertical-align:-8px"> 3 Ceremonial · <img src="dice/charm.png" width="36" alt="Charm" style="vertical-align:-8px"> 3 Charm · <img src="dice/time.png" width="36" alt="Time" style="vertical-align:-8px"> 3 Time · <img src="dice/natural.png" width="36" alt="Natural" style="vertical-align:-8px"> 1 Natural
 **Key ability:** *Command Strike* — spend a unit's attack value to snipe an enemy unit.
 
 | Qty | Card | Type | Source (pull from) |
@@ -157,7 +157,7 @@ The decks are ordered easiest to hardest to pilot.
 ### Deck 2 — Aradel Summergaard · "The Beastmaster"
 *Time water-toolbox · Role: midrange/grind · Difficulty: ★★☆*
 
-**Dice (10):** <img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> 5 Time · <img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> 2 Divine · <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 2 Sympathy · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 1 Natural
+**Dice (10):** <img src="dice/time.png" width="36" alt="Time" style="vertical-align:-8px"> 5 Time · <img src="dice/divine.png" width="36" alt="Divine" style="vertical-align:-8px"> 2 Divine · <img src="dice/sympathy.png" width="36" alt="Sympathy" style="vertical-align:-8px"> 2 Sympathy · <img src="dice/natural.png" width="36" alt="Natural" style="vertical-align:-8px"> 1 Natural
 **Key ability:** *Water Blast* — free 1-damage ping to keep small threats off the board.
 
 | Qty | Card | Type | Source (pull from) |
@@ -190,7 +190,7 @@ The decks are ordered easiest to hardest to pilot.
 ### Deck 3 — James Endersight · "The Assassin"
 *Ceremonial/Natural tempo-swarm · Role: tempo · Difficulty: ★★☆*
 
-**Dice (10):** <img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 4 Ceremonial · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 4 Natural · <img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> 2 Charm
+**Dice (10):** <img src="dice/ceremonial.png" width="36" alt="Ceremonial" style="vertical-align:-8px"> 4 Ceremonial · <img src="dice/natural.png" width="36" alt="Natural" style="vertical-align:-8px"> 4 Natural · <img src="dice/charm.png" width="36" alt="Charm" style="vertical-align:-8px"> 2 Charm
 **Key ability:** *Convene With Souls* — tutor an ally into hand each round.
 
 | Qty | Card | Type | Source (pull from) |
@@ -222,7 +222,7 @@ The decks are ordered easiest to hardest to pilot.
 ### Deck 4 — Sembali Grimtongue · "The Tempest"
 *Divine/Illusion/Time good-stuff · Role: midrange · Difficulty: ★★☆*
 
-**Dice (10):** <img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> 4 Divine · <img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> 3 Illusion · <img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> 3 Time
+**Dice (10):** <img src="dice/divine.png" width="36" alt="Divine" style="vertical-align:-8px"> 4 Divine · <img src="dice/illusion.png" width="36" alt="Illusion" style="vertical-align:-8px"> 3 Illusion · <img src="dice/time.png" width="36" alt="Time" style="vertical-align:-8px"> 3 Time
 **Key ability:** *Gift of Wings* — push damage through repeatedly with your best hitter.
 
 | Qty | Card | Type | Source (pull from) |
@@ -255,7 +255,7 @@ The decks are ordered easiest to hardest to pilot.
 ### Deck 5 — Rowan Umberend · "The Cultist"
 *Ceremonial/Time control-payoff · Role: control · Difficulty: ★★★ (rewards patience)*
 
-**Dice (10):** <img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 3 Ceremonial · <img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> 3 Time · <img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> 2 Illusion · <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 2 Sympathy
+**Dice (10):** <img src="dice/ceremonial.png" width="36" alt="Ceremonial" style="vertical-align:-8px"> 3 Ceremonial · <img src="dice/time.png" width="36" alt="Time" style="vertical-align:-8px"> 3 Time · <img src="dice/illusion.png" width="36" alt="Illusion" style="vertical-align:-8px"> 2 Illusion · <img src="dice/sympathy.png" width="36" alt="Sympathy" style="vertical-align:-8px"> 2 Sympathy
 **Key ability:** *Exhume* — recur units from your discard pile.
 
 | Qty | Card | Type | Source (pull from) |
@@ -288,7 +288,7 @@ The decks are ordered easiest to hardest to pilot.
 ### Deck 6 — Tristan Darkwater · "The Archer"
 *Natural/Sympathy combo-mill · Role: combo · Difficulty: ★★★ (tight sequencing)*
 
-**Dice (10):** <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 4 Natural · <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 3 Sympathy · <img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> 2 Charm · <img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> 1 Divine
+**Dice (10):** <img src="dice/natural.png" width="36" alt="Natural" style="vertical-align:-8px"> 4 Natural · <img src="dice/sympathy.png" width="36" alt="Sympathy" style="vertical-align:-8px"> 3 Sympathy · <img src="dice/charm.png" width="36" alt="Charm" style="vertical-align:-8px"> 2 Charm · <img src="dice/divine.png" width="36" alt="Divine" style="vertical-align:-8px"> 1 Divine
 **Key ability:** *Magnify* — pump a hitter for a Terrifying-damage alt line.
 
 | Qty | Card | Type | Source (pull from) |
@@ -318,7 +318,7 @@ The decks are ordered easiest to hardest to pilot.
 ### Deck 7 — Victoria Glassfire · "The Illusionist"
 *Illusion dice-disruption · Role: control/denial · Difficulty: ★★★ (fiddly)*
 
-**Dice (10):** <img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> 5 Illusion · <img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 2 Ceremonial · <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 2 Sympathy · <img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> 1 Charm
+**Dice (10):** <img src="dice/illusion.png" width="36" alt="Illusion" style="vertical-align:-8px"> 5 Illusion · <img src="dice/ceremonial.png" width="36" alt="Ceremonial" style="vertical-align:-8px"> 2 Ceremonial · <img src="dice/sympathy.png" width="36" alt="Sympathy" style="vertical-align:-8px"> 2 Sympathy · <img src="dice/charm.png" width="36" alt="Charm" style="vertical-align:-8px"> 1 Charm
 **Key ability:** *Surprise!* — spin and lock the opponent's dice to their weak side.
 
 | Qty | Card | Type | Source (pull from) |
