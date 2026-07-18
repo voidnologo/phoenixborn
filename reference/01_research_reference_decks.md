@@ -1,6 +1,8 @@
 # Ashes — Research Reference: Source Decklists & Meta Notes
 
-These are the raw reference decklists gathered while building your Game Night guide. All lists were pulled verbatim from the **ashes.live** deck database (the community-authoritative source). Use these as inspiration and for upgrade ideas. **Note:** several of these reference decks use cards from expansions you do NOT own (**The Scholar of Ruin, The Ocean's Guard, The Messenger of Peace**) — those are flagged where relevant. The seven decks in the main guide were rebuilt to use only your owned cards.
+These are the raw reference decklists gathered while building your Game Night guide. All lists were pulled verbatim from the **ashes.live** deck database (the community-authoritative source). Use these as inspiration and for upgrade ideas.
+
+**UPDATE (mid-2026):** The Scholar of Ruin, The Ocean's Guard, and The Messenger of Peace are now **owned** — the PvP pool is complete. The cards previously flagged below with `*` (Excavate, Rapture, Crypt Guardian, Ruin Dweller, Discovery, Ocean's Gift, Tidal Shift, Wave Crash, Prism Tetra, Tsunami Shot, Fate Reflection, Ruby Cobra, Sunshield Sentry, Generosity, Rile the Meek, etc.) are all buildable now. As a result, **Section A's seven "Seven Constructed Decks From One Collection" lists are now built as the live [Game Night](../docs/game-night.md) set, verbatim from the article** — the `*` flags below are historical.
 
 ---
 

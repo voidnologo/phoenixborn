@@ -1,12 +1,12 @@
-# Ashes — Completing Your Collection (What You're Missing)
+# Ashes — Completing Your Collection (Status)
 
-*A shopping list built by cross-referencing your 27 owned Phoenixborn against the complete Ashes release history (all 31 releases in the ashes.live database, spanning the original 1.0 line, Ashes Reborn, and Ashes Ascendancy).*
+*Built by cross-referencing your 30 owned Phoenixborn against the complete Ashes release history (all 31 releases in the ashes.live database, spanning the original 1.0 line, Ashes Reborn, and Ashes Ascendancy).*
 
 ## The short version
 
-Your collection is remarkably complete. You own **25 of the 28 player-versus-player Phoenixborn** ever released, plus the Ascendancy Starter. What you're missing falls into three buckets:
+Your **PvP constructed collection is now complete**. You own **all 28 player-versus-player Phoenixborn** from the 1.0 / Ashes Reborn line, plus the Ascendancy Starter. What's left is optional or not-yet-released:
 
-1. **Three PvP constructed expansions** — the last gap in your competitive collection, and the priority if you want a truly complete constructed pool.
+1. ~~**Three PvP constructed expansions**~~ — **done.** The Scholar of Ruin, The Ocean's Guard, and The Messenger of Peace are now owned.
 2. **The Ascendancy expansion cycle** — new content built on the two new magic types, only just beginning to release.
 3. **The entire Red Rains co-op line** — optional, since your group plays PvP, but it's the only way to get solo/cooperative Ashes.
 
@@ -14,17 +14,17 @@ A note on how the eras fit together: the original **1.0** line (2016–2019) and
 
 ---
 
-## 1. Missing PvP Constructed Expansions — *the real gap*
+## 1. PvP Constructed Expansions — *complete ✓*
 
-These are the three standard expansion decks you don't own. Each adds a new Phoenixborn and its full card set to your constructed pool. Owning these would make your PvP collection **100% complete** and would let you build the couple of "seven decks from one collection" article decks (and fully optimized versions of others) that currently need cards you lack.
+The last three standard expansion decks are now owned, making your PvP collection **100% complete**. They also unlock the "seven decks from one collection" article builds that previously needed cards you lacked — now the [Game Night](../docs/game-night.md) lineup.
 
-| Expansion | Phoenixborn | Magic focus | Why you'd want it |
+| Expansion | Phoenixborn | Magic focus | What it added |
 |---|---|---|---|
-| **The Scholar of Ruin** | Rowan Umberend | Ceremonial / Time (ruin & summoning) | Adds the "Cultist" archetype and staples like Excavate, Discovery, Era's End, Crypt Guardian, Ruin Dweller. |
-| **The Ocean's Guard** | Tristan Darkwater | Natural / aquatic | Adds the Prism Tetra swarm engine, Tsunami Shot, Tidal Shift, Wave Crash, Radiant Leviathan — a whole water-tempo package. |
-| **The Messenger of Peace** | Orrick Gilstream | Charm / Divine | Adds Ruby Cobra, Sunshield Sentry, Fate Reflection, Recollect, Generosity, Rile the Meek — several widely-used competitive staples. |
+| **The Scholar of Ruin** | Rowan Umberend | Ceremonial / Time (ruin & summoning) | The "Cultist" archetype and staples like Excavate, Discovery, Era's End, Crypt Guardian, Ruin Dweller. |
+| **The Ocean's Guard** | Tristan Darkwater | Natural / aquatic | The Prism Tetra swarm engine, Tsunami Shot, Tidal Shift, Wave Crash, Radiant Leviathan — a whole water-tempo package. |
+| **The Messenger of Peace** | Orrick Gilstream | Charm / Divine | Ruby Cobra, Sunshield Sentry, Fate Reflection, Recollect, Generosity, Rile the Meek — several widely-used competitive staples. |
 
-*Availability: all three are now print-on-demand through Plaid Hat Games, or available on the secondary market.*
+*All three are now owned. (Availability, for reference: print-on-demand through Plaid Hat Games, or the secondary market.)*
 
 ---
 
@@ -61,8 +61,8 @@ Red Rains is the cooperative/solo mode: you (and optionally a partner) fight an 
 
 ## Priority recommendation
 
-1. **First**, if you want a complete *constructed* collection: **The Scholar of Ruin**, **The Ocean's Guard**, and **The Messenger of Peace**. These are the only PvP decks missing from your binder.
-2. **Second**, to stay current with the game's active development: the **Ascendancy: Natural Magic Expansion**, then future Ascendancy sets as they release.
+1. ~~A complete *constructed* collection~~ — **achieved.** The Scholar of Ruin, The Ocean's Guard, and The Messenger of Peace close the last PvP gap.
+2. **Next**, to stay current with the game's active development: the **Ascendancy: Natural Magic Expansion**, then future Ascendancy sets as they release.
 3. **Optional**, only if your group wants solo/co-op play: the **Red Rains** line, starting with **The Corpse of Viros**.
 
 ---

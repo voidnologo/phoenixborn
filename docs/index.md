@@ -1,18 +1,18 @@
 # Phoenixborn
 
-*A game-night companion for **Ashes: Rise of the Phoenixborn** — four real decks you can build together for a night with friends, a big library of extra decks to explore, and friendly guides to building, strategizing, and playing.*
+*A game-night companion for **Ashes: Rise of the Phoenixborn** — seven real decks built from one collection, a big library of extra decks to explore, and friendly guides to building, strategizing, and playing.*
 
 <div class="roster" markdown>
-![Brennen Blackcloud](https://cdn.ashes.live/images/cards/brennen-blackcloud.jpg)
 ![Maeoni Viper](https://cdn.ashes.live/images/cards/maeoni-viper.jpg)
-![Coal Roarkwin](https://cdn.ashes.live/images/cards/coal-roarkwin.jpg)
-![Odette Diamondcrest](https://cdn.ashes.live/images/cards/odette-diamondcrest.jpg)
-![Namine Hymntide](https://cdn.ashes.live/images/cards/namine-hymntide.jpg)
-![Echo Greystorm](https://cdn.ashes.live/images/cards/echo-greystorm.jpg)
-![Koji Wolfcub](https://cdn.ashes.live/images/cards/koji-wolfcub.jpg)
+![Aradel Summergaard](https://cdn.ashes.live/images/cards/aradel-summergaard.jpg)
+![James Endersight](https://cdn.ashes.live/images/cards/james-endersight.jpg)
+![Sembali Grimtongue](https://cdn.ashes.live/images/cards/sembali-grimtongue.jpg)
+![Rowan Umberend](https://cdn.ashes.live/images/cards/rowan-umberend.jpg)
+![Tristan Darkwater](https://cdn.ashes.live/images/cards/tristan-darkwater.jpg)
+![Victoria Glassfire](https://cdn.ashes.live/images/cards/victoria-glassfire.jpg)
 </div>
 
-Welcome. This site exists so a group of friends can move past the pre-constructed starter decks and play **real constructed Ashes** — the version the tournament scene actually plays — without anyone buying a second collection. Its heart is a **[Game Night set](game-night.md)** of four real published decks you can build together — everyone grabs one to play — and beyond that a big **[Deck Library](decks.md)** of cross-set brews to explore when you want more.
+Welcome. This site exists so a group of friends can move past the pre-constructed starter decks and play **real constructed Ashes** — the version the tournament scene actually plays — without anyone buying a second collection. Its heart is a **[Game Night set](game-night.md)** of seven constructed decks built from one collection — everyone grabs one to play — and beyond that a big **[Deck Library](decks.md)** of cross-set brews to explore when you want more.
 
 It's written for players who know **how to play** — dice, the turn structure, combat, how spells work — but who haven't yet built a deck from scratch.
 
@@ -20,9 +20,9 @@ It's written for players who know **how to play** — dice, the turn structure, 
 
 - :material-account-group: __Game Night__
 
-    Four real published decks you can build together — with just two quick card swaps — so up to four players each grab one. Dice, engines, and per-box build lists.
+    Seven constructed decks from one collection — grab any three that don't share a token pile and play. Dice, Starting Fives, win conditions, and per-box build lists.
 
-    [:octicons-arrow-right-24: Your four decks](game-night.md)
+    [:octicons-arrow-right-24: Your seven decks](game-night.md)
 
 - :material-cards-playing: __Deck Library__
 
@@ -59,9 +59,9 @@ It's written for players who know **how to play** — dice, the turn structure, 
 ## Building several decks from one collection
 
 !!! tip "Non-overlapping decks from one collection"
-    You own **one** copy of each card. Every box ships **three copies** of each standard card and a **fixed, smaller number** of each conjuration, and no card is ever reprinted across boxes. It comes down to arithmetic: keep the **total** number of copies of any shared card, summed across every deck you want on the table, at or below the number you own. The four Game Night decks were built so the entire set stays within supply — see the [matrix](matrix.md).
+    You own **one full set** — not one copy of each card. Every box ships **three copies** of each standard card and a **fixed, smaller number** of each conjuration (set per card), and no card is ever reprinted across boxes. It comes down to arithmetic: keep the **total** number of copies of any shared card, summed across every deck you want on the table, at or below the number you own. The seven Game Night decks divide the collection so cleanly that every shared *standard* card fits at once — the only thing to track is a handful of shared conjuration token piles, laid out in the [Game Night matrix](game-night.md#building-several-at-once-the-matrix).
 
-Because each deck leans on its own magic type and its own Phoenixborn's expansion, they rarely reach for the same card. That's what lets all four be built simultaneously.
+Because each deck leans on its own magic type and its own Phoenixborn's expansion, they rarely reach for the same card. Any three build with zero bookkeeping — up to four — and the rest need only a single shared token pile handed off.
 
 ---
 

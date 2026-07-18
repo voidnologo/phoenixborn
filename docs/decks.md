@@ -1,6 +1,6 @@
 # Deck Library
 
-This is the big menu of **extra decks to explore** — beyond your core [Game Night set](game-night.md). They're community-built and tournament-proven decks that **mix cards from across the whole collection** — the opposite of a single-box prebuilt. Each one leans on cards from many different Phoenixborn expansions to build an engine, so they're the ideal way to start deep-diving into constructed Ashes. Every deck here has been checked to be **buildable from your collection** (nothing from The Scholar of Ruin, The Ocean's Guard, The Messenger of Peace, or the Red Rains sets).
+This is the big menu of **extra decks to explore** — beyond your core [Game Night set](game-night.md). They're community-built and tournament-proven decks that **mix cards from across the whole collection** — the opposite of a single-box prebuilt. Each one leans on cards from many different Phoenixborn expansions to build an engine, so they're the ideal way to start deep-diving into constructed Ashes. Every deck here has been checked to be **buildable from your collection** — which, with The Scholar of Ruin, The Ocean's Guard, and The Messenger of Peace now in the binder, is the complete PvP card pool (only the Red Rains co-op sets and unreleased Ascendancy expansions sit outside it).
 
 !!! info "How to use this page"
     - Each deck shows its **dice**, the number of **expansions it spans**, its **engine / why it's fun**, a **suggested opening**, and a few **signature cards**.

@@ -1,14 +1,14 @@
 # Ashes: Rise of the Phoenixborn — Game Night Deck Guide
 
-*Seven tournament-caliber decks you can build at the same time from one collection, plus a friendly guide to building your own.*
+*Seven constructed decks built from one collection — pull-and-assemble build lists, Starting Fives, and a friendly guide to building your own.*
 
 ---
 
 ## Welcome
 
-This guide exists so that you and your friends can move past the pre-constructed starter decks and play **real, constructed Ashes** — the version of the game the tournament scene actually plays — without anyone needing to buy a second collection. Everything here is built from a single set of cards: the Reborn **Master Set**, the deluxe expansions you own, and the **Ascendancy** starter. The decks are drawn from proven tournament archetypes and then tuned so that all seven can sit on the table **at once**, each a complete, legal, 30-card deck with its own dice and conjuration pile.
+This guide exists so that you and your friends can move past the pre-constructed starter decks and play **real, constructed Ashes** — the version of the game the tournament scene actually plays — without anyone needing to buy a second collection. Everything here is built from a single set of cards: the Reborn **Master Set**, the deluxe expansions you own, and the **Ascendancy** starter. The decks come from a well-known community project — Jayson Seth Lindley's *Seven Constructed Ashes Decks From One Collection* — each a complete, legal, 30-card deck with its own dice and conjuration pile. Their thirty-card lists all coexist; the only thing a few of them share is a conjuration token pile or two (Part 4 shows exactly which).
 
-It is written for players who know how to *play* Ashes — you understand dice, the turn structure, combat, and how spells work — but who have not yet built a deck from scratch. So the first third of this document is a crash course in deckbuilding: how to choose a Phoenixborn, how to pick your dice, how to choose a First Five, and how to balance a deck. The middle is the seven decks themselves. The end is a matrix showing exactly which decks can be built simultaneously, and some notes on running a good game night.
+It is written for players who know how to *play* Ashes — you understand dice, the turn structure, combat, and how spells work — but who have not yet built a deck from scratch. So the first third of this document is a crash course in deckbuilding: how to choose a Phoenixborn, how to pick your dice, how to choose a First Five, and how to balance a deck. The middle is the seven decks themselves, each with a build list sorted by the box you pull each card from. The end is a matrix showing exactly which decks can be built simultaneously, and some notes on running a good game night.
 
 It's meant to be printed and kept on the table while you play.
 
@@ -19,14 +19,14 @@ It's meant to be printed and kept on the table while you play.
 Ashes has an unusually clean product model, and understanding it is the key to building several decks at once.
 
 - **Every box contains a full playset.** Each Master Set and each deluxe expansion ships **three copies** of every standard card (Ready Spell, Action Spell, Reaction Spell, Alteration Spell, and Ally). Three is also the maximum you may run in a single 30-card deck, so one box gives you a complete set of its own cards.
-- **Conjurations come in fixed, smaller counts.** Summoned units and conjured alterations (Sleeping Widows, Frostback Bears, Shining Hydra, and so on) are not three-of. They come in specific quantities — sometimes as few as one — printed for that box. These counts are the real bottleneck when you try to build multiple decks, because two decks that both summon the same creature have to *share* the physical tokens.
+- **Conjurations come in fixed, smaller counts.** Summoned units and conjured alterations (Sleeping Widows, Frostback Bears, Prism Tetra, and so on) are not three-of. They come in specific quantities — sometimes as few as one — printed for that box. These counts are the real bottleneck when you try to build multiple decks, because two decks that both summon the same creature have to *share* the physical tokens.
 - **No card is ever reprinted across two boxes.** A given card lives in exactly one product. That means the number of copies you own of any card is simply "how many came in the one box it belongs to." It also means each deck below lists, for every card, **which Phoenixborn's box it came from**, so you always know where to look in your binder.
 
 ### What "non-overlapping" means here
 
-You own **one** collection. If Deck A needs two copies of a card and Deck B needs two copies of the same card, but the box only contains three, the two decks **cannot both be built at the same time** — you are one copy short. If instead Deck A needs one and Deck B needs two, you are fine: `1 + 2 = 3`, and both decks can be sleeved up simultaneously. That is the whole game of building a multi-deck stable from one collection: keep the *sum* of every shared card across all the decks you want on the table at or below the number you actually own.
+You own **one** collection — one full set, not one copy of each card. If Deck A needs two copies of a card and Deck B needs two copies of the same card, but the box only contains three, the two decks **cannot both be built at the same time** — you are one copy short. If instead Deck A needs one and Deck B needs two, you are fine: `1 + 2 = 3`, and both decks can be sleeved up simultaneously. That is the whole game of building a multi-deck stable from one collection: keep the *sum* of every shared card across all the decks you want on the table at or below the number you actually own.
 
-The seven decks in this guide were built specifically so that **the entire set of seven coexists** — every shared card and conjuration stays within supply. The matrix in Part 4 documents this and flags the handful of cards to watch if you ever swap a deck in or out.
+The seven decks in this guide come straight from Jayson Seth Lindley's *Seven Constructed Ashes Decks From One Collection*, and they divide the collection cleanly: every shared **standard** card stays within supply with all seven built at once (several land at exactly three-of-three). The one thing that does *not* fully coexist is a small set of **conjuration token piles** that two decks each want. The matrix in Part 4 lays out exactly which, so you know which decks to field together and which have to hand off a pile.
 
 ---
 
@@ -83,7 +83,7 @@ A good First Five usually wants to:
 - **Include a way to interact.** A piece of removal or a Reaction spell in the opening keeps you from getting run over by a faster start.
 - **Set up the following round.** Cards that ramp your card draw or lay the foundation for a round-two combo pay off enormously because you get to keep and build on them.
 
-Avoid loading the First Five with expensive, situational, or purely reactive cards you cannot use yet — those are better drawn into later. Each deck below comes with a recommended First Five and a one-line reason, so you have a proven opening to start from.
+Avoid loading the First Five with expensive, situational, or purely reactive cards you cannot use yet — those are better drawn into later. Each deck below comes with a recommended First Five (and the Phoenixborn ability you lean on turn one), so you have a proven opening to start from.
 
 ### Balancing the thirty cards
 
@@ -105,275 +105,300 @@ Beyond dice and the opening hand, a healthy 30-card deck generally wants:
 
 ## Part 3 — The Seven Decks
 
-These seven decks were chosen to give each of the seven magic types a home, which is what lets them coexist: because each deck leans on its own color and its own Phoenixborn's expansion, they rarely reach for the same cards. Every deck is anchored on a proven tournament archetype and then tuned to the collection. **All seven can be built at the same time** — see the matrix in Part 4.
+These seven decks come straight from Jayson Seth Lindley's *Seven Constructed Ashes Decks From One Collection* — the project that inspired this whole guide. Each gives one Phoenixborn its own home and leans on its own magic and its own expansion, which is what lets them coexist so cleanly. Every list is a legal 30-card deck taken verbatim from the article's ashes.live lists; the box each card comes from is called out so you can pull straight from a binder sorted by Phoenixborn.
 
 > **Want to go further than these seven?** For decks that instead *mix cards across many different sets* — community and tournament brews built to explore the whole collection, one for nearly every Phoenixborn — see the online **Deck Library** at <https://voidnologo.com/phoenixborn/decks/>. Those decks share staple cards and aren't all buildable at once; this printable set is the one engineered to coexist.
 
 **How to read each deck:**
 
-- **Source column** names the **Phoenixborn base deck** each card came in, so you know where to find it in your binder. Cards from the shared Master Set box are labeled with the specific Phoenixborn whose starter deck they ship in — for example, "Maeoni Viper (Master Set)" — so you can pull them straight from that Phoenixborn's precon.
-- **Costs** show the die type and number needed. `basic` means any die's basic side works. A few combo-critical costs need a specific die face — noted as **(power)**; everything else uses the ordinary class side. `[main]` / `[side]` tells you whether the card or ability uses your main action or a side action for the turn.
-- **Role & difficulty** helps you hand the right deck to the right player.
-- **✦** marks a card that summons a conjuration.
+- **Source column** names the **box you pull each card from** — a Phoenixborn's deluxe expansion, or a specific starter within the shared *Master Set* (e.g. "Maeoni Viper (Master Set)"). Rows are grouped by box so you visit each one once.
+- **Type column** is the card's spell type: Ally, Action, Reaction, Alteration, or Ready.
+- **✦** marks a card that summons a conjuration; those tokens come in the same box and are listed under **Conjurations**.
+- **Costs and full card text** are printed on the cards themselves and on each deck's ashes.live page — this guide focuses on *what to pull and how to play it*.
+- **Difficulty** (★) is our own steer for handing the right deck to the right player, not part of the source article.
+
+The decks are ordered easiest to hardest to pilot.
 
 ---
 
-### Deck 1 — Brennen Blackcloud · "Spirit Burn"
-*Ceremonial Aggro-Burn · Role: aggro · Difficulty: ★☆☆ (great for newer players)*
+### Deck 1 — Maeoni Viper · "The Enchantress"
+*Ceremonial/Charm/Time Aggro · Role: aggro/midrange · Difficulty: ★☆☆ (great for newer players)*
 
-**Phoenixborn:** Brennen Blackcloud — Battlefield **5** / Life **16** / Spellboard **3**
-**Ability — Spirit Burn** `[main]–[exhaust]–1 Ceremonial`: Destroy an ally you control to deal **2 damage to a target Phoenixborn**.
+**Dice (10):** <img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 3 Ceremonial · <img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> 3 Charm · <img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> 3 Time · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 1 Natural
+**Key ability:** *Command Strike* — spend a unit's attack value to snipe an enemy unit.
 
-**Dice (10):** **<img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 7 Ceremonial · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 3 Natural** — Ceremonial is the whole engine; three Natural dice pay for Molten Gold, the only off-color card.
+| Qty | Card | Type | Source (pull from) |
+|---|------|------|--------------------|
+| 3 | Golden Veil | Reaction | Maeoni Viper (Master Set) |
+| 1 | Hypnotize | Ready | Maeoni Viper (Master Set) |
+| 1 | Summon Silver Snake ✦ | Ready | Maeoni Viper (Master Set) |
+| 3 | Crypt Guardian | Ally | The Scholar of Ruin (Rowan) |
+| 2 | Era's End | Action | The Scholar of Ruin (Rowan) |
+| 1 | Summon Ruin Dweller ✦ | Ready | The Scholar of Ruin (Rowan) |
+| 2 | Sunshield Sentry | Ally | The Messenger of Peace (Orrick) |
+| 1 | Fate Reflection | Reaction | The Messenger of Peace (Orrick) |
+| 1 | Recollect | Action | The Messenger of Peace (Orrick) |
+| 1 | Summon Ruby Cobra ✦ | Ready | The Messenger of Peace (Orrick) |
+| 3 | Frost Bite | Ready | Rin Northfell (Frostdale Giants) |
+| 2 | Nature's Wrath | Action | Xander Heartsblood (King of Titans) |
+| 2 | Amplify | Action | Leo Sunshadow (Roaring Rose) |
+| 2 | Blood Archer | Ally | Jessa Na Ni (Master Set) |
+| 2 | Blood Chains | Action | Brennen Blackcloud (Children of Blackcloud) |
+| 2 | Reclaim Soul | Action | James Endersight (Grave King) |
+| 1 | Return to Soil | Action | Fiona Mercywind (Protector of Argaia) |
 
-| # | Card | Type | Cost | Source (Phoenixborn box) |
-|---|------|------|------|--------------------------|
-| 3 | Fire Archer | Ally | 1 Ceremonial | Brennen (Children of Blackcloud) |
-| 3 | Crimson Bomber | Ally | 2 Ceremonial | Brennen (Children of Blackcloud) |
-| 1 | Blackcloud Ninja | Ally | 1 basic | Brennen (Children of Blackcloud) |
-| 3 | Choke | Action | 1 Ceremonial | Brennen (Children of Blackcloud) |
-| 3 | Fester | Action | 1 Ceremonial (power) | Brennen (Children of Blackcloud) |
-| 3 | Blood Chains | Action | 1 Ceremonial | Brennen (Children of Blackcloud) |
-| 3 | Molten Gold | Action | 2 Natural | Maeoni Viper (Master Set) |
-| 3 | Final Cry | Reaction | 1 Ceremonial (power) | Jessa Na Ni (Master Set) |
-| 3 | Summon Sleeping Widows ✦ | Reaction | 2 Ceremonial | Noah Redmoon (Master Set) |
-| 3 | Chant of Worship | Ready | 1 Ceremonial | Brennen (Children of Blackcloud) |
-| 2 | Summon Dread Wraith ✦ | Ready | play `[main]` → 3 Ceremonial | Brennen (Children of Blackcloud) |
-
-**Conjurations:** Dread Wraith ×2 · Sleeping Widow ×6 (both from the boxes above).
-**First Five:** Fire Archer · Choke · Molten Gold · Final Cry · Chant of Worship — turn-one face damage plus the Chant of Worship draw engine online immediately.
-
-**Game plan.** Brennen is the fastest clock in the game: you attack the enemy Phoenixborn from several angles at once and try to close before slower decks stabilize. The core chain is **make a cheap body, then destroy it for damage** — Summon Sleeping Widows drops two 1-life bodies that Spirit Burn (2) and Final Cry (2) convert straight into reach, while every ally that dies fuels a Chant of Worship draw. Molten Gold places wounds and Fester then destroys the wounded unit, giving you a compact removal package. Crimson Bomber's Detonate seeds extra wounds for Fester to finish. **Design note:** the tournament "Pure Burn" list splashed Sympathy Pain, but that needs a die Brennen doesn't run, so those slots became Blood Chains and Crimson Bomber, which stay on-color; the Frost Bite and Nature's Wrath from that list went to the Maeoni and Odette decks to keep the collection non-overlapping.
-
----
-
-### Deck 2 — Maeoni Viper · "Strike, Scream, Run"
-*Charm/Natural Combo · Role: combo · Difficulty: ★★★ (rewards tight sequencing)*
-
-**Phoenixborn:** Maeoni Viper — Battlefield **4** / Life **20** / Spellboard **5**
-**Ability — Command Strike** `[side]–[exhaust]–2 basic`: Choose an unexhausted unit you control; deal damage to a **target unit** equal to that unit's attack value.
-
-**Dice (10):** **<img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> 5 Charm · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 5 Natural** — Charm powers Hypnotize, the Owl, and Golden Veil; Natural funds the whole Frostdale package and the Silver Snake's power die. Any of these dice cover Command Strike's two basic.
-
-| # | Card | Type | Cost | Source (Phoenixborn box) |
-|---|------|------|------|--------------------------|
-| 3 | Summon Silver Snake ✦ | Ready | play `[main]` → 1 Charm (power) + 1 Natural (power) | Maeoni Viper (Master Set) |
-| 3 | Summon Three-Eyed Owl ✦ | Ready | play `[main]` → 1 Charm | Saria Guideman (Master Set) |
-| 3 | Summon Frostback Bear ✦ | Ready | play `[main]` → 1 Natural + 1 basic | Rin (Frostdale Giants) |
-| 3 | Frost Bite | Ready | play `[main]` → 1 Natural | Rin (Frostdale Giants) |
-| 3 | Hypnotize | Ready | `[side]`–exhaust–2 Charm | Maeoni Viper (Master Set) |
-| 3 | Golden Veil | Reaction | 1 Charm (power) | Maeoni Viper (Master Set) |
-| 3 | Ice Trap | Reaction | 1 Natural (power) | Rin (Frostdale Giants) |
-| 2 | Root Armor | Alteration | 1 Natural | Aradel Summergaard (Master Set) |
-| 3 | Frost Fang | Ally | 2 Natural | Rin (Frostdale Giants) |
-| 3 | Freezing Blast | Action | 2 Natural | Rin (Frostdale Giants) |
-| 1 | Nature's Wrath | Action | 1 Natural | Xander (King of Titans) |
-
-**Conjurations:** Silver Snake ×1 (**attack = its number of status tokens** / 4 life / 3 recover · *Consume*) · Three-Eyed Owl ×2 · Frostback Bear ×2.
-**First Five:** Summon Silver Snake · Hypnotize · Golden Veil · Summon Three-Eyed Owl · Frost Bite — lands the win condition, its unblockable enabler, its protection, hand disruption, and a source of reach.
-
-**Game plan.** You are building exactly one enormous snake and then killing with it. Silver Snake starts at zero attack, but **Consume gives it a status token every time an opponent's unit is destroyed**, and its attack equals the number of tokens it's carrying — so Frost Bite, Freezing Blast, Ice Trap, and Nature's Wrath all quietly grow your snake while they clear the board. The engine is **Command Strike**: keep the snake home (unexhausted) and use its huge attack value to snipe an enemy unit — that kill triggers Consume, the snake gets bigger, and you can do it again next round. When you're ready to end the game, cast **Hypnotize to give the snake Bypass** (it cannot be blocked or guarded) and swing directly at the enemy Phoenixborn. Golden Veil protects your single irreplaceable snake from targeted removal and Root Armor keeps it alive through combat. **Design note:** trimmed to a legal 30 cards; Frost Fang and Freezing Blast round out the Frostdale package, and Maeoni holds both Frostback Bears plus all three Frost Bites, running only one of the three shared Nature's Wrath.
+**Conjurations:** Silver Snake ×1 · Ruby Cobra ×3 · Ruin Dweller ×2.
+**Starting Five:** Summon Silver Snake · Summon Ruby Cobra · Summon Ruin Dweller · Crypt Guardian · Hypnotize.
+**Win condition.** Multidirectional beatdown — all three of Ashes' snakes (Silver Snake, Ruby Cobra, Ruin Dweller) plus Crypt Guardian outrace the opponent's setup.
+**Game plan.** Get every snake online early and start swinging from multiple directions before your opponent stabilizes. Crypt Guardian and Ruin Dweller add reach; Golden Veil, Frost Bite, and Nature's Wrath protect your board and clear blockers while you push damage. The simplest of the seven to pilot: deploy, pressure, repeat.
 
 ---
 
-### Deck 3 — Coal Roarkwin · "Normal Bears"
-*Illusion Tempo · Role: tempo/aggro · Difficulty: ★★☆*
+### Deck 2 — Aradel Summergaard · "The Beastmaster"
+*Time water-toolbox · Role: midrange/grind · Difficulty: ★★☆*
 
-**Phoenixborn:** Coal Roarkwin — Battlefield **6** / Life **15** / Spellboard **4**
-**Ability — Slash** `[side]–discard 1 card`: Choose a player; deal **1 damage to a target unit** they control (or 1 to their Phoenixborn if they control no units).
+**Dice (10):** <img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> 5 Time · <img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> 2 Divine · <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 2 Sympathy · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 1 Natural
+**Key ability:** *Water Blast* — free 1-damage ping to keep small threats off the board.
 
-**Dice (10):** **<img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> 6 Illusion · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 2 Natural · <img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 2 Ceremonial** — Illusion is the core; Natural pays for Mist Typhoon and Raptor Herder; Ceremonial powers Chant of Revenge.
+| Qty | Card | Type | Source (pull from) |
+|---|------|------|--------------------|
+| 3 | Ocean's Gift | Alteration | The Ocean's Guard (Tristan) |
+| 2 | Tidal Shift | Action | The Ocean's Guard (Tristan) |
+| 2 | Wave Crash | Action | The Ocean's Guard (Tristan) |
+| 1 | Summon Radiant Leviathan ✦ | Action | The Ocean's Guard (Tristan) |
+| 1 | Summon Seafoam Snapper ✦ | Ready | The Ocean's Guard (Tristan) |
+| 1 | Summon Tidal Crab ✦ | Ready | The Ocean's Guard (Tristan) |
+| 3 | Flash Strike | Reaction | Jericho, Reborn (Breaker of Fate) |
+| 2 | Standard Bearer | Ally | Jericho, Reborn (Breaker of Fate) |
+| 3 | Heal | Action | Odette Diamondcrest (Law of Lions) |
+| 2 | Power Through | Alteration | Odette Diamondcrest (Law of Lions) |
+| 3 | Polarity Mage | Ally | Echo Greystorm (Masters of Gravity) |
+| 2 | Excavate | Action | The Scholar of Ruin (Rowan) |
+| 1 | Summon Light Bringer ✦ | Ready | Astrea (Goddess of Ishra) |
+| 1 | Summon Wishing Wing ✦ | Ready | Hope Everthorn (Artist of Dreams) |
+| 1 | Explosive Growth | Alteration | Koji Wolfcub (Boy Among Wolves) |
+| 1 | Rayward Recruit | Ally | Dimona Odinstar (Queen of Lightning) |
+| 1 | Survival of the Fittest | Action | Lulu Firststone (Gorrenrock Survivors) |
 
-| # | Card | Type | Cost | Source (Phoenixborn box) |
-|---|------|------|------|--------------------------|
-| 3 | Shadow Guard | Ally | 2 Illusion | Sembali (Spirits of Memoria) |
-| 3 | Raptor Herder ✦ | Ally | 1 Natural | Xander (King of Titans) |
-| 3 | Summon Shadow Spirit ✦ | Ready | play `[main]` → 1 Illusion (power) | Victoria (Duchess of Deception) |
-| 3 | One Hundred Blades | Action | 2 basic | Coal Roarkwin (Master Set) |
-| 3 | Mist Typhoon | Action | 1 Illusion + 1 Natural | Aradel Summergaard (Master Set) |
-| 3 | Gates Thrown Open | Action | 1 Illusion | Sembali (Spirits of Memoria) |
-| 3 | To Shadows | Action | `[side]` | Victoria (Duchess of Deception) |
-| 3 | Particle Shield | Reaction | 1 Illusion | Victoria (Duchess of Deception) |
-| 3 | Chant of Revenge | Ready | 1 Ceremonial | Coal Roarkwin (Master Set) |
-| 3 | Abundance | Ready | play `[main]` → `[main]`–exhaust | Saria Guideman (Master Set) |
-
-**Conjurations:** Shadow Spirit ×3 · Raptor Hatchling ×3.
-**First Five:** Summon Shadow Spirit · Shadow Guard · Raptor Herder · Abundance · One Hundred Blades — an early board plus the card draw that feeds Slash.
-
-**Game plan.** Coal's Slash spends **cards, not dice**, so the whole deck is a card-draw machine that rains 1-damage pings while grinding the board. **Abundance, One Hundred Blades, Mist Typhoon, and Particle Shield all refill the hand that Slash burns**, and every surplus card becomes a ping to a chump blocker or straight to a Phoenixborn. One Hundred Blades and Mist Typhoon each shave 1 life off the opponent's entire board, which is devastating against token decks and pairs beautifully with Chant of Revenge, which turns your own dying allies into extra face damage. Shadow Guard ambushes as a surprise blocker, Raptor Herder banks a free Hatchling, and To Shadows bounces a tapped attacker for tempo. **Design note:** Coal gets sole claim on all three Raptor Herders and the Master-Set illusion staples, so nothing here is contested by another deck.
-
----
-
-### Deck 4 — Odette Diamondcrest · "Hydra's Return"
-*Divine/Natural Midrange · Role: midrange/control · Difficulty: ★★☆*
-
-**Phoenixborn:** Odette Diamondcrest — Battlefield **5** / Life **18** / Spellboard **3**
-**Ability — Enter the Fray** `[main]–[exhaust]`: Deal **2 damage to a target unit**; then deal damage to **this Phoenixborn** equal to that unit's attack value.
-
-**Dice (10):** **<img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> 6 Divine · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 4 Natural** — Divine for the Law of Lions core and Meteor; Natural for the Hydra, Massive Growth, Pain Shaman, and Nature's Wrath.
-
-| # | Card | Type | Cost | Source (Phoenixborn box) |
-|---|------|------|------|--------------------------|
-| 3 | Holy Knight | Ally | 1 Divine (power) + 1 Divine + 1 basic | Odette (Law of Lions) |
-| 3 | Shield Mage | Ally | 1 Divine + 1 basic | Odette (Law of Lions) |
-| 3 | Pain Shaman | Ally | 2 Natural | Xander (King of Titans) |
-| 2 | Summon Shining Hydra ✦ | Action | 1 Divine + 1 Natural + 1 basic | Xander (King of Titans) |
-| 2 | Summon Winged Lioness ✦ | Ready | play `[main]` → 1 Divine + 1 basic | Odette (Law of Lions) |
-| 1 | Summon Light Bringer ✦ | Ready | play `[main]` → 1 Divine | Astrea (Goddess of Ishra) |
-| 3 | Sword of Virtue | Action | 2 basic | Odette (Law of Lions) |
-| 3 | Meteor | Action | 2 Divine | Odette (Law of Lions) |
-| 3 | Heal | Action | 1 Divine | Odette (Law of Lions) |
-| 2 | Nature's Wrath | Action | 1 Natural | Xander (King of Titans) |
-| 3 | Massive Growth | Alteration | 1 Natural + 1 basic | Aradel Summergaard (Master Set) |
-| 2 | Power Through | Alteration | 1 Divine | Odette (Law of Lions) |
-
-**Conjurations:** Shining Hydra ×1 (1/4/0, *Regenerate Heads*) · Shining Hydra Head ×3 (attaches +1 attack / +1 recover and grants Terrifying) · Winged Lioness ×2 · Light Bringer ×1.
-**First Five:** Summon Shining Hydra · Shield Mage · Holy Knight · Sword of Virtue · Meteor — deploy the centerpiece behind a defensive wall with instant removal already in hand.
-
-**Game plan.** This is a grindy value deck built on removal density and one oversized threat. Between **Enter the Fray, Sword of Virtue, Meteor, and Nature's Wrath** you can answer almost anything, and because Enter the Fray only hurts you by the *target's* attack, it clears 0-attack conjurations for free. The centerpiece combo is **Shining Hydra + Massive Growth**: the Hydra regenerates and grows heads on its own, and a well-timed Massive Growth turns it into a huge Terrifying attacker that keeps its bonus heads afterward, all shielded by Shield Mage and Holy Knight. Light Bringer's Infatuate forces the opponent to swing into your wall, while Heal and Pain Shaman offset the self-damage from Enter the Fray. **Design note:** Odette has first claim on the King of Titans centerpiece (Shining Hydra, Pain Shaman) and takes two of the three Nature's Wrath plus the single shared Light Bringer; the Raptor Herder and Frostback Bear from the original list went to the Coal and Maeoni decks, and Odette's own Divine bodies fill the rest of the slots.
+**Conjurations:** Prism Tetra ×9 · Radiant Leviathan ×1 · Seafoam Snapper ×2 · Tidal Crab ×2 · Light Bringer ×2 · Wishing Wing ×3.
+**Starting Five:** Summon Tidal Crab · Summon Seafoam Snapper · Summon Wishing Wing · Summon Light Bringer · Tidal Shift.
+**Win condition.** Grind — a wide, adaptable unit board across Aradel's big battlefield chips the opponent down with more finisher routes than they can cover.
+**Game plan.** Deploy cheap Time/water summons and let Water Blast pick off small threats for free. The Radiant Leviathan's Refract seeds a Prism Tetra swarm, Ocean's Gift and the Leviathan add punch, and you win the long game on sheer flexibility — you always have the right tool for the board.
 
 ---
 
-### Deck 5 — Namine Hymntide · "Harsh Melody"
-*Sympathy punish-tokens · Role: tempo/control · Difficulty: ★★☆*
+### Deck 3 — James Endersight · "The Assassin"
+*Ceremonial/Natural tempo-swarm · Role: tempo · Difficulty: ★★☆*
 
-**Phoenixborn:** Namine Hymntide — Battlefield **6** / Life **17** / Spellboard **4**
-**Ability — Calming Melody** `[side]–[exhaust]–1 Sympathy`: Draw 1 card; you may place 1 exhaustion token on this ability and 1 on a **target Phoenixborn**.
+**Dice (10):** <img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 4 Ceremonial · <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 4 Natural · <img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> 2 Charm
+**Key ability:** *Convene With Souls* — tutor an ally into hand each round.
 
-**Dice (10):** **<img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 8 Sympathy · <img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> 2 Charm** — Sympathy powers the whole box; two Charm dice pay for Sympathy Pain.
+| Qty | Card | Type | Source (pull from) |
+|---|------|------|--------------------|
+| 2 | Vengeance | Action | James Endersight (Grave King) |
+| 3 | Anchornaut | Ally | Coal Roarkwin (Master Set) |
+| 2 | Hammer Knight | Ally | Coal Roarkwin (Master Set) |
+| 2 | Choke | Action | Brennen Blackcloud (Children of Blackcloud) |
+| 2 | Fester | Action | Brennen Blackcloud (Children of Blackcloud) |
+| 1 | Fire Archer | Ally | Brennen Blackcloud (Children of Blackcloud) |
+| 2 | Rapture | Action | The Scholar of Ruin (Rowan) |
+| 1 | Frost Fang | Ally | Rin Northfell (Frostdale Giants) |
+| 1 | Summon Frostback Bear ✦ | Ready | Rin Northfell (Frostdale Giants) |
+| 2 | Massive Growth | Alteration | Aradel Summergaard (Master Set) |
+| 3 | Raptor Herder ✦ | Ally | Xander Heartsblood (King of Titans) |
+| 3 | Summon Mind Fog Owl ✦ | Ready | Fiona Mercywind (Protector of Argaia) |
+| 3 | Summon Sleeping Widows ✦ | Reaction | Noah Redmoon (Master Set) |
+| 1 | Summon Gilder ✦ | Ready | Maeoni Viper (Master Set) |
+| 1 | Final Cry | Reaction | Jessa Na Ni (Master Set) |
+| 1 | Sympathy Pain | Reaction | Saria Guideman (Master Set) |
 
-| # | Card | Type | Cost | Source (Phoenixborn box) |
-|---|------|------|------|--------------------------|
-| 3 | Flute Mage | Ally | 1 Sympathy + 1 basic | Namine (Song of Soaksend) |
-| 3 | River Skald | Ally | 2 Sympathy | Namine (Song of Soaksend) |
-| 3 | String Mage | Ally | 1 Sympathy (power) + 1 Sympathy | Namine (Song of Soaksend) |
-| 3 | Summon Salamander Monk ✦ | Ready | play `[main]` → 1 Sympathy | Namine (Song of Soaksend) |
-| 2 | Summon Squall Stallion ✦ | Ready | play `[main]` → 1 Sympathy + 1 basic | Namine (Song of Soaksend) |
-| 3 | Guilt Link | Ready | 1 Sympathy | Namine (Song of Soaksend) |
-| 1 | Magic Syphon | Ready | 1 Sympathy | Namine (Song of Soaksend) |
-| 3 | Crescendo | Reaction | 1 Sympathy | Namine (Song of Soaksend) |
-| 2 | Shatter Pulse | Reaction | 2 Sympathy + 1 basic | Namine (Song of Soaksend) |
-| 2 | Encore | Action | `[main]` (no dice) | Namine (Song of Soaksend) |
-| 3 | Sympathy Pain | Reaction | 1 Charm + 1 Sympathy | Saria Guideman (Master Set) |
-| 2 | Anguish | Action | 2 basic | Leo (Roaring Rose) |
-
-**Conjurations:** Salamander Monk ×2 · Salamander Monk Spirit ×2 · Squall Stallion ×2.
-**First Five:** Summon Salamander Monk · River Skald · String Mage · Flute Mage · Guilt Link — cheap recurring bodies plus a control lever.
-
-**Game plan.** A Sympathy swarm that punishes the opponent for attacking you. Fill the board with cheap, recurring bodies — Salamander Monks return as Spirits, and Squall Stallion grows as you filter cards — and chip away at the opponent's Phoenixborn. Each hit they land on you turns Sympathy Pain and Guilt Link into removal, while Crescendo and Shatter Pulse clear blockers and String Mage moves wounds off your units to keep the board intact. **Design note:** built from Namine's Song of Soaksend box with a small Master Set and Roaring Rose splash, so it shares no cards with the other six decks.
-
----
-
-### Deck 6 — Jericho, Reborn · "Borrowed Time"
-*Time tempo-swarm · Role: tempo · Difficulty: ★★☆*
-
-**Phoenixborn:** Jericho, Reborn — Battlefield **7** / Life **17** / Spellboard **3**
-**Ability — Prepare** `[side]–[exhaust]–1 Time`: Search your draw pile for a card, then set it on top of your deck.
-
-**Dice (10):** **<img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> 7 Time · <img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> 3 Illusion** — Time runs the core; three Illusion dice fund the Mist Spirits and Figures in the Fog.
-
-| # | Card | Type | Cost | Source (Phoenixborn box) |
-|---|------|------|------|--------------------------|
-| 3 | Standard Bearer | Ally | 1 Time + 1 basic | Jericho (Breaker of Fate) |
-| 3 | Swift Messenger | Ally | 1 Time | Jericho (Breaker of Fate) |
-| 3 | Accelerate | Action | 1 Time | Jericho (Breaker of Fate) |
-| 3 | Blink | Action | 1 basic | Jericho (Breaker of Fate) |
-| 2 | Foresight | Ready | 1 Time | Jericho (Breaker of Fate) |
-| 3 | Summon Time Hopper ✦ | Ready | play `[main]` → 1 Time | Jericho (Breaker of Fate) |
-| 3 | Flash Strike | Reaction | 1 Time | Jericho (Breaker of Fate) |
-| 2 | Outmatch | Reaction | 1 Time (power) | Jericho (Breaker of Fate) |
-| 2 | Stasis | Alteration | 1 Time | Jericho (Breaker of Fate) |
-| 3 | Summon Mist Spirit ✦ | Ready | play `[main]` → 1 Illusion + 1 basic | Aradel Summergaard (Master Set) |
-| 3 | Figures in the Fog | Reaction | 1 Illusion (power) | Victoria (Duchess of Deception) |
-
-**Conjurations:** Time Hopper ×4 · Mist Spirit ×10.
-**First Five:** Summon Time Hopper · Standard Bearer · Swift Messenger · Accelerate · Summon Mist Spirit — a fast, wide start.
-
-**Game plan.** A Time-based tempo deck that gets wide quickly and unravels the opponent's attacks. Time Hoppers replicate and add status tokens to your attackers, while Mist Spirits and Swift Messengers provide free bodies. Standard Bearer, together with Flash Strike and Outmatch, turns a token-loaded attacker into a large hit; on defense, Figures in the Fog and Stasis remove an incoming threat outright. Accelerate and Foresight keep your draws flowing. **Design note:** anchored on Jericho's Breaker of Fate box with a small Master Set and Duchess of Deception splash — no overlap with the other decks.
+**Conjurations:** Frostback Bear ×2 · Gilder ×2 · Mind Fog Owl ×2 · Raptor Hatchling ×3 · Sleeping Widow ×6.
+**Starting Five:** Summon Gilder · Summon Frostback Bear · Summon Mind Fog Owl · Raptor Herder · Fire Archer.
+**Win condition.** Fast strikes — Vengeance and Sleeping Widows bursts, or a large bypass swing, once the board is manipulated into your favor.
+**Game plan.** Use cheap allies and Massive Growth (best on the Mind Fog Owl) to dictate the combat math so every attack the opponent makes tumbles their units onto the knife. Convene With Souls keeps the hand stocked with exactly the body you need, then you convert board advantage into direct damage before they recover.
 
 ---
 
-### Deck 7 — James Endersight · "The Endless Horde"
-*Ceremonial/Divine sacrifice swarm · Role: swarm/aggro · Difficulty: ★☆☆ (great for newer players)*
+### Deck 4 — Sembali Grimtongue · "The Tempest"
+*Divine/Illusion/Time good-stuff · Role: midrange · Difficulty: ★★☆*
 
-**Phoenixborn:** James Endersight — Battlefield **7** / Life **19** / Spellboard **3**
-**Ability — Convene With Souls** `[side]–[exhaust]`: Search your draw pile for an ally and put it into your hand (placing wounds on this ability equal to that ally's life).
+**Dice (10):** <img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> 4 Divine · <img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> 3 Illusion · <img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> 3 Time
+**Key ability:** *Gift of Wings* — push damage through repeatedly with your best hitter.
 
-**Dice (10):** **<img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 6 Ceremonial · <img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> 4 Divine** — Ceremonial for the sacrifice engine, Divine for the knights and recursion.
+| Qty | Card | Type | Source (pull from) |
+|---|------|------|--------------------|
+| 3 | Purify | Action | Sembali Grimtongue (Spirits of Memoria) |
+| 3 | Shepherd of Lost Souls | Ally | Sembali Grimtongue (Spirits of Memoria) |
+| 2 | Celestial Knight | Ally | Sembali Grimtongue (Spirits of Memoria) |
+| 1 | Angelic Rescue | Reaction | Sembali Grimtongue (Spirits of Memoria) |
+| 1 | Chained Creations | Action | Sembali Grimtongue (Spirits of Memoria) |
+| 2 | Crystal Archer | Ally | Dimona Odinstar (Queen of Lightning) |
+| 2 | Crystal Armor | Alteration | Dimona Odinstar (Queen of Lightning) |
+| 1 | Summon Cloudburst Gryphon ✦ | Ready | Dimona Odinstar (Queen of Lightning) |
+| 3 | Realm Walker | Ally | Hope Everthorn (Artist of Dreams) |
+| 1 | Summon Fox Spirit ✦ | Ready | Hope Everthorn (Artist of Dreams) |
+| 2 | Fate Reflection | Reaction | The Messenger of Peace (Orrick) |
+| 2 | Meteor | Action | Odette Diamondcrest (Law of Lions) |
+| 2 | Backtrack | Reaction | Lulu Firststone (Gorrenrock Survivors) |
+| 2 | Rose Fire Dancer | Ally | Saria Guideman (Master Set) |
+| 1 | Excavate | Action | The Scholar of Ruin (Rowan) |
+| 1 | Figures in the Fog | Reaction | Victoria Glassfire (Duchess of Deception) |
+| 1 | Summon Light Bringer ✦ | Ready | Astrea (Goddess of Ishra) |
 
-| # | Card | Type | Cost | Source (Phoenixborn box) |
-|---|------|------|------|--------------------------|
-| 2 | Grave Knight | Ally | 1 Ceremonial (power) + 1 Divine + 1 basic | James (Grave King) |
-| 2 | Reaping Angel | Ally | 1 Ceremonial + 1 Divine | James (Grave King) |
-| 2 | Immortal Commander | Ally | 1 Divine (power) | James (Grave King) |
-| 3 | Rising Horde | Ally | 2 Ceremonial | James (Grave King) |
-| 2 | Summon Fallen ✦ | Ready | play `[main]` → 1 Ceremonial (power) + 1 Ceremonial | James (Grave King) |
-| 2 | Chant of Sacrifice | Ready | 1 Ceremonial | James (Grave King) |
-| 2 | Rally the Troops | Action | `[side]` + X basic | James (Grave King) |
-| 2 | Reclaim Soul | Action | 1 Ceremonial | James (Grave King) |
-| 2 | Revival Pact | Action | 1 Divine | James (Grave King) |
-| 2 | Vengeance | Action | 1 Divine | James (Grave King) |
-| 3 | Anchornaut | Ally | 1 basic | Coal Roarkwin (Master Set) |
-| 3 | Iron Worker | Ally | 2 basic | Coal Roarkwin (Master Set) |
-| 3 | Dark Reaping | Action | 1 Ceremonial | Harold (Demons of Darmas) |
+**Conjurations:** Cloudburst Gryphon ×2 · Fox Spirit ×3 · Light Bringer ×2.
+**Starting Five:** Summon Light Bringer · Summon Fox Spirit · Summon Cloudburst Gryphon · Realm Walker · Crystal Archer.
+**Win condition.** Push damage through repeated Gift of Wings triggers behind oversized threats, backed by exhaustion tech.
+**Game plan.** Play the best card of three magic types and use Gift of Wings to keep your biggest threat connecting turn after turn. Purify, Backtrack, and Figures in the Fog control the board; Shepherd of Lost Souls is your preferred bounce target for repeated value.
 
-**Conjurations:** Fallen ×7.
-**First Five:** Summon Fallen · Rising Horde · Anchornaut · Iron Worker · Immortal Commander — bodies to sacrifice and a board-wide buff.
+---
 
-**Game plan.** A go-wide sacrifice deck, and one of the friendliest to pilot. Rising Horde and dying allies feed **Summon Fallen**, which produces three Fallen at a time whose damage cannot be prevented. **Immortal Commander** gives the whole board +1 attack, then Rally the Troops sacrifices spare bodies for a burst attack, while Reclaim Soul and Vengeance keep you healthy and recycle allies. James's ability tutors your finisher, and Dark Reaping turns a spare token into dice fixing. **Design note:** built from James's Grave King box with a Master Set and Demons of Darmas splash — no overlap with the other decks.
+### Deck 5 — Rowan Umberend · "The Cultist"
+*Ceremonial/Time control-payoff · Role: control · Difficulty: ★★★ (rewards patience)*
 
+**Dice (10):** <img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 3 Ceremonial · <img src="dice/time.png" width="16" alt="Time" style="vertical-align:-3px"> 3 Time · <img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> 2 Illusion · <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 2 Sympathy
+**Key ability:** *Exhume* — recur units from your discard pile.
 
+| Qty | Card | Type | Source (pull from) |
+|---|------|------|--------------------|
+| 3 | Discovery | Action | The Scholar of Ruin (Rowan) |
+| 1 | Era's End | Action | The Scholar of Ruin (Rowan) |
+| 1 | Knowledge Seeker | Ally | The Scholar of Ruin (Rowan) |
+| 1 | Summon Ruin Dweller ✦ | Ready | The Scholar of Ruin (Rowan) |
+| 3 | Abundance | Ready | Saria Guideman (Master Set) |
+| 2 | Sympathy Pain | Reaction | Saria Guideman (Master Set) |
+| 3 | Generosity | Action | The Messenger of Peace (Orrick) |
+| 2 | Rising Horde | Ally | James Endersight (Grave King) |
+| 2 | Seeds of Aggression | Action | Fiona Mercywind (Protector of Argaia) |
+| 2 | Shared Sorrow | Action | Rimea Careworn (Ghost Guardian) |
+| 1 | Summon Ancestor Spirit ✦ | Ready | Rimea Careworn (Ghost Guardian) |
+| 2 | Call Upon the Realms | Action | Maeoni Viper (Master Set) |
+| 2 | Final Cry | Reaction | Jessa Na Ni (Master Set) |
+| 2 | Fire Archer | Ally | Brennen Blackcloud (Children of Blackcloud) |
+| 1 | Summon Turtle Guard ✦ | Ready | Jericho, Reborn (Breaker of Fate) |
+| 1 | Swift Messenger | Ally | Jericho, Reborn (Breaker of Fate) |
+| 1 | Summon False Demon ✦ | Ready | Noah Redmoon (Master Set) |
+
+**Conjurations:** Ruin Dweller ×2 · Reborn Chimera ×1 · Red Raindrop ×3 · Fallen ×7 · Ancestor Spirit ×2 · Turtle Guard ×2 · False Demon ×2.
+**Starting Five:** Abundance · Rising Horde · Summon Turtle Guard · Summon Ruin Dweller · Summon False Demon.
+**Win condition.** Assemble and deploy the enormous **Reborn Chimera** — built by attaching three Red Raindrops to your Phoenixborn via Discovery — as an overwhelming late threat.
+**Game plan.** Survive the early game behind cheap blockers (Turtle Guard, Ruin Dweller, False Demon) and card draw, using Exhume to recycle units. Grind toward the Chimera while chipping in with Fallen, Ancestor Spirit, and reaction-spell reach. There's more offense here than it looks.
+
+---
+
+### Deck 6 — Tristan Darkwater · "The Archer"
+*Natural/Sympathy combo-mill · Role: combo · Difficulty: ★★★ (tight sequencing)*
+
+**Dice (10):** <img src="dice/natural.png" width="16" alt="Natural" style="vertical-align:-3px"> 4 Natural · <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 3 Sympathy · <img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> 2 Charm · <img src="dice/divine.png" width="16" alt="Divine" style="vertical-align:-3px"> 1 Divine
+**Key ability:** *Magnify* — pump a hitter for a Terrifying-damage alt line.
+
+| Qty | Card | Type | Source (pull from) |
+|---|------|------|--------------------|
+| 3 | Tsunami Shot | Action | The Ocean's Guard (Tristan) |
+| 1 | Summon Prism Tetra ✦ | Ready | The Ocean's Guard (Tristan) |
+| 3 | Rile the Meek | Action | The Messenger of Peace (Orrick) |
+| 1 | Summon Ruby Cobra ✦ | Ready | The Messenger of Peace (Orrick) |
+| 3 | Enchanted Violinist | Ally | Saria Guideman (Master Set) |
+| 3 | Hunt Master ✦ | Ally | Koji Wolfcub (Boy Among Wolves) |
+| 3 | Ice Trap | Reaction | Rin Northfell (Frostdale Giants) |
+| 1 | Summon Frostback Bear ✦ | Ready | Rin Northfell (Frostdale Giants) |
+| 3 | Molten Gold | Action | Maeoni Viper (Master Set) |
+| 1 | Summon Gilder ✦ | Ready | Maeoni Viper (Master Set) |
+| 3 | Sonic Swordsman | Ally | Echo Greystorm (Masters of Gravity) |
+| 2 | Beast Warrior | Ally | Harold Westraven (Demons of Darmas) |
+| 2 | Crescendo | Reaction | Namine Hymntide (Song of Soaksend) |
+| 1 | Nature's Wrath | Action | Xander Heartsblood (King of Titans) |
+
+**Conjurations:** Prism Tetra ×9 · Ruby Cobra ×3 · Panther Spirit ×3 · Frostback Bear ×2 · Gilder ×2.
+**Starting Five:** Summon Ruby Cobra · Summon Prism Tetra · Summon Frostback Bear · Tsunami Shot · Enchanted Violinist.
+**Win condition.** Mill — Enchanted Violinist decks the opponent out, backed by relentless pings; Magnify + Frostback Bear is a Terrifying-damage backup line.
+**Game plan.** Rain small damage (Tsunami Shot — considered by many the best card in the game — plus Nature's Wrath and Ice Trap) to hold the board and keep Enchanted Violinist alive. Let the Violinist's mill run the opponent's library down while your pings and cheap creatures deny them a foothold. The hardest deck here — plan several turns ahead.
+
+---
+
+### Deck 7 — Victoria Glassfire · "The Illusionist"
+*Illusion dice-disruption · Role: control/denial · Difficulty: ★★★ (fiddly)*
+
+**Dice (10):** <img src="dice/illusion.png" width="16" alt="Illusion" style="vertical-align:-3px"> 5 Illusion · <img src="dice/ceremonial.png" width="16" alt="Ceremonial" style="vertical-align:-3px"> 2 Ceremonial · <img src="dice/sympathy.png" width="16" alt="Sympathy" style="vertical-align:-3px"> 2 Sympathy · <img src="dice/charm.png" width="16" alt="Charm" style="vertical-align:-3px"> 1 Charm
+**Key ability:** *Surprise!* — spin and lock the opponent's dice to their weak side.
+
+| Qty | Card | Type | Source (pull from) |
+|---|------|------|--------------------|
+| 3 | Particle Shield | Reaction | Victoria Glassfire (Duchess of Deception) |
+| 3 | Summon Shadow Spirit ✦ | Ready | Victoria Glassfire (Duchess of Deception) |
+| 2 | Copycat | Reaction | Victoria Glassfire (Duchess of Deception) |
+| 2 | To Shadows | Action | Victoria Glassfire (Duchess of Deception) |
+| 3 | Dream Fracture | Ready | Hope Everthorn (Artist of Dreams) |
+| 3 | Keepsake | Ready | Hope Everthorn (Artist of Dreams) |
+| 2 | Dreamlock Mage | Ally | Hope Everthorn (Artist of Dreams) |
+| 3 | Gates Thrown Open | Action | Sembali Grimtongue (Spirits of Memoria) |
+| 2 | Chant of Erosion ✦ | Ready | The Scholar of Ruin (Rowan) |
+| 1 | Ritualist | Ally | The Scholar of Ruin (Rowan) |
+| 2 | Essence Druid | Ally | Fiona Mercywind (Protector of Argaia) |
+| 2 | Hollow | Ally | Rimea Careworn (Ghost Guardian) |
+| 1 | Summon Ancestor Spirit ✦ | Ready | Rimea Careworn (Ghost Guardian) |
+| 1 | Psychic Vampire | Ally | Harold Westraven (Demons of Darmas) |
+
+**Conjurations:** Shadow Spirit ×3 · Eroding ×3 (conjured alteration, from Chant of Erosion) · Ancestor Spirit ×2.
+**Starting Five:** Summon Shadow Spirit · Summon Ancestor Spirit · Keepsake · Dream Fracture · Gates Thrown Open.
+**Win condition.** Lock — the Keepsake + Dream Fracture + Surprise! engine repeatedly spins enemy dice to their weak side and forces meditation, strangling the opponent's economy while you chip them out.
+**Game plan.** Deny dice relentlessly so the opponent can rarely cast what they want, using Shadow Spirits and burn to close. Fiddly and sequencing-heavy — the reward is total control of the game's pace. Best in the hands of a player who enjoys puzzles.
+
+---
 
 ## Part 4 — The Simultaneous-Build Matrix
 
-The result: because every deck is anchored on its own magic type and its own Phoenixborn's expansion, they almost never reach for the same card, so **all seven decks can be built at the same time** from your single collection. Every pairwise combination is buildable:
+Here is the honest math on building these seven at the same time. Every 30-card list divides cleanly across the collection: the shared **standard** staples all fit at once, with several landing at exactly three-of-three (Nature's Wrath, Final Cry, Fire Archer, Sympathy Pain, Fate Reflection, Era's End, and Excavate are the tightest — each is used up exactly). The *only* limit on building all seven simultaneously is a handful of shared **conjuration token piles**: the physical tokens two decks would both want.
 
-| | Brennen | Maeoni | Coal | Odette | Namine | Jericho | James |
+Any two decks marked ✅ build together with zero bookkeeping. **⚠️** means the two draw from the same token pile, so only one can field it at full strength — hand the pile to whichever deck is on the table, or split the tokens.
+
+| | Maeoni | Aradel | James | Sembali | Rowan | Tristan | Victoria |
 |-------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Brennen** | — | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Maeoni**  | ✅ | — | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Coal**    | ✅ | ✅ | — | ✅ | ✅ | ✅ | ✅ |
-| **Odette**  | ✅ | ✅ | ✅ | — | ✅ | ✅ | ✅ |
-| **Namine**  | ✅ | ✅ | ✅ | ✅ | — | ✅ | ✅ |
-| **Jericho** | ✅ | ✅ | ✅ | ✅ | ✅ | — | ✅ |
-| **James**   | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | — |
+| **Maeoni**   | — | ✅ | ✅ | ✅ | ⚠️ | ⚠️ | ✅ |
+| **Aradel**   | ✅ | — | ✅ | ⚠️ | ✅ | ⚠️ | ✅ |
+| **James**    | ✅ | ✅ | — | ✅ | ✅ | ⚠️ | ✅ |
+| **Sembali**  | ✅ | ⚠️ | ✅ | — | ✅ | ✅ | ✅ |
+| **Rowan**    | ⚠️ | ✅ | ✅ | ✅ | — | ✅ | ⚠️ |
+| **Tristan**  | ⚠️ | ⚠️ | ⚠️ | ✅ | ✅ | — | ✅ |
+| **Victoria** | ✅ | ✅ | ✅ | ✅ | ⚠️ | ✅ | — |
 
-### The shared components (and why nothing runs short)
+### The six shared token piles (every ⚠️ in the table)
 
-Almost every card in these decks is used by exactly one deck, well within the three copies your collection provides. Only a small handful of cards and conjurations are drawn from a pool that more than one deck could want, and each has been allocated to stay within supply. This table lists every shared or fully-allocated component:
+| Token (source box) | You own | Both wanted by |
+|---|---|---|
+| **Prism Tetra** (The Ocean's Guard) | 9 | Aradel + Tristan |
+| **Light Bringer** (Astrea / Goddess of Ishra) | 2 | Aradel + Sembali |
+| **Frostback Bear** + **Gilder** (Rin / Frostdale + Maeoni / Master Set) | 2 + 2 | Tristan + James |
+| **Ruby Cobra** (The Messenger of Peace) | 3 | Tristan + Maeoni |
+| **Ruin Dweller** (The Scholar of Ruin) | 2 | Rowan + Maeoni |
+| **Ancestor Spirit** (Rimea / Ghost Guardian) | 2 | Rowan + Victoria |
 
-| Card / Conjuration | You own | How it's split | Total used |
-|---|---|---|---|
-| **Nature's Wrath** (Xander / King of Titans) | 3 | Odette 2 + Maeoni 1 | **3 of 3** — exact |
-| **Frostback Bear** conjuration (Rin / Frostdale) | 2 | Maeoni 2 (Odette dropped it) | 2 of 2 — exact |
-| **Three-Eyed Owl** conjuration (Saria Guideman — Master Set) | 2 | Maeoni 2 | 2 of 2 — exact |
-| **Silver Snake** conjuration (Maeoni Viper — Master Set) | 1 | Maeoni 1 | 1 of 1 — exact |
-| **Shining Hydra** conjuration (Xander / King of Titans) | 1 | Odette 1 | 1 of 1 — exact |
-| **Raptor Herder** ally + **Raptor Hatchling** (Xander / King of Titans) | 3 / 3 | Coal 3 / 3 (Odette dropped it) | 3 / 3 — exact |
-| **Light Bringer** (Astrea / Goddess of Ishra) | 2 | Odette 1 | 1 of 2 — spare |
+Tristan (the Archer) is the one deck that collides with several others — it wants the Prism Tetra, Frostback Bear/Gilder, and Ruby Cobra piles that four other decks also use. Everything else is nearly free of conflict: 15 of the 21 possible pairings build together with no thought at all.
 
-Everything else lives in a single deck and never touches another. The three newest decks build almost entirely from their own exclusive boxes — Namine from Song of Soaksend, Jericho from The Breaker of Fate, James from The Grave King — and the shared Master Set cards divide cleanly (Molten Gold, Final Cry, Sleeping Widows → Brennen; Golden Veil, Hypnotize, Root Armor → Maeoni; One Hundred Blades, Mist Typhoon, Abundance → Coal; Massive Growth → Odette; Anchornaut, Iron Worker → James; Sympathy Pain → Namine). **The only card at true capacity is Nature's Wrath (3 of 3).**
+### Recommended sets
+
+- **A clean three (for a three-player table):** **Maeoni · Aradel · James.** All mutually ✅, and a satisfying spread of aggro, toolbox-grind, and tempo.
+- **A clean four:** add **Victoria** to the three above — it conflicts with none of them. That is the largest set that builds all at once with *no* token sharing.
+- **Rotating the rest in:** to field Rowan, Sembali, or Tristan alongside the core, just check the ⚠️ cells above and hand off the single shared pile to whichever deck is on the table that night.
 
 ### If you want to swap or modify a deck
 
-The set is tuned tightly, so if you rebuild a deck or drop one in from elsewhere, watch the exact-capacity components above — especially **Nature's Wrath**, the **Frostback Bear** and **Three-Eyed Owl** conjurations, and **Raptor Herder/Hatchling**. Those are the cards where a new deck is most likely to create a shortfall. Everything with slack (or confined to one home box) is safe to borrow. And of course, if you're only putting **some** of these decks on the table on a given night, all of these constraints loosen — the tightness only matters when you want all seven at once.
-
+The set is tuned tightly. If you rebuild a deck or drop one in from the Deck Library, watch the exact-capacity **standard** cards first (Nature's Wrath, Final Cry, Fire Archer, Sympathy Pain, Fate Reflection, Era's End, Excavate — all used up to the last copy across the seven), then the six shared token piles above. Everything else has slack or is confined to a single deck's home box and is safe to borrow. And if you're only putting *some* of these decks on the table on a given night, all of these constraints loosen — the tightness only matters when you want the whole set at once.
 
 ## Part 5 — Running the Game Night
 
 A few notes for the host handing out decks to a table of friends:
 
-- **Match the deck to the player.** Newer or more casual players do best with a deck that has a simple, forgiving game plan and a strong board presence — hand them the aggressive or midrange decks rather than the combo or control decks, which reward tight sequencing and knowledge of the card pool.
+- **Match the deck to the player.** Newer or more casual players do best with a deck that has a simple, forgiving game plan and a strong board presence — hand them the aggressive or midrange decks (Maeoni, Aradel, James) rather than the combo or control decks (Tristan, Rowan, Victoria), which reward tight sequencing and knowledge of the card pool.
 - **Aggro keeps games short and lively; control makes them long and tense.** For a party where people rotate in and out, lean on the faster decks. For a focused two-player evening, the grindier matchups shine.
 - **Ashes is built for duels, but scales.** The classic format is 1v1. For three or more, teams (2v2) or a round-robin "king of the hill" both work well and let everyone try several of these decks over a night.
 - **Let people re-pilot.** These decks reward a second and third game far more than a first. Encourage players to keep a deck for a few matches before rotating.
-- **Sideboard from the shared pool.** Because your collection is complete, players can tweak a deck between games — just remember the non-overlap rule if two people want the same card.
+- **Sideboard from the shared pool.** Because your collection is complete, players can tweak a deck between games — just remember the non-overlap rule if two people want the same card or token.
 
 ---
 
 ## References & Further Reading
 
-The decks and theory in this guide draw on the following sources. The four articles you'll find most directly useful are the ones by Jayson Seth Lindley, who both catalogs the strongest tournament decks and teaches the deckbuilding fundamentals.
+The decks and theory in this guide draw on the following sources. The four articles you'll find most directly useful are the ones by Jayson Seth Lindley, who both catalogs the strongest tournament decks and teaches the deckbuilding fundamentals — and whose *Seven Constructed Ashes Decks From One Collection* is the source of the seven decks in Part 3.
 
 **Deckbuilding theory and multi-deck collections**
 - Jayson Seth Lindley — *Colorful Cubes: Foundations of Deckbuilding in Ashes Reborn* — https://jaysonsethlindley.medium.com/colorful-cubes-foundations-of-deckbuilding-in-ashes-reborn-c49cd1abbe29
@@ -392,4 +417,4 @@ The decks and theory in this guide draw on the following sources. The four artic
 - Plaid Hat Games — *Ashes Card Changes / Errata & Organized Play Updates* — https://www.plaidhatgames.com/news/2025/04/18/ashes-errata-and-organized-play-update/
 - Ashes Reborn Wiki — *Card Errata* — https://wiki.ashes.live/books/rulebook/page/card-errata
 
-*All decklists were validated against the ashes.live card database, and all card counts against the box-contents model, at the time this guide was written. A handful of cards were adjusted from their original tournament lists to respect the current (Ascendancy-era) errata and to keep all seven decks simultaneously buildable from one collection; those swaps are noted with each deck.*
+*All seven decklists were pulled verbatim from their ashes.live pages and validated to exactly 30 cards plus the conjuration pile; every card was mapped to its source box against the ashes.live card database, and all shared-card and shared-token counts were checked against the box-contents model. The Part 4 matrix reflects those counts (the source article asserts all seven coexist but does not itemize the conjuration piles — this guide does).*
